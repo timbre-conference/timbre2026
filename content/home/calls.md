@@ -28,7 +28,7 @@ design:
   <div class="col-lg-12">
 
 
-### ~~**Submission Deadline**: January 15, 2026~~ </br>~~**Notification of Acceptance**: February 25, 2026~~ </br>**Updated abstracts**: April 30, 2026</br>
+### ~~**Submission Deadline**: January 15, 2026~~ </br>**Notification of Acceptance**: March 15, 2026 </br>**Updated abstracts**: April 30, 2026</br>
 
 ### 
 ### 
