@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: The 4rd International Conference on Timbre
+title: The 4th International Conference on Timbre
 # hero_media: banner/apollo3.png
 design:
   background:
@@ -14,11 +14,11 @@ design:
     text_color_light: true
   spacing:
     padding: ["100px", "0", "100px", "0"]
-advanced:
-  css_class: fullscreen
+# advanced:
+#   css_class: fullscreen
 ---
 
-## July 2 to 4 2026
+## 2-4 July 2026
 
 ## Montréal, Canada
 

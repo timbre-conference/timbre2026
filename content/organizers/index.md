@@ -46,14 +46,37 @@ Jimmie LeBlanc, University of Montreal
 
 ### <span style="color:var(--darkBlue)">Evaluation Committee</span>
 
-Jay Marchand Knight<br>
-Malte Kob<br>
-Stephen McAdams<br>
-Lindsey Reymore<br>
-Zachary Wallmark<br>
-Charis Satis<br>
-Dominic Thibault<br>
-Robert Hasegawa<br>
-Emily Dolan<br>
-Michael Tenzer<br>
-more TBC<br>
+Andrea Gozzi
+<br>Andres Gutierrez Martinez
+<br>Asteris Zacharakis
+<br>Caroline Traube
+<br>Catherine Guastavino
+<br>Charis Charalampos
+<br>Claudia Fritz
+<br>Danae Stafanou 
+<br>Dominic Thibault
+<br>Emily Dolan
+<br>Fabrice Marandola
+<br>Gilberto Bernardes
+<br>Ichiro Fujinaga
+<br>Igor Maia
+<br>Jason Winikoff
+<br>Jay Marchand Knight
+<br>Jimmie LeBlanc
+<br>Jonathan Goldman
+<br>Joshua Rosner
+<br>Kai Siedenburg
+<br>Kit Soden
+<br>Lindsey Reymore
+<br>Malte Kob
+<br>Marcelo Caetano
+<br>Matthew Zeller
+<br>Nathalie Hérold
+<br>Nicole Biamonte
+<br>Nina Eidsheim 
+<br>Robert Hasegawa
+<br>Sølvi Ystad
+<br>Stephen McAdams
+<br>Vasileios Chatziioannou
+<br>Zachary Wallmark
+<br>Zoey Cochran
