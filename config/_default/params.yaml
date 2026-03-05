@@ -7,7 +7,6 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
   font: rose2
   font_size: m
 
@@ -18,7 +17,7 @@ marketing:
     site_type: ResearchOrganization
     local_business_type: ""
     org_name: ""
-    description: "The 3rd International Conference on Timbre, will be held in Thessaloniki, Greece, 10-12 July 2023."
+    description: "The 4rd International Conference on Timbre, will be held in Montreal, Canada, 2-4 July 2026."
     twitter: ""
   analytics:
     google_analytics: ""
@@ -47,6 +46,8 @@ header:
     show_search: false
     # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
     highlight_active_link: true
+    logo:
+      url: "/timbre2026/"
 
 # Site footer
 
@@ -79,7 +80,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: "https://github.com/timbre-conference/timbre2023"
+    url: "https://github.com/timbre-conference/timbre2026"
     content_dir: content
     branch: main
   avatar:

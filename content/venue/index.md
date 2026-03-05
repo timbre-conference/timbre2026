@@ -29,12 +29,13 @@ image:
 projects: []
 ---
 
-</br> for general inquiries please contact aszachar@mus.auth.gr
-
+</br> <!--for general inquiries please contact aszachar@mus.auth.gr-->
+<!--
 ### Teloglion Foundation of Arts
-{style="color: #8E44AD "}
+{style="color: var(--darkBlue) "}
 
 The conference will take place at the [Teloglion Foundation of Arts](https://www.teloglion.gr/en). Teloglion occupies an impressive, modern, high specifications building with a panoramic view over the Thermaic Gulf and Olympus, set in a large green park at the northeast end of the campus of the Aristotle University of Thessaloniki (AUTh). Teloglion was founded in 1972, when the art collection and the entire property of Nestor and Aliki Telloglou were donated to AUTh. Today Teloglion's collection consists of more than 7000 works which tell the story of modern Greek art up to the present day. Part of the largest university in Greece, Teloglion links research, teaching, scholarship, the child, the worker, the third age and art and culture in their broadest sense.
+
 
 | | |
 | - | - |
@@ -43,38 +44,35 @@ The conference will take place at the [Teloglion Foundation of Arts](https://www
 | **Bus stop 'Plateia Pavlou Mela'** | Bus line 15 |
 
 {{< gallery album="venue" resize_options="450x275">}} 
+-->
+## **Travel Information**
+{style="color: var(--darkBlue) "}
 
-### About the Host
-{style="color: #8E44AD "}
+### From the Airport (YUL-Trudeau)
+{style="color: var(--darkBlue) "}
 
-Founded in 1926, AUTh is the largest university in Greece. It is widely recognized as a vibrant center of learning which draws its inspiration from a long tradition of academic achievement. This can be supported, among other factors, by the fact that so much in science, as in the arts and religious studies, medicine and technology, it prides itself on its international role. The [School of Music Studies](https://www.mus.auth.gr/en/) was founded in 1984 as part of AUTh’s Faculty of Fine Arts. It is the first university music department which has operated in Greece and in general it is the first tertiary music studies institution in the history of modern Greece. The School of Music Studies features the [Sound & Music Technology Lab](https://smtl.mus.auth.gr/) which perfoms interdisciplinary research in the areas of psychoacoustics, music cognition and computational creativity.
+Montreal's primary airport is the [Trudeau International Airport](https://www.admtl.com/en-CA/) to the west of the city. From there, you can take a taxi ($49.45 flat rate) or bus to get downtown. The [747-1 bus](https://www.stm.info/en/info/networks/bus-network-and-schedules-enlightened/747-yul-montreal-trudeau-airport-downtown) runs every 10–15 minutes, 24 hours a day, and goes directly from the airport to several stops in the city center. The fare of $11.25 pays for your trip and is valid for unlimited trips on the island of Montreal for the next 24 hours. You will see the vending machines in the airport. You can also pay with exact change on the bus. To go straight to the McGill campus, get off at Réné-Lévesque/Union Street. If by chance you end up taking the 747-2, this route will end at Lionel-Groulx metro station, which is a short ride away from McGill, and the fare you paid for the bus will enable you to continue your journey by metro.
 
-### How to travel to and from Thessaloniki
-{style="color: #8E44AD "}
+### From the Train Station (Gare Centrale)
+{style="color: var(--darkBlue)"}
 
-The international [Thessaloniki Airport 'Makedonia' (SKG)](https://www.skg-airport.gr/en/) connects Thessaloniki with approximately 38 countries and more than 60 foreign cities, as well as 35 cities and islands in Greece. The airport is located just 16 km from Thessaloniki. [Bus service](https://oasth.gr/) is provided between the Airport and the city of Thessaloniki, with connections to the Central Railway Station and the 'KTEL Makedonia' Intercity Bus Station. The bus stop is located at the departures area, in front of entrance 3 of T1. Tickets can be purchased by the bus driver. ΤΑΧΙ service is available at the airport. TAXI stand is located at the arrivals area between T1 and T2 (between exit 3 and 4).
-<!-- something about Uber or Beat? -->
+Montreal's main train station, Gare Centrale, is located below the Queen Elizabeth Hotel on the corner of René-Lévesque and Mansfield. It also has an entrance at 895 de la Gauchetière ouest. The station is the major terminus for Canada's [VIA Rail](https://www.viarail.ca/en/explore-our-destinations/stations/quebec/montreal) trains from Halifax, Toronto, Ottawa, Québec and the Gaspé, as well as U.S. [Amtrak](https://www.amtrak.com/stations/mtr) trains from Washington and New York. It also provides easy access to the city's subway (the Metro), as it is situated at the Bonaventure station (on the Orange Line of the Metro).
 
-The [Central Railway Station](https://www.hellenictrain.gr/en) connects Thessaloniki with Athens (about 4 hours). Trains to the city of Larissa (90 minutes) serve several intermediate stops and provide access to the beautiful 'turquoise' beaches of Pieria. There are also daily trains to the cities of Edessa (renown for its Waterfalls natural preserve) and Florina (from where one can visit the Great Prespa and Small Prespa lakes, a beautiful pristine area shared by three countries).
+## **Getting Around Montreal**
+{style="color: var(--darkBlue)"}
 
-The ['KTEL Makedonia' Intercity Bus Station](https://ktelmacedonia.gr/en/home/) serves many domestic routes in Central Macedonia and the rest of Greece, as well as international destinations in Turkey, Bulgaria, North Macedonia, Albania, Germany, Hungary, Romania, Czechia, and Slobakia.
+Montreal is a very pedestrian- and bike-friendly city. However, if you wish to explore more of the city, using public transportation is highly encouraged. Taxi and Uber ride-share services are also widely available. (Lyft is, however, not available in Montreal.)
 
-In the summer you can catch a ferry or a cruise ship from the Port of Thessaloniki to the Sporades islands (e.g., Skopelos), the Cyclades islands (e.g., Mykonos), islands in the northeastern Aegean Sea (e.g., Lesbos, Chios, Ikaria), and even Izmir (Turkey) and Athens.
+### Bike Share
+{style="color: var(--darkBlue)"}
 
-### Chalkidiki and Mount Athos
-{style="color: #8E44AD "}
+[BIXI](https://bixi.com/en/one-way-passes/) is a public bicycle sharing program originating in Montreal. It costs $1.60 to unlock a bike plus 21¢/minute for standard bicycles or 36¢/minute for electric bicycles. Bikes can be checked out using a credit card or the BIXI app and returned to any of the hundreds of bicycle docking stations in the city. Even if you have nowhere specific to go, we highly recommend using BIXI as a way to see the city!
 
-South of Thessaloniki are the three peninsulas of Chalkidiki: Kassandra, Sithonia and Athos. Sandy beaches with crystal clear waters in counterpoint with mountainous landscapes make Chalkidiki one of the most popular summer destinations for domestic and international tourists, especially for Thessaloniki residents ("σαν τη Χαλκιδική δεν έχει"). Buses to various places in Chalkidiki depart from the ['KTEL Chalkidikis' Bus Station](https://ktel-chalkidikis.gr/en/index.html), which is located in the outskirts of Thessaloniki and can be reached from the 'KTEL Makedonia' station via the Bus line 45.
+### Metro
+{style="color: var(--darkBlue)"}
 
-The Athos peninsula is home to the autonomous monastic community of Mount Athos, comprising 20 monasteries and around 2,000 Eastern Orthodox monks from Greece and elsewhere. Sadly, only males are permitted to enter. For foreign visitors, reservations need to be made six months in advance. Information can be found [here](https://www.agioritikiestia.gr/en/visit-mount-athos).
+Public transportation in the city is handled by the _Société de transport de Montréal_ ([STM](http://www.stm.info/en)). Passes can be purchased from STM vending machines at the airport or in any metro station. Some convenience stores (dépanneurs) and pharmacies also sell passes.
 
-### Pella, Vergina, Dion and Mount Olympus
-{style="color: #8E44AD "}
-
-West of Thessaloniki are the important archeological sites of Pella and Vergina. Pella was the capital of the ancient kingdom of Macedon (or Macedonia) and the birthplace of Alexander the Great and of his father, King Phillip II. Vergina is the site of ancient Aegae, the first capital of Macedon before the shift to Pella, and later the burial place for its kings. The archeological site is famous for the Royal Tombs, including the tomb of King Phillip II.
-
-Southwest of Thessaloniki is Mount Olympus, Greece's highest mountain. The mountain is designated a National Park and a World Biosphere Reserve due to its great biodiversity and rich flora. Organized mountain refuges and various hiking and climbing routes are available. 
-
-Located under Mount Olympus is the archeological site of Dion, an ancient city dedicated to gods and culture. It is known for the Sanctuary of Zeus and a mosaic showing a scene from the life of Dionysus.
-
+<!-- 
 {{< gallery album="travel" resize_options="450x275" >}}
+-->

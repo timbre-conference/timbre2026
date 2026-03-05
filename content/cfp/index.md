@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Call for Papers"
+title: "Call for Participation"
 subtitle: ""
 summary: ""
 authors: []
@@ -35,88 +35,83 @@ resources:
       icon: word
     src: "**.docx"
 ---
+<br>We have the pleasure to announce that the 4th edition of the [International Conference on Timbre](https://timbreconference.org/) will be held in Montreal from July 2 to 4, 2026, hosted by the [University of Montreal](https://musique.umontreal.ca/accueil/) in collaboration with the research partnership [ACTOR (Analysis, Creation and Teaching of ORchestration)](https://www.actorproject.org/), and with the support of Montreal-based music research centres [CIRMMT (Centre for Interdisciplinary Research in Music Media and Technology)](https://www.cirmmt.org/en/welcome-to-cirmmt) and [RCMS (Regroupement inter-universitaire de recherche et création - musiques et sociétés)](https://regroupement-rcms.org/). 
 
-<br>Timbre 2023 seeks original, high-quality contributions in all areas related to timbre. They can be of the following nature: original research papers, including case studies; position papers; review papers; work-in-progress; session/ tutorial proposals.
+Timbre is the fundamental material that composers, improvisers, performers and sound designers shape into music and sound art. Timbre poses multifaceted research questions across the scientific spectrum, from hearing, psychology, and neuroscience to acoustics and artificial intelligence. Timbre can also be approached from the perspective of the humanities, including history, anthropology, sociology, philosophy, and sound studies. 
 
-**The [submission portal](https://easychair.org/my/conference?conf=timbre2023) is now open.**
+Bringing together musicians and researchers from these and related fields, the International Conference on Timbre aims to provide a truly interdisciplinary forum for exchanging novel perspectives and forging collaborations across different disciplines to advance our understanding of timbre from artistic, empirical, theoretical, and computational perspectives.
 
-### Important Dates
+Timbre 2026 seeks original, high-quality contributions in all areas related to timbre, including research presentations (delivered as oral presentations [20 minutes], lightning talks [5 minutes], or posters), artistic reports [20 minutes], and panel sessions, tutorials, or workshops [60-120 minutes] (details below).
 
-{style="color: #8E44AD "}
+<h3>Important Dates</h3>
 
-All deadlines are Anywhere on Earth (AoE) UTC -12.
+All deadlines are Anywhere on Earth (AoE) UTC-12.
 
-- ~~Submission Deadline: 17 February 2023~~ </br>
-- ~~Deadline Extension: 24 February 2023~~ </br>
-- ~~Notification of Acceptance: 31 March 2023~~ </br>
-- ~~Camera-ready (updated and/or extendend versions): 30 April 2023~~ </br>
-- ~~**Camera-ready (updated and/or extendend versions) Extension**: 7 May 2023~~
+* ~~**Submission deadline:** January 15, 2026~~
+* ~~**Notification of acceptance:** February 25, 2026~~
+* **Updated abstracts:** April 30, 2026
 
-### Potential Topics
+<h3>Potential Topics</h3>
 
-{style="color: #8E44AD "}
-
-Contributions are encouraged in, but not limited to, the following topics:
+Contributions are encouraged in, but not limited to, the following topics and disciplines :
 
 <div class="row">
-  <div class="col-lg-7">
+  <div class="col-lg-6">
 
-- Acoustics and psychoacoustics
-- Audiological perspectives
-- Computational and AI insights and applications
-- Embodiment and crossmodality
-- Ethnomusicological perspectives and case studies
-- Historical perspectives
-- Instruments and organology, acoustic and digital
-</div>
-  <div class="col-lg-5">
-
-- Music analysis
-- Neuroscientific approaches
 - Orchestration and composition
-- Pedagogical perspectives
+- Electroacoustic music and sound art
+- Instrumental/vocal performance and improvisation
+- Sound recording
+- Room acoustics
+- Psychoacoustics and auditory perception
+- Analysis of creative processes 
+- Embodiment and crossmodality
+- Neuroscientific approaches
+- Gestural control and biomechanical approaches 
+- Organology, lutherie and acoustic instrument design
+- Human-computer interaction and digital instrument design
+</div>
+  <div class="col-lg-6">
+
+- Computational and AI insights and applications
+- Sound synthesis and processing
+- Notation and graphical representations
 - Semantics and semiotics
-- Singing voice and speech
-- Sound synthesis and design
+- Music theory and analysis
+- Popular music and jazz studies
+- Sound studies
+- Sound ecology, ecomusicology, zoomusicology 
+- Historical perspectives
+- Aesthetic and philosophical perspectives
+- Ethnomusicological, cultural, and sociological perspectives
+- Pedagogical perspectives
 </div>
 </div>
 
-### Submission Types
+<h3>Call for Participation</h3>
 
-{style="color: #8E44AD "}
+Timbre 2026 invites submissions in the following formats. 
 
-Timbre 2023 invites submissions in one of the following formats:
+**Research presentations**
+* Contribution: Original research, including case studies, position papers, and review papers.
+* Presentation: Authors should indicate in their abstracts the mode of presentation (20-minute presentation, 5-minute lightning talk, or poster) that best fits their contribution. Final presentation mode will be based on author request, reviews, and program constraints.
 
-- **Regular papers**
+**Artistic reports (including musical performance or sound diffusion)**
+* Contribution: Reports on creative work, presented in one of the following formats:
+  * Lecture-recitals (20 minutes, instrumental/vocal/electroacoustic timbre in practice)
+  * Reports on research-creation projects (20 minutes, creative processes in composition and improvisation)
+* Presentation: This format can include the presentation of up to 10 minutes of  musical works or excerpts, either performed live or diffused on the sound system. Authors should indicate in their abstracts if they would also like to propose an acoustic or electroacoustic work for inclusion in a concert during the conference, pending selection by the committee and availability of concert spaces. NB: Authors will be responsible for providing any necessary performers.    
 
-  - _Submission_: Abstracts up to 2 pages (500-1000 words)
-  - _Contribution_: Original research, including case studies, position papers, and review papers
-  - _Presentation_: Oral presentation or poster. Authors are encouraged to indicate in their abstracts the mode of presentation that best fits their contribution. Final presentation mode will be based on author request, reviews, and program constraints
-  - _Camera-ready_: Accepted regular submissions can be expanded to 5 pages. The updated/expanded version will be included in the conference proceedings
+**Panel sessions and workshops**
+* Contribution: Longer sessions by one or more presenters, for example:
+  * Multi-author panels discussions or roundtables
+  * Pedagogy conversations
+  * Professional development sessions
+  * Lecture-demos for technological tools
+* Presentation: Sessions/tutorials/workshops typically last 60-120 minutes. Authors should indicate upon submission how long they plan their session/tutorial/workshop to last. The final duration will be determined by the scientific committee based on the requested duration and the program constraints.
 
-- **Sessions or tutorials**
+<h3>Submission</h3>
 
-  - _Submission_: Abstracts up to 2 pages (500-1000 words)
-  - _Contribution_: We encourage a broad range of contributions. Sessions/tutorials might include:
-    - Pedagogy conversations
-    - Professional development sessions
-    - Lecture-demos for technological tools
-    - Lecture-recitals (timbre in practice)
-  - _Presentation_: Sessions/tutorials typically last 1-2 hours. Authors should indicate upon submission how long they plan their session/tutorial to last. Final duration of sessions/tutorials will depend on the program, trying to accommodate the requested duration and the program constraints
-  - _Camera-ready_: Accepted sessions/tutorials may be expanded to 5 pages. The updated/expanded version will be included in the conference proceedings. Additionally, authors of accepted sessions/tutorials must provide a 250-word abstract to promote their session/tutorial on the conference website
+For all of the formats above, please submit an abstract of a maximum of 4000 characters (500 to 700 words), to be accompanied with a list of references, through [this form](https://forms.office.com/r/QmkRrnRCH2) by January 15, 2026. Proposals will be evaluated anonymously and abstracts should not include any indication of the author’s identity. References to the author’s own work should be in the third person. 
 
-- **Work-in-progress**
-  - _Submission_: A 250-word abstract plus a list of questions raised and/or currently being addressed by the work
-  - _Contribution_: Work-in-progress submissions are expected to contain thought-provoking ideas that can potentially incite discussion and stimulate cross-pollination between communities. We particularly encourage work-in-progress submissions from “newcomers” – masters or early-stage doctoral students without a supervisor who is part of the timbre community, especially from underrepresented groups
-  - _Presentation_: Work-in-progress submissions will be presented as posters in a dedicated session
-  - _Camera-ready_: Accepted work-in-progress abstracts can be updated but not be expanded beyond the 250-word limit (plus questions). The updated version will be included in the conference proceedings
-
-All submissions will be peer-reviewed by at least two members of the program committee. Submissions must conform to the <a href="./doc/timbre2023_template.dotx" >template</a>.
-
-Please contact the <a href="mailto:caetano@prism.cnrs.fr,zwallmar@uoregon.edu">Programme Chairs</a> should you have any questions.
-
-### Environmental Statement
-
-{style="color: #8E44AD "}
-
-The steering committee of the International Conference on Timbre and the Timbre 2023 local chairs are committed to lessening the environmental impact of the conference. We pledge to offset/ compensate for at least a portion of the carbon footprint generated as a result of the conference's activity (e.g., air travel, physical infrastructure) by investing a possible surplus of the budget in initiatives such as [Eden Reforestation Projects](https://www.edenprojects.org/) or [Co2 Compensate](https://www.co2compensate.org/home), or other similar schemes.
+We particularly encourage submissions from “newcomers” (masters or early-stage doctoral students) and scholars from underrepresented groups.

@@ -1,11 +1,24 @@
 // Extra custom css
-
-body {
-  background-image: linear-gradient(90deg, #FDF2E9, #F4ECF7);
+//html{
+//        scroll-behavior: smooth;
+//}
+:root {
+        --tigerOrange : #CC7400;
+        --goldenOrange: #FB8500;
+        --brightAmber: #FFB703;
+        --darkBlue: #023047;
+        --lightSeaGreen: #219EBC;
+        --paleSky: #c1ddea;
+        --veryPaleBlue: #eceff7;
 }
 
-h3 {
+body {
+  background-image: linear-gradient(90deg, var(--paleSky), var(--veryPaleBlue));
+}
+
+h3, h4 {
     font-family: "Roboto";
+    font-weight: 300;
 }
 
 .navbar {
