@@ -3,8 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: The 4th International Conference on Timbre
-hero_media: banner/xenakis-polytopes-montreal-Study-light-score-05.png
-# hero_media: banner/test.png
+hero_media: banner/xenakis-polytopes-montreal-Sketch-of-lighting-cables-over-five-floors-of-the-French-Pavilion-04-blanc.png
 design:
   background:
     # image: banner/cubes3.jpeg
