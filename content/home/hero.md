@@ -3,7 +3,8 @@ widget: hero
 headless: true
 weight: 10
 title: The 4th International Conference on Timbre
-# hero_media: banner/apollo3.png
+hero_media: banner/xenakis-polytopes-montreal-Study-light-score-05.png
+# hero_media: banner/test.png
 design:
   background:
     # image: banner/cubes3.jpeg
@@ -22,4 +23,4 @@ design:
 
 ## Montréal, Canada
 
-### Hosted by the [University of Montreal](https://umontreal.ca) in collaboration with the research partnership [ACTOR](https://www.actorproject.org/) (Analysis, Creation and Teaching of ORchestration), and with the support of Montreal-based music research centres [CIRMMT](https://www.cirmmt.org/en/welcome-to-cirmmt) (Centre for Interdisciplinary Research in Music Media and Technology) and [RCMS](https://regroupement-rcms.org) (Regroupement inter-universitaire de recherche et création • musiques et sociétés).
+### Hosted by the [Faculty of music](https://musique.umontreal.ca/en/about/who-are-we/), [University of Montreal](https://umontreal.ca) in collaboration with the research partnership [ACTOR](https://www.actorproject.org/) (Analysis, Creation and Teaching of ORchestration), and with the support of Montreal-based music research centres [CIRMMT](https://www.cirmmt.org/en/welcome-to-cirmmt) (Centre for Interdisciplinary Research in Music Media and Technology) and [RC•MS](https://regroupement-rcms.org) (Regroupement inter-universitaire de recherche et création • musiques et sociétés).
