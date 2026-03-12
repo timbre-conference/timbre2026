@@ -11,3 +11,4 @@ assets/jsconfig.json
 # This will effectively ignore the _aux folder, which contains auxiliary files not intended to be commited
 /_*/
 *.DS_Store
+**/.DS_Store

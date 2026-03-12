@@ -77,10 +77,20 @@ main:
     url: "#host"
     weight: 30
 
-  - name: Venue & Travel
+  - name: Venue
     parent: "attend"
-    url: venue
+    url: "/venue"
     weight: 40
+
+  - name: Travel
+    parent: "attend"
+    url: "/travel"
+    weight: 50
+  
+  - name: Lodging
+    parent: "attend"
+    url: "/Lodging"
+    weight: 60
 
   - name: Sponsors
     identifier: "sponsors"

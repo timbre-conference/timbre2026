@@ -39,6 +39,12 @@ Nicolas Bernier, University of Montreal </br>
 Pierre Michaud, University of Montreal <br>
 Robert Hasegawa, McGill University
 
+### <span style="color:var(--darkBlue)">Programme Co-Chairs</span>
+
+Caroline Traube, University of Montreal </br>
+Jimmie LeBlanc, University of Montreal</br>
+Robert Hasegawa McGill University
+
 ### <span style="color:var(--darkBlue)">Steering Committee</span>
 
 [Asterios Zacharakis](https://asteriszacharakis.wixsite.com/science) (Co-Chair Timbre 2020; Chair Timbre 2023)
@@ -47,11 +53,6 @@ Robert Hasegawa, McGill University
 <br>[Lindsey Reymore](https://www.lindseyreymore.com/)
 <br>[Stephen McAdams](https://www.mcgill.ca/mpcl/) (Chair Timbre 2018)
 <br>[Zachary Wallmark](https://musicanddance.uoregon.edu/directory/profiles/all/zwallmar) (Paper Co-Chair Timbre 2023)
-
-### <span style="color:var(--darkBlue)">Programme Co-Chairs</span>
-
-Caroline Traube, University of Montreal </br>
-Jimmie LeBlanc, University of Montreal
 
 ### <span style="color:var(--darkBlue)">Evaluation Committee</span>
 
@@ -74,7 +75,6 @@ Andrea Gozzi
 <br>Jason Winikoff
 <br>Jay Marchand Knight
 <br>Jimmie LeBlanc
-<br>Jonathan Goldman
 
 </div>
 <div class="col-lg-6">

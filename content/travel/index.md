@@ -1,24 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Transportation and Accommodation"
+title: "Travel Information"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2022-05-05T16:45:50-04:00
-lastmod: 2022-05-05T16:45:50-04:00
+date: 2022-05-05T16:47:18-04:00
+lastmod: 2022-05-05T16:47:18-04:00
 featured: false
 draft: false
-
-# type: widget_page
+share: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  placement: 3
   caption: ""
   focal_point: ""
   preview_only: false
@@ -29,69 +27,52 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-
-design:
-  columns: "2"
 ---
 
-{{< toc >}}
+</br> <!--for general inquiries please contact aszachar@mus.auth.gr-->
+<!--
+### Teloglion Foundation of Arts
+{style="color: var(--darkBlue) "}
 
----
+The conference will take place at the [Teloglion Foundation of Arts](https://www.teloglion.gr/en). Teloglion occupies an impressive, modern, high specifications building with a panoramic view over the Thermaic Gulf and Olympus, set in a large green park at the northeast end of the campus of the Aristotle University of Thessaloniki (AUTh). Teloglion was founded in 1972, when the art collection and the entire property of Nestor and Aliki Telloglou were donated to AUTh. Today Teloglion's collection consists of more than 7000 works which tell the story of modern Greek art up to the present day. Part of the largest university in Greece, Teloglion links research, teaching, scholarship, the child, the worker, the third age and art and culture in their broadest sense.
 
-## Getting to Montréal
 
-For attendees and participants arriving from out of town, Montréal is best reached by air, train or bus.
+| | |
+| - | - |
+| **Address** | [Agiou Dimitriou 159Α, 54636 Thessaloniki](https://goo.gl/maps/WHmEgnmEsoAr13bA6) |
+| **Bus stop 'Teloglio'** | Bus lines 24, 17, 37 |
+| **Bus stop 'Plateia Pavlou Mela'** | Bus line 15 |
 
-<!-- ### Air  -->
+{{< gallery album="venue" resize_options="450x275">}} 
+-->
+## **Travel Information**
+{style="color: var(--darkBlue) "}
 
-{{< spoiler text = "Air" >}}
+### From the Airport (YUL-Trudeau)
+{style="color: var(--darkBlue) "}
 
-Montréal is serviced by the [Montréal-Trudeau International Airport](https://www.admtl.com/en) located in Dorval, about 30 minutes from downtown.
-There are several options for transportation between the airport and downtown:
+Montreal's primary airport is the [Trudeau International Airport](https://www.admtl.com/en-CA/) to the west of the city. From there, you can take a taxi ($49.45 flat rate) or bus to get downtown. The [747-1 bus](https://www.stm.info/en/info/networks/bus-network-and-schedules-enlightened/747-yul-montreal-trudeau-airport-downtown) runs every 10–15 minutes, 24 hours a day, and goes directly from the airport to several stops in the city center. The fare of $11.25 pays for your trip and is valid for unlimited trips on the island of Montreal for the next 24 hours. You will see the vending machines in the airport. You can also pay with exact change on the bus. To go straight to the McGill campus, get off at Réné-Lévesque/Union Street. If by chance you end up taking the 747-2, this route will end at Lionel-Groulx metro station, which is a short ride away from McGill, and the fare you paid for the bus will enable you to continue your journey by metro.
 
-- public taxi
-- Uber
-- 747 express bus operated by the STM ([information](https://www.admtl.com/en/access/transports/buses-747-express))
-- Hotels shuttle (check with your hotel)
+### From the Train Station (Gare Centrale)
+{style="color: var(--darkBlue)"}
 
-{{< /spoiler >}}
+Montreal's main train station, Gare Centrale, is located below the Queen Elizabeth Hotel on the corner of René-Lévesque and Mansfield. It also has an entrance at 895 de la Gauchetière ouest. The station is the major terminus for Canada's [VIA Rail](https://www.viarail.ca/en/explore-our-destinations/stations/quebec/montreal) trains from Halifax, Toronto, Ottawa, Québec and the Gaspé, as well as U.S. [Amtrak](https://www.amtrak.com/stations/mtr) trains from Washington and New York. It also provides easy access to the city's subway (the Metro), as it is situated at the Bonaventure station (on the Orange Line of the Metro).
 
-<!-- ### Train  -->
+## **Getting Around Montreal**
+{style="color: var(--darkBlue)"}
 
-{{< spoiler text = "Train" >}}
+Montreal is a very pedestrian- and bike-friendly city. However, if you wish to explore more of the city, using public transportation is highly encouraged. Taxi and Uber ride-share services are also widely available. (Lyft is, however, not available in Montreal.)
 
-Trains from all major Canadian cities, as well as from New York and points south, arrive at [Gare Central (Central Station)](https://garecentrale.ca/en/) in downtown Montréal. It is located on the Bonaventure station of the Orange Line subway.
+### Bike Share
+{style="color: var(--darkBlue)"}
 
-{{< /spoiler >}}
+[BIXI](https://bixi.com/en/one-way-passes/) is a public bicycle sharing program originating in Montreal. It costs $1.60 to unlock a bike plus 21¢/minute for standard bicycles or 36¢/minute for electric bicycles. Bikes can be checked out using a credit card or the BIXI app and returned to any of the hundreds of bicycle docking stations in the city. Even if you have nowhere specific to go, we highly recommend using BIXI as a way to see the city!
 
-{{< spoiler text="Bus" >}}
+### Metro
+{style="color: var(--darkBlue)"}
 
-Bus lines to and from several regional Canadian and U.S. cities operate from [Gare d'Autocars de Montréal](https://www.gamtl.com/en/bienvenue/), which connects to the Orange, Green and Yellow subway lines at the Berri-UQAM station.
+Public transportation in the city is handled by the _Société de transport de Montréal_ ([STM](http://www.stm.info/en)). Passes can be purchased from STM vending machines at the airport or in any metro station. Some convenience stores (dépanneurs) and pharmacies also sell passes.
 
-{{< /spoiler >}}
-
----
-
-## Travel within Montréal
-
-Transportation options within the city include the STM [metro (subway)](https://www.stm.info/en/info/networks/metro) and [bus](https://www.stm.info/en/info/networks/bus) services, [public taxis](https://bonjour.taxi/en/), [Uber](https://www.uber.com/global/en/cities/montreal/), and [Bixi](https://bixi.com/en) - Montréal's city bike rental service.
-
-{{< figure src="bixi.jpg" caption="Biki city bikes are a great way to get around Montréal in the summer." >}}
-
-The conference will be held at two venues, McGill University and the Université de Montréal. Both are easily accessible by public transit. See the [venues]({{< relref "../venue" >}}) page for more information.
-
----
-
-## Accommodations
-
-{{< figure src="hotel10.jpeg" caption="Hotel 10" >}}
-
-There are a wide variety of accommodations to choose from around Montréal. Given the two venues, we suggest choosing a hotel in the downtown corridor, which is nearby McGill University, and choosing public transportation or taxi to get to the Université de Montréal.
-
-### Recommended hotels
-
-{{< figure src="cantlie.jpg" caption="Hotel Le Cantlie Suites" >}}
-
-Special rates are available at participating hotels as part of the [McGill Guest Program](https://www.mcgill.ca/accommodations/mohp/downtown). See the [website](https://www.mcgill.ca/accommodations/mohp/downtown) for a list of hotels and instructions on how to get the preferred rate.
-
-In particular, CIRMMT recommends the [Cantlie Suites](http://www.hotelcantlie.com/) and [Hotel 10](https://www.hotel10Montréal.com/), both of which are a short walk away from the McGill campus.
+<!-- 
+{{< gallery album="travel" resize_options="450x275" >}}
+-->
