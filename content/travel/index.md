@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Travel Information"
+title: "Travel"
 subtitle: ""
 summary: ""
 authors: []
