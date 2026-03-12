@@ -43,7 +43,7 @@ Robert Hasegawa, McGill University
 
 Caroline Traube, University of Montreal </br>
 Jimmie LeBlanc, University of Montreal</br>
-Robert Hasegawa McGill University
+Robert Hasegawa, McGill University
 
 ### <span style="color:var(--darkBlue)">Steering Committee</span>
 
