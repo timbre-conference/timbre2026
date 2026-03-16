@@ -33,7 +33,7 @@ main:
 #     url: "cfs/"
 #     weight: 30
 
-  - name: Keynotes speakers
+  - name: Keynote speakers
     url: "keynotes/"
     weight: 10
     parent: "program"
