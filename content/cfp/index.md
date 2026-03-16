@@ -7,8 +7,8 @@ summary: ""
 authors: []
 tags: []
 categories: []
-# date: 2022-05-05T16:47:18-04:00
-# lastmod: 2022-05-05T16:47:18-04:00
+date: 2022-05-05T16:47:18-04:00
+lastmod: 2026-04-05T16:47:18-04:00
 featured: false
 draft: false
 share: false
@@ -48,7 +48,7 @@ Timbre 2026 seeks original, high-quality contributions in all areas related to t
 All deadlines are Anywhere on Earth (AoE) UTC-12.
 
 * ~~**Submission deadline:** January 15, 2026~~
-* **Notification of acceptance:** March 15, 2026
+* ~~**Notification of acceptance:** March 15, 2026~~
 * **Updated abstracts:** April 30, 2026
 
 <h3>Potential Topics</h3>

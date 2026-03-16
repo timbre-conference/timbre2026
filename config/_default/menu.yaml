@@ -33,19 +33,20 @@ main:
 #     url: "cfs/"
 #     weight: 30
 
-#   - name: Keynotes
-#     url: "keynotes/"
-#     weight: 40
+  - name: Keynotes speakers
+    url: "keynotes/"
+    weight: 10
+    parent: "program"
 
-#   - name: Program
-#     identifier: "program"
-#     url: "program/"
-#     weight: 50
+  - name: Program
+    identifier: "program"
+    url: "program/"
+    weight: 50
 
-#   - name: Schedule
-#     parent: "program"
-#     url: "schedule/"
-#     weight: 20
+  - name: Schedule
+    parent: "program"
+    url: "schedule/"
+    weight: 20
 
 #   - name: Summer School (external)
 #     parent: "program"
