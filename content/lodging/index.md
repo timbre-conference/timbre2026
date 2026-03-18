@@ -36,3 +36,16 @@ The double rooms can be booked only after April 1st.<br><br>
 Note that Montréal weather can be very hot in the summer and that these rooms have no air conditioning but we were assured that they are well ventilated and equipped with portable fans.  
 
 {{< gallery album="lodging" resize_options="450x275" >}}
+<br>
+
+Since there is now a direct connection through the Réseau express métropolitain (REM) between Edouard-Montpetit metro station on the blue line (close to the Faculty of music) and McGill metro Station on the orange line, the area of McGill University, in downtown Montreal is also a good option. 
+
+During the summer, McGill University Student Housing and Hospitality Services opens its doors to the public and offers a variety of lodging options with discount rates for students: https://www.mcgill.ca/accommodations/summer
+
+ * Royal Victoria College: https://www.mcgill.ca/accommodations/summer/rvc
+ * Carrefour Sherbrooke: https://www.mcgill.ca/accommodations/summer/cs
+ * La Citadelle: https://www.mcgill.ca/accommodations/summer/lc
+
+Also, the 4-star [Hotel Le Cantlie](https://www.hotelcantlie.com/about-us) is offering a discount rate to Timbre 2026 conference participants. The rate will be CAD 249 plus applicable taxes per night for the studios with either one king bed or two queen beds, in single or double occupancy. For additional occupant(s), there will be an extra charge of CAD 30 plus applicable taxes per person per night. Regarding extra nights, this offer can be extended to three nights prior and three nights after the event, subject to availability.
+
+If you are interested in this lodging option, you may contact the Reservation Manager directly by email (resman@hotelcantlie.com) or by phone (514-842-2000, extension 2711), who will assist you with your reservations. The code to be used is 020726TIMBRE and the reference number is 744655. 

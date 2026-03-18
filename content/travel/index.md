@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date: 2022-05-05T16:47:18-04:00
-lastmod: 2022-05-05T16:47:18-04:00
+lastmod: 2026-04-17T14:23:18-04:00
 featured: false
 draft: false
 share: false
@@ -51,7 +51,7 @@ The conference will take place at the [Teloglion Foundation of Arts](https://www
 ### From the Airport (YUL-Trudeau)
 {style="color: var(--darkBlue) "}
 
-Montreal's primary airport is the [Trudeau International Airport](https://www.admtl.com/en-CA/) to the west of the city. From there, you can take a taxi ($49.45 flat rate) or bus to get downtown. The [747-1 bus](https://www.stm.info/en/info/networks/bus-network-and-schedules-enlightened/747-yul-montreal-trudeau-airport-downtown) runs every 10–15 minutes, 24 hours a day, and goes directly from the airport to several stops in the city center. The fare of $11.25 pays for your trip and is valid for unlimited trips on the island of Montreal for the next 24 hours. You will see the vending machines in the airport. You can also pay with exact change on the bus. To go straight to the McGill campus, get off at Réné-Lévesque/Union Street. If by chance you end up taking the 747-2, this route will end at Lionel-Groulx metro station, which is a short ride away from McGill, and the fare you paid for the bus will enable you to continue your journey by metro.
+Montreal's primary airport is the [Trudeau International Airport](https://www.admtl.com/en-CA/) to the west of the city. From there, you can take a taxi ($49.45 flat rate) or bus to get downtown. The [747-1 bus](https://www.stm.info/en/info/networks/bus-network-and-schedules-enlightened/747-yul-montreal-trudeau-airport-downtown) runs every 10–15 minutes, 24 hours a day, and goes directly from the airport to several stops in the city center. The fare of $11.25 pays for your trip and is valid for unlimited trips on the island of Montreal for the next 24 hours. You will see the vending machines in the airport. You can also pay with exact change on the bus. If by chance you end up taking the 747-2, this route will end at Lionel-Groulx metro station and the fare you paid for the bus will enable you to continue your journey by metro.
 
 ### From the Train Station (Gare Centrale)
 {style="color: var(--darkBlue)"}
@@ -72,6 +72,8 @@ Montreal is a very pedestrian- and bike-friendly city. However, if you wish to e
 {style="color: var(--darkBlue)"}
 
 Public transportation in the city is handled by the _Société de transport de Montréal_ ([STM](http://www.stm.info/en)). Passes can be purchased from STM vending machines at the airport or in any metro station. Some convenience stores (dépanneurs) and pharmacies also sell passes.
+
+{{< figure src="travel/PastedGraphic-1.jpeg" alt="Montreal metro map" width="100%" caption="Montreal metro map" >}}
 
 <!-- 
 {{< gallery album="travel" resize_options="450x275" >}}
