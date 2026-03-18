@@ -73,7 +73,7 @@ Montreal is a very pedestrian- and bike-friendly city. However, if you wish to e
 
 Public transportation in the city is handled by the _Société de transport de Montréal_ ([STM](http://www.stm.info/en)). Passes can be purchased from STM vending machines at the airport or in any metro station. Some convenience stores (dépanneurs) and pharmacies also sell passes.
 
-{{< figure src="travel/PastedGraphic-1.jpeg" alt="Montreal metro map" width="100%" caption="Montreal metro map" >}}
+{{< figure src="travel/mtl-metro-arrow.jpg" alt="Montreal metro map" width="100%" caption="Montreal metro map" >}}
 
 <!-- 
 {{< gallery album="travel" resize_options="450x275" >}}
