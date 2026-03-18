@@ -27,6 +27,20 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+gallery_item:
+- album: "lodging2"
+  image: "cantlie-studio-1-king.jpg"
+  caption: "Le Cantlie, studio one king bed"
+- album: "lodging2"
+  image: "cantlie-studio-2-queen.jpg"
+  caption: "Le Cantlie, studio two queen beds"
+- album: "lodging2"
+  image: "lacitadelle_double_room.jpg"
+  caption: "La Citadelle, double room"
+- album: "lodging2"
+  image: "single_citadelle.jpg"
+  caption: "La Citadelle, single room"
 ---
 
 We have a preferential rate agreement (starting at $63+tax) with the ZUM MTL summer student hostel, located on Université de Montréal campus.<br><br>
@@ -49,3 +63,5 @@ During the summer, McGill University Student Housing and Hospitality Services op
 Also, the 4-star [Hotel Le Cantlie](https://www.hotelcantlie.com/about-us) is offering a discount rate to Timbre 2026 conference participants. The rate will be CAD 249 plus applicable taxes per night for the studios with either one king bed or two queen beds, in single or double occupancy. For additional occupant(s), there will be an extra charge of CAD 30 plus applicable taxes per person per night. Regarding extra nights, this offer can be extended to three nights prior and three nights after the event, subject to availability.
 
 If you are interested in this lodging option, you may contact the Reservation Manager directly by email (resman@hotelcantlie.com) or by phone (514-842-2000, extension 2711), who will assist you with your reservations. The code to be used is 020726TIMBRE and the reference number is 744655. 
+
+{{< gallery album="lodging2" resize_options="450x275" >}}
