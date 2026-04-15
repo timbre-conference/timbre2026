@@ -49,7 +49,7 @@ All deadlines are Anywhere on Earth (AoE) UTC-12.
 
 * ~~**Submission deadline:** January 15, 2026~~
 * ~~**Notification of acceptance:** March 15, 2026~~
-* **Updated abstracts:** April 30, 2026
+* **Updated abstracts/papers**: May 15, 2026
 
 <h3>Potential Topics</h3>
 
