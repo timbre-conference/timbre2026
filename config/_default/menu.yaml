@@ -66,12 +66,8 @@ main:
   - name: Attend
     identifier: "attend"
     url: "attend/"
-    weight: 60
+    weight: 50
 
-#   - name: Registration
-#     parent: "attend"
-#     url: registration
-#     weight: 10
 
 #   - name: Accommodation
 #     parent: "attend"
@@ -81,21 +77,26 @@ main:
   - name: Location
     parent: "attend"
     url: "#host"
-    weight: 30
+    weight: 10
 
   - name: Venue
     parent: "attend"
     url: "/venue"
-    weight: 40
+    weight: 20
 
   - name: Travel
     parent: "attend"
     url: "/travel"
-    weight: 50
+    weight: 30
   
   - name: Lodging
     parent: "attend"
     url: "/Lodging"
+    weight: 40
+
+  - name: Registration
+    parent: "attend"
+    url: registration
     weight: 60
 
   - name: Sponsors

@@ -29,12 +29,16 @@ image:
 projects: []
 ---
 
+For each type of presentation (oral presentation or poster), at least one author must register (Regular or Student/Independent artist registration) by the Early Bird deadline. Accepted submissions without an appropriate registration will be withdrawn from the program and proceedings.
+
+The registration fees can be paid by credit card. Please click on the fee corresponding to your registration category in the table below to access the paiement platform. 
+
 </br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:inherit;font-size:inherit;background-color:white;
   overflow:hidden;padding:10px 9px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:inherit;font-size:inherit;color:#8E44AD;  background-image: linear-gradient(90deg, #fbe4d2, #eadaef);
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:inherit;font-size:inherit;color: var(--veryPaleBlue);  background-image: linear-gradient(180deg, var(--darkBlue), var(--lightSeaGreen));
   font-weight:normal;overflow:hidden;padding:10px 9px;word-break:normal;}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
 <div class="tg-wrap"><table class="tg" style="undefined;table-layout: fixed; width: 820px">
@@ -47,129 +51,50 @@ projects: []
 <thead>
   <tr>
     <th><b>Registration Categories</b></th>
-    <th><b><s>Early Bird fee</s></b></th>
-    <th><b>Full fee</b></th>
+    <th><b>Early Bird fee<br>(by May 15)</b></th>
+    <th><b>Full fee<br>(by June 30)</b></th>
     <th><b>Onsite fee</b></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><b>Regular</b> (Conference only, all Days)</td>
-    <td><s>€250</s></td>
-    <td>€300</td>
-    <td>€350</td>
-  </tr>
-   <tr>
-    <td><b>Regular</b> (Conference only, Days 1 or 3 only)</td>
-    <td></td>
-    <td>€100</td>
-    <td>€120</td>
-  </tr>
-   <tr>
-    <td><b>Regular</b> (Conference only, Day 2 only)</td>
-    <td></td>
-    <td>€120</td>
-    <td>€140</td>
+    <td><b>Regular</b></td>
+    <td><a href=" https://fmu-commerceweb.umontreal.ca/udem_fmu/app/catalogue/produits/product/fr/a/key/Registration_fees_timbre_conf_reg_eb" target="_blank">$275</a></td>
+    <td>$300</td>
+    <td>$325</td>
   </tr>
   <tr>
-    <td><b>Student</b> (Conference only, all Days)</td>
-    <td><s>€150</s></td>
-    <td>€200</td>
-    <td>€250</td>
+    <td><b>Students, independent artists</b></td>
+    <td><a href="https://fmu-commerceweb.umontreal.ca/udem_fmu/app/catalogue/produits/product/fr/a/key/Registration_fees_timbre_conf_students_indep_art_eb" target="_blank">$125</a></td>
+    <td>$150</td>
+    <td>$175</td>
   </tr>
-   <tr>
-    <td><b>Student</b> (Conference only, Days 1 or 3 only)</td>
-    <td></td>
-    <td>€60</td>
-    <td>€80</td>
-  </tr>
-   <tr>
-    <td><b>Student</b> (Conference only, Day 2 only)</td>
-    <td></td>
-    <td>€80</td>
-    <td>€100</td>
-  </tr>
+   
   <tr>
-    <td><s><b>Student</b> (Summer School, includes conference)</s></td>
-    <td></td>
-    <td><s>€300</s></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><b>Gold Sponsor</b> (includes 1 regular registration)</td>
-    <td></td>
-    <td>€1500</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><b>Silver Sponsor</b> (includes 1 regular registration)</td>
-    <td></td>
-    <td>€800</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><b>Bronze Sponsor</b> (includes 1 regular registration)</td>
-    <td></td>
-    <td>€500</td>
-    <td></td>
+    <td><b>CIRMMT and RCMS student members</b></td>
+    <td><a href="https://fmu-commerceweb.umontreal.ca/udem_fmu/app/catalogue/produits/product/fr/a/key/Registration_fees_timbre_conf_CIRMMT_RCMS_members_eb" target="_blank">$75</a></td>
+    <td>$100</td>
+    <td>$125</td>
   </tr>
   <tr>
     <th colspan="4"><b>Important Dates</b></th>
   </tr>
   <tr>
-    <td><s><b>Full Registration</b> (Summer School students only)</s></td>
-    <td colspan="3"><s>1 March - 30 April 2023</s></td>
+    <td><b>Submission of camera-ready paper</b></td>
+    <td colspan="3">15 May 2026</td>
   </tr>
   <tr>
-    <td><s><b>Early Bird Registration</b> (Conference only)</s></td>
-    <td colspan="3"><s>1 April - 14 May 2023</s></td>
+    <td><b>Early Bird Registration</b></td>
+    <td colspan="3">16 April - 15 May 2026</td>
   </tr>
   <tr>
-    <td><b>Full Registration</b> (Conference only)</td>
-    <td colspan="3"> 15 May - 7 July 2023 </td>
+    <td><b>Full Registration</b></td>
+    <td colspan="3">16 May - 30 June 2026</td>
   </tr>
   <tr>
-    <td><b>Onsite Registration</b> (Conference only)</td>
-    <td colspan="3">8 - 10 July 2023</td>
-  </tr>
-  <tr>
-    <th colspan="4"><b>Important Information</b></th>
-  </tr>
-  <tr>
-    <td colspan="4">For each regular, work in progress, demo, and session/ tutorial submission, <b>at least one author must register</b> (Regular or Student<sup>&dagger;</sup> registration) by the Early Bird deadline. Accepted submissions without an appropriate registration will be withdrawn from the program and proceedings.</br>
-      <sup>&dagger;</sup>Conference only or Summer School registration </td>
-  </tr>
-   <tr>
-    <td colspan="4">Students (Conference only) receive a discount and must send a proof of their student status by email to <a href="mailto:aszachar@mus.auth.gr">aszachar@mus.auth.gr</a>.</td>
-  </tr>
-  <tr>
-    <td colspan="4">More information on sponsoring registration tiers is provided <a href="https://timbreconference.org/timbre2023/cfs/">here</a>.
-    </td>
-  </tr>
-  <tr>
-    <th colspan="4"><b>Payment Information</b></th>
-  </tr>
-  <tr>
-    <td colspan="4">To pay through <b>credit/debit card</b>, please use the following link: <a href="https://rc.auth.gr/en/conference/159">https://rc.auth.gr/en/conference/159</a>. </td>
-  </tr>
-  <tr>
-    <td colspan="4">To pay through <b>wire transfer</b>, please use the banking information below and <i>send the transfer receipt to</i> <a href="mailto:aszachar@mus.auth.gr">aszachar@mus.auth.gr</a> <i>to have your registration confirmed</i>. </br></br>
-   <b>Name and address of account holder</b></br>
-    EIDIKOS LOGARIASMOS KONDILION EREVNAS A.P.TH. </br>
-    KE.D.E.A. – TRITIS SEPTEMVRIOU UNIVERSITY CAMPUS </br>
-    546 36 THESSALONIKI GREECE </br></br>
-   <b>Name and address of bank branch</b></br>
-    PIRAEUS BANK S.A. </br>
-    AGGELAKI, THESSALONIKI BRANCH </br>
-    18 AGGELAKI Str. </br>
-    546 21 THESSALONIKI GREECE </br></br>
-    <b>Bank account number:</b> 5202-002079-933</br>
-    <b>IBAN:</b> GR 98 0172 2020 0052 0200 2079 933</br>
-    <b>BIC (SWIFT Address):</b> PIRBGRAΑ </br>
-    <b>Payment Reference:</b> please use the number 75727 to easily identify the purpose of the transaction
-    Currency code: Euro
-    </td>
-  </tr>    
+    <td><b>Onsite Registration</b></td>
+    <td colspan="3">2 - 4 July 2026</td>
+  </tr>  
 </tbody>
 </table></div>
 

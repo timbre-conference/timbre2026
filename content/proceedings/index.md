@@ -39,7 +39,6 @@ The minimum length of your text should be between 500 and 700 words (approximate
 
 Please use this [Word document](template_for_proceedings_timbre_2026.docx) to format your text for inclusion in the online proceeding. 
 
-
 The deadline for submitting the camera-ready abstract/paper is Friday, May 15, 2026. 
 
-Please send your text to timbreconference@gmail.com . 
+Please send your text to timbreconference@gmail.com. 

@@ -35,24 +35,19 @@ projects: []
 
 Caroline Traube, University of Montreal </br>
 Dominic Thibault, University of Montreal</br>
-Nicolas Bernier, University of Montreal </br>
-Pierre Michaud, University of Montreal <br>
 Robert Hasegawa, McGill University
 
 ### <span style="color:var(--darkBlue)">Programme Co-Chairs</span>
 
 Caroline Traube, University of Montreal </br>
 Jimmie LeBlanc, University of Montreal</br>
-Robert Hasegawa, McGill University
+Robert Hasegawa, McGill University<br>
 
-### <span style="color:var(--darkBlue)">Steering Committee</span>
-
-[Asterios Zacharakis](https://asteriszacharakis.wixsite.com/science) (Co-Chair Timbre 2020; Chair Timbre 2023)
-<br>[Charalampos Saitis](http://comma.eecs.qmul.ac.uk/) (Chair of the Steering Committee; Co-Chair Timbre 2017, 2020)
-<br>[Kai Siedenburg](https://uol.de/en/music-perception) (Co-Chair Timbre 2017, 2020)
-<br>[Lindsey Reymore](https://www.lindseyreymore.com/)
-<br>[Stephen McAdams](https://www.mcgill.ca/mpcl/) (Chair Timbre 2018)
-<br>[Zachary Wallmark](https://musicanddance.uoregon.edu/directory/profiles/all/zwallmar) (Paper Co-Chair Timbre 2023)
+### <span style="color:var(--darkBlue);">Research assistants at U. of Montreal</span>
+AC Riznar<br>
+Ravi Shankar Domingues<br>
+Simon Grégorcic<br>
+Zakary Colello<br>
 
 ### <span style="color:var(--darkBlue)">Evaluation Committee</span>
 
@@ -97,3 +92,15 @@ Joshua Rosner
 <br>Zoey Cochran
 
 </div></div>
+
+### <span style="color:var(--darkBlue)">Steering Committee</span>
+
+[Asterios Zacharakis](https://asteriszacharakis.wixsite.com/science) (Co-Chair Timbre 2020; Chair Timbre 2023)
+<br>[Charalampos Saitis](http://comma.eecs.qmul.ac.uk/) (Chair of the Steering Committee; Co-Chair Timbre 2017, 2020)
+<br>[Kai Siedenburg](https://uol.de/en/music-perception) (Co-Chair Timbre 2017, 2020)
+<br>[Lindsey Reymore](https://www.lindseyreymore.com/)
+<br>[Stephen McAdams](https://www.mcgill.ca/mpcl/) (Chair Timbre 2018)
+<br>[Zachary Wallmark](https://musicanddance.uoregon.edu/directory/profiles/all/zwallmar) (Paper Co-Chair Timbre 2023)
+
+### <span style="color:var(--darkBlue)">Webmaster</span>
+Charles Campeau-Bedford
