@@ -97,7 +97,7 @@ main:
   - name: Registration
     parent: "attend"
     url: registration
-    weight: 60
+    weight: 5
 
   - name: Sponsors
     identifier: "sponsors"
