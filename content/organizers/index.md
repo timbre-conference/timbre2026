@@ -45,6 +45,7 @@ Robert Hasegawa, McGill University<br>
 
 ### <span style="color:var(--darkBlue);">Research assistants at U. of Montreal</span>
 Zakary Colello<br>
+Daria Giritch<br> 
 Ravi Shankar Domingues<br>
 Simon Grégorcic<br>
 AC Riznar<br>
