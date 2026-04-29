@@ -53,6 +53,11 @@ main:
     url: "proceedings/"
     weight: 30
 
+  - name: Social Activities
+    parent: "program"
+    url: "social-activities"
+    weight: 40
+
 #   - name: Summer School (external)
 #     parent: "program"
 #     url: "https://www.actorproject.org/timbre-and-orchestration-summer-school"
