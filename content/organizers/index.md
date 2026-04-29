@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Organisers"
+title: "Organizers"
 subtitle: ""
 summary: ""
 authors: []
