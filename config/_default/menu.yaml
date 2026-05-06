@@ -53,10 +53,25 @@ main:
     url: "proceedings/"
     weight: 30
 
+  - name: Posters
+    parent: "program"
+    url: "posters/"
+    weight: 40
+
+  - name: Video recordings
+    parent: "program"
+    url: "video-recordings/"
+    weight: 50
+
+  - name: Concert
+    parent: "program"
+    url: "concert/"
+    weight: 60
+
   - name: Social Activities
     parent: "program"
     url: "social-activities"
-    weight: 40
+    weight: 70
 
 #   - name: Summer School (external)
 #     parent: "program"
