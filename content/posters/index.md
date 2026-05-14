@@ -12,7 +12,7 @@ draft: false
 share: false
 
 image:
-  caption: ""
+  caption: "Poster format"
   focal_point: ""
   preview_only: false
 
