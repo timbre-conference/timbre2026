@@ -60,20 +60,20 @@ The registration fees can be paid by credit card. Please click on the fee corres
   <tr>
     <td><b>Regular</b></td>
     <td><a href=" https://fmu-commerceweb.umontreal.ca/udem_fmu/app/catalogue/produits/product/fr/a/key/Registration_fees_timbre_conf_reg_eb" target="_blank">$275</a></td>
-    <td>$300</td>
+    <td><a href=" https://fmu-commerceweb.umontreal.ca/udem_fmu/app/catalogue/produits/product/fr/a/key/Registration_fees_timbre_conf_regular_full" target="_blank">$300</a></td>    
     <td>$325</td>
   </tr>
   <tr>
     <td><b>Students, independent artists</b></td>
     <td><a href="https://fmu-commerceweb.umontreal.ca/udem_fmu/app/catalogue/produits/product/fr/a/key/Registration_fees_timbre_conf_students_indep_art_eb" target="_blank">$125</a></td>
-    <td>$150</td>
+     <td><a href="https://fmu-commerceweb.umontreal.ca/udem_fmu/app/catalogue/produits/product/fr/a/key/Registration_fees_timbre_conf_students_indep_art_full" target="_blank">$150</a></td>
     <td>$175</td>
   </tr>
    
   <tr>
     <td><b>CIRMMT and RCMS student members</b></td>
     <td><a href="https://fmu-commerceweb.umontreal.ca/udem_fmu/app/catalogue/produits/product/fr/a/key/Registration_fees_timbre_conf_CIRMMT_RCMS_members_eb" target="_blank">$75</a></td>
-    <td>$100</td>
+     <td><a href="https://fmu-commerceweb.umontreal.ca/udem_fmu/app/catalogue/produits/product/fr/a/key/Registration_fees_CIRMMT_RCMS_full" target="_blank">$100</a></td>
     <td>$125</td>
   </tr>
   <tr>
@@ -97,5 +97,3 @@ The registration fees can be paid by credit card. Please click on the fee corres
   </tr>  
 </tbody>
 </table></div>
-
-
