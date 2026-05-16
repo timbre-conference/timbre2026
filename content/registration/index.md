@@ -33,6 +33,10 @@ For each type of presentation (oral presentation or poster), at least one author
 
 The registration fees can be paid by credit card. Please click on the fee corresponding to your registration category in the table below to access the paiement platform. 
 
+
+*** Note that the payment platform is not functional at the moment. We will fix this as quickly as possible. Thanks for your patience ! ***
+
+
 </br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
