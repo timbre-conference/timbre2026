@@ -29,12 +29,11 @@ image:
 projects: []
 ---
 
-For each type of presentation (oral presentation or poster), at least one author must register (Regular or Student/Independent artist registration) by the Early Bird deadline. Accepted submissions without an appropriate registration will be withdrawn from the program and proceedings.
+For each type of presentation (oral presentation or poster), at least one author must register (Regular or Student/Independent artist registration) by the Early Bird deadline. Accepted submissions without an appropriate registration will be withdrawn from the program and proceedings. Please write to us if you are unable to send your paper by the deadline. 
 
 The registration fees can be paid by credit card. Please click on the fee corresponding to your registration category in the table below to access the paiement platform. 
 
-
-*** Note that the payment platform is not functional at the moment. We will fix this as quickly as possible. Thanks for your patience ! ***
+Please note that the registration fees include a welcome cocktail on the first evening (July 2d), three lunches, and coffee breaks. We will inquire about dietary preferences and restrictions in a couple of weeks.
 
 
 </br>
@@ -62,23 +61,23 @@ The registration fees can be paid by credit card. Please click on the fee corres
 </thead>
 <tbody>
   <tr>
-    <td><b>Regular</b></td>
-    <td><a href=" https://fmu-commerceweb.umontreal.ca/udem_fmu/app/catalogue/produits/product/fr/a/key/Registration_fees_timbre_conf_reg_eb" target="_blank">$275</a></td>
-    <td><a href=" https://fmu-commerceweb.umontreal.ca/udem_fmu/app/catalogue/produits/product/fr/a/key/Registration_fees_timbre_conf_regular_full" target="_blank">$300</a></td>    
-    <td>$325</td>
+     <td><b>Regular</b></td>
+     <td>$275</td>
+     <td><a href=" https://fmu-commerceweb.umontreal.ca/udem_fmu/app/catalogue/produits/product/fr/a/key/Registration_fees_timbre_conf_regular_full" target="_blank">$300</a></td>    
+     <td>$325</td>
   </tr>
   <tr>
-    <td><b>Students, independent artists</b></td>
-    <td><a href="https://fmu-commerceweb.umontreal.ca/udem_fmu/app/catalogue/produits/product/fr/a/key/Registration_fees_timbre_conf_students_indep_art_eb" target="_blank">$125</a></td>
+     <td><b>Students, independent artists</b></td>
+     <td>$125</td>
      <td><a href="https://fmu-commerceweb.umontreal.ca/udem_fmu/app/catalogue/produits/product/fr/a/key/Registration_fees_timbre_conf_students_indep_art_full" target="_blank">$150</a></td>
-    <td>$175</td>
+     <td>$175</td>
   </tr>
    
   <tr>
-    <td><b>CIRMMT and RCMS student members</b></td>
-    <td><a href="https://fmu-commerceweb.umontreal.ca/udem_fmu/app/catalogue/produits/product/fr/a/key/Registration_fees_timbre_conf_CIRMMT_RCMS_members_eb" target="_blank">$75</a></td>
+     <td><b>CIRMMT and RCMS student members</b></td>
+     <td>$75</td>
      <td><a href="https://fmu-commerceweb.umontreal.ca/udem_fmu/app/catalogue/produits/product/fr/a/key/Registration_fees_CIRMMT_RCMS_full" target="_blank">$100</a></td>
-    <td>$125</td>
+     <td>$125</td>
   </tr>
   <tr>
     <th colspan="4"><b>Important Dates</b></th>
