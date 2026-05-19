@@ -55,8 +55,8 @@ projects: []
 
   <tr style="text-align:center">
     <td> </td>
-    <td><b>Salle Claude-Champagne</b></td>
-    <td><b>Salle Serge Garant (B-484)</b></td>
+    <td><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-claude-champagne/">Salle Claude-Champagne</a></b></td>
+    <td><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-serge-garant/">Salle Serge-Garant (B-484)</a></b></td>
   </tr>
 
   <tr>
@@ -72,7 +72,7 @@ projects: []
 
   <tr>
     <td>10:30 - 10:50</td>
-    <td colspan="2">Coffee Break</td>
+    <td colspan="2">Coffee break</td>
   </tr>
 
   <tr>
@@ -83,7 +83,7 @@ projects: []
 
   <tr>
     <td>12:10 - 13:30</td>
-    <td colspan="2">Lunch Break and poster session</td>
+    <td colspan="2">Lunch break and poster session</td>
   </tr>
 
   <tr>
@@ -139,8 +139,8 @@ projects: []
 
   <tr style="text-align:center">
     <td> </td>
-    <td><b>Salle Claude-Champagne</b></td>
-    <td><b>Salle Serge Garant (B-484)</b></td>
+    <td><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-claude-champagne/">Salle Claude-Champagne</a></b></td>
+    <td><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-serge-garant/">Salle Serge-Garant (B-484)</a></b></td>
   </tr>
 
   <tr>
@@ -151,7 +151,7 @@ projects: []
 
   <tr>
     <td>10:20 - 10:40</td>
-    <td colspan="2">Coffee Break</td>
+    <td colspan="2">Coffee break</td>
   </tr>
 
   <tr>
@@ -162,7 +162,7 @@ projects: []
 
   <tr>
     <td>12:00 - 13:20</td>
-    <td colspan="2">Lunch Break and poster session</td>
+    <td colspan="2">Lunch break and poster session</td>
   </tr>
 
   <tr>
@@ -213,8 +213,8 @@ projects: []
 
   <tr style="text-align:center">
     <td> </td>
-    <td><b>Salle Papineau-Couture (B-421)</b></td>
-    <td><b>Salle Serge Garant (B-484)</b></td>
+    <td><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-jean-papineau-couture/">Salle Jean-Papineau-Couture (B-421)</a></b></td>
+    <td><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-serge-garant/">Salle Serge-Garant (B-484)</a></b></td>
   </tr>
 
   <tr>
@@ -225,7 +225,7 @@ projects: []
 
   <tr>
     <td>10:20 - 10:40</td>
-    <td colspan="2">Coffee Break</td>
+    <td colspan="2">Coffee break</td>
   </tr>
 
   <tr>
@@ -236,7 +236,7 @@ projects: []
 
   <tr>
     <td>12:00 - 13:20</td>
-    <td colspan="2">Lunch Break and poster session</td>
+    <td colspan="2">Lunch break and poster session</td>
   </tr>
 
   <tr>
@@ -274,7 +274,7 @@ projects: []
 
   <tr>
     <td></td>
-    <td colspan="2" ><b>Salle Claude-Champagne</b></td>
+    <td colspan="2" ><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-claude-champagne/">Salle Claude-Champagne</a></b></td>
   </tr>
 
   <tr>
