@@ -73,6 +73,11 @@ main:
     url: "social-activities"
     weight: 70
 
+  - name: Discord
+    parent: "program"
+    url: "discord/"
+    weight: 80
+
 #   - name: Summer School (external)
 #     parent: "program"
 #     url: "https://www.actorproject.org/timbre-and-orchestration-summer-school"
