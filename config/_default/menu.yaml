@@ -38,6 +38,11 @@ main:
     weight: 10
     parent: "program"
 
+  - name: Participants
+    parent: "program"
+    url: "participants/"
+    weight: 20
+
   - name: Program
     identifier: "program"
     url: "program/"

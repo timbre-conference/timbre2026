@@ -29,6 +29,7 @@ image:
 projects: []
 ---
 
+<span id="ystad"></span>
 ## **Sølvi Ystad**: <span style="color:var(--darkBlue)">Timbre, evocations and perceptual engineering: past and present contradictions and illusions</span>
 
 In this keynote presentation, I will share reflections on historical beliefs and contradictions that may explain why our current understanding of hearing is only a part of the truth. These reflections will be illustrated through both ancient and recent work on auditory modeling. I will further describe a methodology developed with my colleagues over the past 20 years that combines digital synthesis with experimental psychology.<br><br>
@@ -42,9 +43,11 @@ I will present examples of findings from these experiments and describe how we a
 
 <br>
 
-## **Zachary Wallmark**: <span style="var(--darkBlue)">Authentic, idiosyncratic, or enchanted? Three ideologies of timbre in popular music</span>
+<span id="wallmark"></span>
+## <strong>Zachary Wallmark</strong>: <span style="color:var(--darkBlue)">Authentic, idiosyncratic, or enchanted? Three ideologies of timbre in popular music</span>
 
 Musicians go to great lengths to achieve certain qualities of sound that their audiences value. What are these values? How are they embodied? Why? In this keynote lecture, I explore the ideological orientations toward timbre that covertly shape the discourse of meaning and value in popular music. Through case studies, I argue that timbre often works in three distinct symbolic ways: as authentication (proof of belonging), idiosyncrasy (mark of uniqueness), and enchantment (fetishization of totemic objects). First, I explore the world of old-time fiddling, where a “scratchy” tone is considered an aural watermark of folk identity. Second, I examine the idiosyncratic vocal techniques of rapper Megan Thee Stallion, who uses a unique and instantly identifiable vocable (the vowel [æ] with vocal fry) as a timbre trademark of her brand persona. Finally, I turn to the “Mellotron war,” an ongoing conflict in the vintage gear community over whether the digital Mellotron—a modern reinvention of the tape-based keyboard sampler popular in the 1960s and ‘70s—adequately captures the quirky enchantment of the “real” analog original. Together, these cases show that timbre is never just a sonic quality but a cultural signal, one through which musicians and listeners negotiate belonging, individuality, and presence in a digitally mediated and increasingly suspicious musical ecosystem.
   
 {{< figure src="keynotes/wallmark.jpeg" alt="photo of Zachary Wallmark" width="200" class="floatleft">}} 
 **Zachary Wallmark** is Associate Professor and Chair of Musicology at the University of Oregon, with research exploring the role of timbre in emotional response, aesthetic judgment, and music sociology, particularly in the context of popular music. He is the author of Nothing but Noise: Timbre and Musical Meaning at the Edge (Oxford, 2022) and co-editor of the AMS Solie Award-winning volume, The Relentless Pursuit of Tone: Timbre in Popular Music (Oxford, 2018), among numerous articles in both humanistic and scientific journals. His work has been supported by the NEH and the Grammy Museum Foundation. He is currently writing a trade book on musical instruments in American history. He is also an active performer, specializing in jazz bass, bluegrass dobro, and Japanese shakuhachi.
+
