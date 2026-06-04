@@ -126,18 +126,11 @@ projects: []
       </ul>
     </td>
     <td>
-      <u>Session 6: Timbre and artificial creativity (panel)</u>
+      <u>Session 6: Timbre and the politics of artificial creativity</u>
       <ul style="font-size: 0.9em;">
-        <li>Timbre at the Interface: negotiating audio representations in the age of artificial creativity, <strong>Charalampos Saitis</strong> (moderator), QMUL (UK)</li>
-        <li>Cat In Loop: A Case Study On Timbre, Imagination And AI, <strong>Weilu Ge</strong>, Harvard U. (USA) & <strong>Nithya Shikarpur</strong>, MIT [PhD candidates]
-        <ul style="font-size: 0.9em;">
-        <li><strong>Kai Siedenburg</strong>, U. of Oldenburg (Germany)</li>
-        <li><strong>Landon Morrison</strong>, U. of Rochester (USA)</li>
-        <li><strong>Dominic Thibault</strong>, U. of Montreal (Canada)</li>
-        <li><strong>Hee Seng Kye</strong>, Hanyang U. (South Korea)</li>
+        <li>Cat In Loop: A Case Study On Timbre, Imagination And AI, <strong>Weilu Ge</strong> & <strong>Nithya Shikarpur</strong></li>
+        <li>Timbre at the Interface: negotiating audio representations in the age of artificial creativity, <strong>panel</strong> led by <strong>Charalampos Saitis</strong> with <strong>Kai Siedenburg</strong>, <strong>Landon Morrison</strong>, <strong>Dominic Thibault</strong>, <strong>Hee Seng Kye</strong>, <strong>Weilu Ge</strong>, <strong>Nithya Shikarpur</strong></li>
         </ul>
-        </li>
-      </ul>
     </td>
   </tr>
 
