@@ -129,7 +129,7 @@ projects: []
       <u>Session 6: Timbre and the politics of artificial creativity</u>
       <ul style="font-size: 0.9em;">
         <li>Cat In Loop: A Case Study On Timbre, Imagination And AI, <strong>Weilu Ge</strong> & <strong>Nithya Shikarpur</strong></li>
-        <li>Timbre at the Interface: negotiating audio representations in the age of artificial creativity, <strong>panel</strong> led by <strong>Charalampos Saitis</strong> with <strong>Kai Siedenburg</strong>, <strong>Landon Morrison</strong>, <strong>Dominic Thibault</strong>, <strong>Hee Seng Kye</strong>, <strong>Weilu Ge</strong>, <strong>Nithya Shikarpur</strong></li>
+        <li>Timbre at the Interface: Negotiating Audio Representations in the Age of Artificial Creativity, <strong>panel</strong> led by <strong>Charalampos Saitis</strong> with <strong>Kai Siedenburg</strong>, <strong>Landon Morrison</strong>, <strong>Dominic Thibault</strong>, <strong>Hee Seng Kye</strong>, <strong>Weilu Ge</strong>, <strong>Nithya Shikarpur</strong></li>
         </ul>
     </td>
   </tr>
