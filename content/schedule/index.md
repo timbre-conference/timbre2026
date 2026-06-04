@@ -270,7 +270,7 @@ projects: []
   </tr>
 
   <tr>
-    <td>14:40 - 16:00</td>
+    <td>14:40 - 16:35</td>
     <td>
       <u>Session 13: Synthetic timbre in popular music</u>
       <ul style="font-size: 0.9em;">
@@ -294,12 +294,12 @@ projects: []
   </tr>
 
   <tr>
-    <td>16:00 - 16:20</td>
+    <td>16:35 - 16:50</td>
     <td colspan="2">Break</td>
   </tr>
 
   <tr>
-    <td>16:20 - 17:40</td>
+    <td>16:50 - 18:10</td>
     <td>
       <u>Session 15: Emotions and intimacy</u>
       <ul style="font-size: 0.9em;">
