@@ -61,7 +61,7 @@ projects: []
 
   <tr>
     <td>9:00 - 9:10</td>
-    <td colspan="2">Welcome Talk</td>
+    <td colspan="2" style="text-align:center">Welcome Talk</td>
   </tr>
 
   <tr>
@@ -86,7 +86,7 @@ projects: []
 
   <tr>
     <td>10:30 - 10:50</td>
-    <td colspan="2">Coffee break</td>
+    <td colspan="2" style="text-align:center">Coffee break</td>
   </tr>
 
   <tr>
@@ -111,18 +111,19 @@ projects: []
 
   <tr>
     <td>12:10 - 13:30</td>
-    <td colspan="2">Lunch break and poster session</td>
+    <td colspan="2" style="text-align:center">Lunch break and poster session</td>
   </tr>
 
   <tr>
     <td>13:30 - 14:50</td>
     <td>
-      <u>Session 5: Sound studies</u>
+      <u>Session 5: Panel on Cross-cultural timbre studies</u>
       <ul style="font-size: 0.9em;">
-        <li>Listening to Demonstrations: Timbral Perspectives on Urban Crowd Sound, <strong>Kamyar Karimi, Alice Jarry, & Gabriel Vigliensoni</strong> [LT]</li>
-        <li>Don't Let Screaming Ruin Your Beauty Sleep, Just Bleach It! A Study of Frequency Shearing for Noise, <strong>Marina Lee</strong></li>
-        <li>Timbre as Exposure: Fragility, Proximity, and the Audibility of the Body, <strong>Hee Seng Kye</strong></li>
-        <li>An Embodied and Crossmodal Approach to Timbre in Unaccompanied Solo Traditional Singing, <strong>Kristin Jonzon</strong></li>
+        <li>Negotiating Timbre between East and West: Friction, Reflexivity, and Knowledge-Making in Cross-Cultural Timbral Studies, <strong> xx </strong> (moderator)</li>
+        <li>Notating Timbre in Jianzipu: A Gesture-Based MEI Encoding Module, <strong>Eto Sun, Yifan Huang1 & Ichiro Fujinaga</strong></li>
+        <li>Hearing Orchestration with the TOGE: A Perception-Oriented Case Study of Lei Liang’s Tremors of a Memory Chord, <strong>Linglan Zhu, Yifan Huang, Florian Iochem, Chen Fan, Lena Heng, & Stephen McAdams</strong></li>
+        <li>Western and Chinese Musical Acoustics in Dialogue: Understanding the Timbre of the Chinese Transverse Flute (dizi) Through Physics, <strong>Xinmeng Luan & Gary Scavone</strong></li>
+        <li>A cross-cultural comparison of the timbre-semantic space of Chinese instrumental sounds, <strong>Yifan Huang, Linglan Zhu, & Stephen McAdams</strong></li>
       </ul>
     </td>
     <td>
@@ -136,7 +137,7 @@ projects: []
 
   <tr>
     <td>14:50 - 15:10</td>
-    <td colspan="2">Coffee break</td>
+    <td colspan="2" style="text-align:center">Coffee break</td>
   </tr>
 
   <tr>
@@ -162,17 +163,17 @@ projects: []
 
   <tr>
     <td>17:10 - 17:30</td>
-    <td colspan="2">Break</td>
+    <td colspan="2" style="text-align:center">Break</td>
   </tr>
 
   <tr>
     <td>17:30 - 18:30</td>
-    <td colspan="2">Keynote 1, <strong><a href="/timbre2026/keynotes/#ystad">Sølvi Ystad</a></strong></td>
+    <td colspan="2" style="text-align:center">Keynote 1, <strong><a href="/timbre2026/keynotes/#ystad">Sølvi Ystad</a></strong></td>
   </tr>
 
   <tr>
     <td>18:30 - 20:00</td>
-    <td colspan="2">Welcome reception</td>
+    <td colspan="2" style="text-align:center">Welcome reception</td>
   </tr>
 
 </tbody>
@@ -222,18 +223,18 @@ projects: []
 
   <tr>
     <td>10:20 - 10:40</td>
-    <td colspan="2">Coffee break</td>
+    <td colspan="2" style="text-align:center">Coffee break</td>
   </tr>
 
   <tr>
     <td>10:40 - 12:00</td>
     <td>
-      <u>Session 11: Panel on Cross-cultural timbre studies</u>
+      <u>Session 11 : Sound studies</u>
       <ul style="font-size: 0.9em;">
-        <li>Notating Timbre in Jianzipu: A Gesture-Based MEI Encoding Module, <strong>Eto Sun, Yifan Huang & Ichiro Fujinaga</strong></li>
-        <li>Hearing Orchestration with the TOGE: A Perception-Oriented Case Study of Lei Liang's Tremors of a Memory Chord, <strong>Linglan Zhu, Yifan Huang, Florian Iochem, Chen Fan, Lena Heng, & Stephen McAdams</strong></li>
-        <li>Western and Chinese Musical Acoustics in Dialogue: Understanding the Timbre of the Chinese Transverse Flute (dizi) Through Physics, <strong>Xinmeng Luan & Gary Scavone</strong></li>
-        <li>Negotiating Timbre between East and West: Friction, Reflexivity, and Knowledge-Making in Cross-Cultural Timbral Studies, <strong>Yifan Huang, Linglan Zhu, & Stephen McAdams</strong></li>
+        <li>Listening to Demonstrations: Timbral Perspectives on Urban Crowd Sound, <strong>Kamyar Karimi, Alice Jarry & Gabriel Vigliensoni</strong> [LT] </li>
+        <li>Don’t Let Screaming Ruin Your Beauty Sleep, Just Bleach It! A Study of Frequency Shearing for Noise, <strong>Marina Lee</strong></li>
+        <li>Timbre as Exposure: Fragility, Proximity, and the Audibility of the Body, <strong>Hee Seng Kye</strong></li>
+        <li>An Embodied and Crossmodal Approach to Timbre in Unaccompanied Solo Traditional Singing, <strong>Kristin Jonzon</strong></li>
       </ul>
     </td>
     <td>
@@ -249,17 +250,17 @@ projects: []
 
   <tr>
     <td>12:00 - 13:20</td>
-    <td colspan="2">Lunch break and poster session</td>
+    <td colspan="2" style="text-align:center">Lunch break and poster session</td>
   </tr>
 
   <tr>
     <td>13:30 - 14:20</td>
-    <td colspan="2">Keynote 2, <strong><a href="/timbre2026/keynotes/#wallmark">Zachary Wallmark</a></strong></td>
+    <td colspan="2" style="text-align:center">Keynote 2, <strong><a href="/timbre2026/keynotes/#wallmark">Zachary Wallmark</a></strong></td>
   </tr>
 
   <tr>
     <td>14:20 - 14:40</td>
-    <td colspan="2">Coffee break</td>
+    <td colspan="2" style="text-align:center">Coffee break</td>
   </tr>
 
   <tr>
@@ -288,7 +289,7 @@ projects: []
 
   <tr>
     <td>16:35 - 16:50</td>
-    <td colspan="2">Break</td>
+    <td colspan="2" style="text-align:center">Break</td>
   </tr>
 
   <tr>
@@ -330,7 +331,6 @@ projects: []
   </tr>
 </thead>
 <tbody style="vertical-align: top;">
-
   <tr style="text-align:center">
     <td> </td>
     <td><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-jean-papineau-couture/">Salle Jean-Papineau-Couture (B-421)</a></b></td>
@@ -339,67 +339,122 @@ projects: []
 
   <tr>
     <td>9:00 - 10:20</td>
-    <td>Session 17</td>
-    <td>Session 18</td>
+    <td>
+      <u>Session 17: Ethnomusicological perspectives</u>
+      <ul style="font-size: 0.9em;">
+        <li>On the Global Study of Timbre, <strong>Jason Winikoff</strong> [LT]</li>
+        <li>Timbral Transformations in Tunisian Folk Music: A Case Study of the Small-sized 'Darbuka' Drum, <strong>Ali Chamseddine</strong> [LT]</li>
+        <li>Timbre as Musical Language in the Dùndún Ensemble: Perception, Performance, and Meaning in Yoruba Culture and Auditory Frameworks, <strong>Sunday Olufemi Akande</strong> [LT]</li>
+        <li>Analyse et perception du timbre et des pratiques de l'orchestration en Méditerranée, <strong>Mondher Ayari</strong></li>
+        <li>Timbral Signatures in Cuban Dance Bands from Songo to Timba: Hybridities, Technologies, and Vocality (1970–1995), <strong>Joshua Bucchi</strong></li>
+      </ul>
+    </td>
+    <td>
+      <u>Session 18: Orchestrating and analyzing the musical scene</u>
+      <ul style="font-size: 0.9em;">
+        <li>Satellites: Orbiting Composer and Performer Insights on Timbre in a Work for Piano and Electronics, <strong>Hubert Ho &  Matthew Schumaker</strong></li>
+        <li>Orchestrating Timbre with Interaction Scenarios, <strong>Frédéric Roverselli</strong></li>
+        <li>Instrument identification in a virtual orchestral scene, <strong>Kai Siedenburg</strong></li>
+      </ul>
+    </td>
   </tr>
 
   <tr>
     <td>10:20 - 10:40</td>
-    <td colspan="2">Coffee break</td>
+    <td colspan="2" style="text-align:center">Coffee break</td>
   </tr>
 
   <tr>
     <td>10:40 - 12:00</td>
-    <td>Session 19</td>
-    <td>Session 20</td>
+    <td>
+      <u>Session 19: Perception, imagery and memory</u>
+      <ul style="font-size: 0.9em;">
+        <li>Can Instrumentation Predict Pitch-Class Profiles? (symphonic music), <strong>Noah Kahrs</strong> [LT]</li>
+        <li>Hearing The Unconventional: A Study of Perceptual Fusion of Extended Techniques in Contemporary Classical Music, <strong>Jia Yi Lee</strong></li>
+        <li>Timbral imagery for instrumental dyads, <strong>Linglan Zhu</strong></li>
+        <li>Differential Short-Term Memory for Spectral and Temporal Dimensions of Timbre, <strong>Stephen McAdams</strong></li>
+      </ul>
+    </td>
+    <td>
+      <u>Session 20: Timbre and interaction in contemporary music</u>
+      <ul style="font-size: 0.9em;">
+        <li>Cross-Cultural and Cross-Medium Timbre in Contemporary Music, <strong>Bike Oner</strong> [LT]</li>
+        <li>Composer-performers interaction in pieces featuring specific instruments: a case study of Essai de coexistence sonore for electroacoustic guitar, Karlax, and double bass, <strong>Benjamin Lavastre</strong></li>
+        <li>Unplugged Electronics and Expansive Orchestration for a New Guitar Concerto, <strong>Marc Garcia-Vitoria</strong></li>
+        <li>Bell Timbres as Compositional Framework: Acoustic, Algorithmic, and Formalized Approaches, <strong>Dongryul Lee</strong></li>
+      </ul>
+    </td>
   </tr>
 
   <tr>
     <td>12:00 - 13:20</td>
-    <td colspan="2">Lunch break and poster session</td>
+    <td colspan="2" style="text-align:center">Lunch break and poster session</td>
   </tr>
 
   <tr>
     <td>13:20 - 14:40</td>
-    <td>Session 21</td>
-    <td>Session 22</td>
+    <td>
+      <u>Session 21: Timbre, gesture and embodiment</u>
+      <ul style="font-size: 0.9em;">
+        <li>"So that the sting first enters the skin, and then hurts": embodied transmission of a single note, <strong>Gina Fatone</strong></li>
+        <li>Timbral Habitus: Sound, Listening, and Embodiment, <strong>Jose R Torres</strong></li>
+        <li>From sensitive listening to sound to the intuition of a gesture, <strong>Jean Geoffroy</strong></li>
+      </ul>
+    </td>
+    <td>
+      <u>Session 22: Vocality</u>
+      <ul style="font-size: 0.9em;">
+        <li>Emergence of vocality: hybridization and timbral metamorphoses between the pipe organ and the voice in the ORA and Vox Humana Projects, <strong>Hyun-Hwa Cho</strong></li>
+        <li>Sounding "round", "bright", "Oooh" or "Aaah": on the use of phonemes to describe the timbre of string quartet instruments, <strong>Leïla Barbedette</strong></li>
+        <li>Two Rappers: Recreating vocal patterns through percussion in George Lewis' North Star Boogaloo, <strong>Malcolm Taylor</strong></li>
+      </ul>
+    </td>
   </tr>
 
   <tr>
     <td>14:40 - 15:00</td>
-    <td colspan="2">Coffee break</td>
+    <td colspan="2" style="text-align:center">Coffee break</td>
   </tr>
 
   <tr>
-    <td>15:00 - 16:20</td>
-    <td>Session 23</td>
-    <td>Session 24</td>
-  </tr>
-
-  <tr>
-    <td>16:20 - 16:40</td>
-    <td colspan="2">Break</td>
-  </tr>
-
-  <tr>
-    <td>16:40 - 18:00</td>
-    <td>Session 25</td>
-    <td>Session 26</td>
+    <td>15:00 - 18:00</td>
+    <td>
+      <u>Session 23: Timbre in popular music</u>
+      <ul style="font-size: 0.9em;">
+        <li>Orchestration of Polyrhythms in Hiatus Kaiyote's Music, <strong>Kelsey Lussier</strong> [LT]</li>
+        <li>Analyzing Studio Orchestration through the Hybrid Sound of Michel Legrand, <strong>Mael Oudin</strong></li>
+        <li>Exertion Narratives in Pop Music Production, <strong>Will Mason</strong></li>
+        <li><em>(10 min. break)</em></li>
+        <li>Beyond Voice Superiority: Acoustic Factors Driving Vocal Salience in Musical Mixtures, <strong>Michel Bürgel</strong></li>
+        <li>Queering Timbre: The Colourful Sounds of The Cure, <strong>Jay Marchand Knight</strong></li>
+      </ul>
+    </td>
+    <td>
+      <u>Session 24: Timbre in contemporary music</u>
+      <ul style="font-size: 0.9em;">
+        <li>Timbre as Structure: Case Study of Georg Friedrich Haas's 11.000 Saiten, <strong>Isabel Keleti</strong> [LT]</li>
+        <li>Composing for the Liminare Spectral Organ, <strong>Louis-Michel Tougas</strong></li>
+        <li>Timbre in the Music of Luciano Berio: A Workshop on the Sources, <strong>Christoph Neidhöfer</strong></li>
+        <li><em>(10 min. break)</em></li>
+        <li>"from inner to outershadow": ensemble coherence in recent works for oboe and strings, <strong>Anton Vishio</strong></li>
+        <li>Double-reed Multiphonics: Their Character, Stability, and Potential for Integration with Heterogeneous Instrumental Ensembles, <strong>Roger Reynolds</strong></li>
+      </ul>
+    </td>
   </tr>
 
   <tr>
     <td>18:00 - 18:30</td>
-    <td colspan="2">Break</td>
+    <td colspan="2" style="text-align:center">Break</td>
   </tr>
 
   <tr>
     <td></td>
-    <td colspan="2" ><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-claude-champagne/">Salle Claude-Champagne</a></b></td>
+    <td colspan="2" style="text-align:center"><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-claude-champagne/">Salle Claude-Champagne</a></b></td>
   </tr>
 
   <tr>
     <td>18:30 - 20:00</td>
-    <td colspan="2">Concert</td>
+    <td colspan="2" style="text-align:center">Concert</td>
   </tr>
 
 </tbody>
