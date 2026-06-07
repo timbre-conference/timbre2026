@@ -370,16 +370,16 @@ projects: []
       <u>Session 19: Perception, imagery and memory</u>
       <ul style="font-size: 0.9em;">
         <li>Can Instrumentation Predict Pitch-Class Profiles? (symphonic music), <strong>Noah Kahrs</strong> [LT]</li>
-        <li>Hearing The Unconventional: A Study of Perceptual Fusion of Extended Techniques in Contemporary Classical Music, <strong>Jia Yi Lee</strong></li>
+        <li>Hearing The Unconventional: A Study of Perceptual Fusion of Extended Techniques in Contemporary Classical Music, <strong>Jia Yi Lee & Jenine Brown</strong></li>
         <li>Timbral imagery for instrumental dyads, <strong>Linglan Zhu</strong></li>
-        <li>Differential Short-Term Memory for Spectral and Temporal Dimensions of Timbre, <strong>Stephen McAdams</strong></li>
+        <li>Differential Short-Term Memory for Spectral and Temporal Dimensions of Timbre, <strong>Stephen McAdams, Behrad Madahi & Bryana-Alexa Liberta</strong></li>
       </ul>
     </td>
     <td>
       <u>Session 20: Timbre and interaction in contemporary music</u>
       <ul style="font-size: 0.9em;">
         <li>Cross-Cultural and Cross-Medium Timbre in Contemporary Music, <strong>Bike Oner</strong> [LT]</li>
-        <li>Composer-performers interaction in pieces featuring specific instruments: a case study of Essai de coexistence sonore for electroacoustic guitar, Karlax, and double bass, <strong>Benjamin Lavastre</strong></li>
+        <li>Composer-performers interaction in pieces featuring specific instruments: a case study of Essai de coexistence sonore for electroacoustic guitar, Karlax, and double bass, <strong>Benjamin Lavastre, Mael Oudin & Andrea Gozzi</strong></li>
         <li>Unplugged Electronics and Expansive Orchestration for a New Guitar Concerto, <strong>Marc Garcia-Vitoria</strong></li>
         <li>Bell Timbres as Compositional Framework: Acoustic, Algorithmic, and Formalized Approaches, <strong>Dongryul Lee</strong></li>
       </ul>
@@ -404,7 +404,7 @@ projects: []
     <td>
       <u>Session 22: Vocality</u>
       <ul style="font-size: 0.9em;">
-        <li>Emergence of vocality: hybridization and timbral metamorphoses between the pipe organ and the voice in the ORA and Vox Humana Projects, <strong>Hyun-Hwa Cho</strong></li>
+        <li>Emergence of vocality: hybridization and timbral metamorphoses between the pipe organ and the voice in the ORA and Vox Humana Projects, <strong>Hyun-Hwa Cho & Christophe d'Alessandro</strong></li>
         <li>Sounding "round", "bright", "Oooh" or "Aaah": on the use of phonemes to describe the timbre of string quartet instruments, <strong>Leïla Barbedette</strong></li>
         <li>Two Rappers: Recreating vocal patterns through percussion in George Lewis' North Star Boogaloo, <strong>Malcolm Taylor</strong></li>
       </ul>
@@ -425,7 +425,7 @@ projects: []
         <li>Analyzing Studio Orchestration through the Hybrid Sound of Michel Legrand, <strong>Mael Oudin</strong></li>
         <li>Exertion Narratives in Pop Music Production, <strong>Will Mason</strong></li>
         <li><em>(10 min. break)</em></li>
-        <li>Beyond Voice Superiority: Acoustic Factors Driving Vocal Salience in Musical Mixtures, <strong>Michel Bürgel</strong></li>
+        <li>Beyond Voice Superiority: Acoustic Factors Driving Vocal Salience in Musical Mixtures, <strong>Michel Bürgel & Kai Siedenburg</strong></li>
         <li>Queering Timbre: The Colourful Sounds of The Cure, <strong>Jay Marchand Knight</strong></li>
       </ul>
     </td>
