@@ -133,7 +133,11 @@ projects: []
       <li>The Contours of Timbre in Rebecca Saunders's Fury II, <strong>Ash Mach</strong></li>	
       <li>Colouring Shapes and Forms: Timbral and Orchestrational Strategies in the Serial Works of Elisabeth Lutyens, <strong>Aidan McGartland</strong></li>
       <li>Hearing the Form, Seeing the Material: Global and Local Feature Correspondences Across Vision and Audition, <strong>Asterios Zacharakis</strong></li>	
-      <li>MusicVis: Leveraging Cross-Modal Correspondences for Fine-Grained Visual Representations of Music, <strong>Kelly Raines </strong></li>							
+      <li>MusicVis: Leveraging Cross-Modal Correspondences for Fine-Grained Visual Representations of Music, <strong>Kelly Raines </strong></li>
+      <li>Toward a Conceptual Framework for AI-Mediated Timbre Transformation: Exploring Transparency and Interaction in Algorithmic Intervention and Interface Design, <strong>Steven Lewis</strong></li>
+      <li>Concrete Listening in Latent Space: Reduced Semantic Conditioning of Diffusion Transformers as a Compositional Strategy, <strong>David Piazza</strong></li>
+      <li>Prony-Informed Percussion Orchestration: A Case Study in Elements of Adventure, <strong>Joseph Chang</strong></li>
+      <li>Timbre discrimination in drum tom-toms: An approach based on audio descriptors and timbre space, <strong>Carlos de Castro</strong></li>
     </ul>
   </td>
   </tr>
@@ -282,6 +286,24 @@ projects: []
   <tr>
     <td>12:00 - 13:20</td>
     <td colspan="2" style="text-align:center">Lunch break and poster session</td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td colspan="2" style="text-align:left">
+     <ul style="font-size: 0.9em;">
+	<li>Towards embodied and inclusive crossmodal experiences of timbre and music: User perspectives of a new vibrotactile assistive device, <strong>Alex Bégin</strong></li>
+	<li>Reactive Materials and Gesture in Timbral Shaping: Towards an Augmented Sonic Device, <strong>Maria Vittoria Agresti </strong></li>
+	<li>Signs of Mediated Gesture: Play and Recognition in Mixed Instrumental Works, <strong>Nicholas Ma</strong></li>
+	<li>Measuring Consistency in Explainable Synthetic Timbre Annotators, <strong>Peter McCabe</strong></li>
+	<li>Vocal Timbre Similarity for Personalized Singer Matching and Song Recommendation, <strong>Jiaxing Yu Learning</strong></li>
+	<li>Investigating "Timbre Tagging" of Pitch Structure in an Implicit Statistical Learning Paradigm, <strong>Adam Andrew Garrow</strong></li>
+	<li>Everyday Sounds as Emotional Catalysts: A Research-Creation Study in Contemporary Music, <strong>Yifan Huang</strong></li>
+	<li>Grounding Musical Intimacy in Timbre: Exploring a Conceptual Model of Intimate Listening, <strong>Yifan Huang</strong></li>
+	<li>Creating a Timbral Monster: The Superclarinet of Martino’s Triple Concerto, <strong>Zachary Brennan</strong></li>
+	<li>Timbre as a Pedagogical Tool for Students with Dyslexia in the Music Theory Classroom, <strong>Joy Anderson</strong></li>
+    </ul>
+    </td>
   </tr>
 
   <tr>
@@ -461,13 +483,12 @@ projects: []
       <ul style="font-size: 0.9em;">
         <li>14:50 -- Orchestration of Polyrhythms in Hiatus Kaiyote's Music, <strong>Kelsey Lussier</strong> [LT]</li>
         <li>15:00 -- Analyzing Studio Orchestration through the Hybrid Sound of Michel Legrand, <strong>Mael Oudin</strong></li>
+        <li>15:25 -- Exertion Narratives in Pop Music Production, <strong>Will Mason</strong></li>
        </ul>
        <em>10 min. break</em>
        <br>
        <br>
         <ul style="font-size: 0.9em;">
-        <li>15:25 -- Exertion Narratives in Pop Music Production, <strong>Will Mason</strong></li>
-        <li><em>(10 min. break)</em></li>
         <li>16:00 -- Beyond Voice Superiority: Acoustic Factors Driving Vocal Salience in Musical Mixtures, <strong>Michel Bürgel & Kai Siedenburg</strong></li>
         <li>16:25 -- Queering Timbre: The Colourful Sounds of The Cure, <strong>Jay Marchand Knight</strong></li>
       </ul>
@@ -483,7 +504,6 @@ projects: []
        <br>
        <br>
         <ul style="font-size: 0.9em;">
-        <li><em>(10 min. break)</em></li>
         <li>16:00 -- "from inner to outershadow": ensemble coherence in recent works for oboe and strings, <strong>Anton Vishio</strong></li>
         <li>16:25 -- Double-reed Multiphonics: Their Character, Stability, and Potential for Integration with Heterogeneous Instrumental Ensembles, <strong>Roger Reynolds</strong></li>
       </ul>
