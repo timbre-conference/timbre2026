@@ -122,6 +122,12 @@ projects: []
   <tr>
     <td>12:00 - 13:20</td>
     <td colspan="2" style="text-align:center">Lunch break and poster session
+    </td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td colspan="2" style="text-align:left">
      <ul style="font-size: 0.9em;">
       <li>Re-Examining Germaine Tailleferre Criticism in Light of Orchestral Grouping Effects in her Piano Concerto No. 1 (1924), <strong>Emma Davis</strong></li>
       <li>The Contours of Timbre in Rebecca Saunders's Fury II, <strong>Ash Mach</strong></li>	
@@ -193,7 +199,7 @@ projects: []
 
   <tr>
     <td>17:00 - 18:00</td>
-    <td colspan="2" style="text-align:center">Keynote 1, <strong><a href="/timbre2026/keynotes/#ystad">Sølvi Ystad</a></strong> Timbre, evocations and perceptual engineering: past and present contradictions and illusions</td>
+    <td colspan="2" style="text-align:center">Keynote lecture and CIRMMT distinguished lecture <strong><a href="/timbre2026/keynotes/#ystad">Sølvi Ystad</a></strong> : Timbre, evocations and perceptual engineering: past and present contradictions and illusions</td>
   </tr>
 
   <tr>
@@ -227,48 +233,48 @@ projects: []
   </tr>
 
   <tr>
-    <td>9:00 - 10:20</td>
+    <td>9:00 - 10:15</td>
     <td>
       <u>Session 9: Timbre in instrumental performance</u>
       <ul style="font-size: 0.9em;">
-        <li>Physical Analysis of Sound Production in the Baroque Traverso: Geometry, Resonance, and Timbre Control, <strong>Patricio de la Cuadra</strong></li>
-        <li>Individual Differences in Bow-Related Timbre Across 23 Recordings of Bach's Fourth Cello Suite Prelude, <strong>Clare Monfredo</strong></li>
-        <li>Timbre & Text: A Preliminary Study of Dietrich Fischer-Dieskau's Recordings of Schubert's "Gute Nacht", <strong>Tracy Lipke-Perry</strong></li>
+        <li>9:00 -- Physical Analysis of Sound Production in the Baroque Traverso: Geometry, Resonance, and Timbre Control, <strong>Patricio de la Cuadra</strong></li>
+        <li>9:25 -- Individual Differences in Bow-Related Timbre Across 23 Recordings of Bach's Fourth Cello Suite Prelude, <strong>Clare Monfredo</strong></li>
+        <li>9:50 -- Timbre & Text: A Preliminary Study of Dietrich Fischer-Dieskau's Recordings of Schubert's "Gute Nacht", <strong>Tracy Lipke-Perry</strong></li>
       </ul>
     </td>
     <td>
       <u>Session 10: Hearing/touching synthetic textures</u>
       <ul style="font-size: 0.9em;">
-        <li>Towards embodied and inclusive crossmodal experiences of timbre and music: User perspectives of a new vibrotactile assistive device, <strong>Loonan Chauvette, Alex Bégin, Jérémie Voix, Matthieu J. Guitton, & Andréanne Sharp</strong></li>
-        <li>Empirical Study of the Semantics of Synthetic "Timbre-Textures", <strong>Jason Noble, Francis Bourgoin, Takuto Fukuda, Caroline Traube, & Zachary Wallmark</strong></li>
-        <li>Gestural Control of Timbre with a Digital Musical Instrument, <strong>Gaël Moriceau</strong></li>
+        <li>9:00 -- Towards embodied and inclusive crossmodal experiences of timbre and music: User perspectives of a new vibrotactile assistive device, <strong>Loonan Chauvette, Alex Bégin, Jérémie Voix, Matthieu J. Guitton, & Andréanne Sharp</strong></li>
+        <li>9:25 -- Empirical Study of the Semantics of Synthetic "Timbre-Textures", <strong>Jason Noble, Francis Bourgoin, Takuto Fukuda, Caroline Traube, & Zachary Wallmark</strong></li>
+        <li>9:50 -- Gestural Control of Timbre with a Digital Musical Instrument, <strong>Gaël Moriceau</strong></li>
       </ul>
     </td>
   </tr>
 
   <tr>
-    <td>10:20 - 10:40</td>
+    <td>10:15 - 10:35</td>
     <td colspan="2" style="text-align:center">Coffee break</td>
   </tr>
 
   <tr>
-    <td>10:40 - 12:00</td>
+    <td>10:35 - 12:00</td>
     <td>
       <u>Session 11 : Sound studies</u>
       <ul style="font-size: 0.9em;">
-        <li>Listening to Demonstrations: Timbral Perspectives on Urban Crowd Sound, <strong>Kamyar Karimi, Alice Jarry & Gabriel Vigliensoni</strong> [LT] </li>
-        <li>Don’t Let Screaming Ruin Your Beauty Sleep, Just Bleach It! A Study of Frequency Shearing for Noise, <strong>Marina Lee</strong></li>
-        <li>Timbre as Exposure: Fragility, Proximity, and the Audibility of the Body, <strong>Hee Seng Kye</strong></li>
-        <li>An Embodied and Crossmodal Approach to Timbre in Unaccompanied Solo Traditional Singing, <strong>Kristin Jonzon</strong></li>
+        <li>10:35 -- Listening to Demonstrations: Timbral Perspectives on Urban Crowd Sound, <strong>Kamyar Karimi, Alice Jarry & Gabriel Vigliensoni</strong> [LT] </li>
+        <li>10:45 -- Don’t Let Screaming Ruin Your Beauty Sleep, Just Bleach It! A Study of Frequency Shearing for Noise, <strong>Marina Lee</strong></li>
+        <li>11:10 -- Timbre as Exposure: Fragility, Proximity, and the Audibility of the Body, <strong>Hee Seng Kye</strong></li>
+        <li>11:35 -- An Embodied and Crossmodal Approach to Timbre in Unaccompanied Solo Traditional Singing, <strong>Kristin Jonzon</strong></li>
       </ul>
     </td>
     <td>
       <u>Session 12: Philosophy of timbre</u>
       <ul style="font-size: 0.9em;">
-        <li>The Commitments of Physical Modeling: Timbre, Mediation, and Virtual Instrument Construction, <strong>Xyh Tamura</strong> [LT]</li>
-        <li>The violent particularity of timbre as sonic and symbolist ideal in new music, <strong>Amy Bauer</strong></li>
-        <li>"Almost Unbelievably Rich": Autistic Listening and Wandelweiser Music, <strong>Nathan Friedman</strong></li>
-        <li>Toward a Lachenmannian Phenomenology in the Music of Lachenmann, Saunders, and Iannotta, <strong>Zachary Bernstein</strong></li>
+        <li>10:35 -- The Commitments of Physical Modeling: Timbre, Mediation, and Virtual Instrument Construction, <strong>Xyh Tamura</strong> [LT]</li>
+        <li>10:45 -- The violent particularity of timbre as sonic and symbolist ideal in new music, <strong>Amy Bauer</strong></li>
+        <li>11:10 -- "Almost Unbelievably Rich": Autistic Listening and Wandelweiser Music, <strong>Nathan Friedman</strong></li>
+        <li>11:35 -- Toward a Lachenmannian Phenomenology in the Music of Lachenmann, Saunders, and Iannotta, <strong>Zachary Bernstein</strong></li>
       </ul>
     </td>
   </tr>
@@ -279,8 +285,8 @@ projects: []
   </tr>
 
   <tr>
-    <td>13:30 - 14:20</td>
-    <td colspan="2" style="text-align:center">Keynote 2, <strong><a href="/timbre2026/keynotes/#wallmark">Zachary Wallmark</a></strong></td>
+    <td>13:20 - 14:20</td>
+    <td colspan="2" style="text-align:center">Keynote lecture, <strong><a href="/timbre2026/keynotes/#wallmark">Zachary Wallmark</a></strong> : Authentic, idiosyncratic, or enchanted? Three ideologies of timbre in popular music</td>
   </tr>
 
   <tr>
@@ -289,7 +295,7 @@ projects: []
   </tr>
 
   <tr>
-    <td>14:40 - 16:35</td>
+    <td>14:40 - 16:30</td>
     <td>
       <u>Session 13: Synthetic timbre in popular music</u>
       <ul style="font-size: 0.9em;">
@@ -305,7 +311,9 @@ projects: []
       <ul style="font-size: 0.9em;">
         <li>A Multi-Space Hierarchical Timbre Model: Perceptually Grounded Prediction of Timbral Similarity, <strong>Siavosh Banihashemi</strong></li>
         <li>From Terms to Concepts: Towards an Epistemology of North-American Timbre Theory and Analysis of the Mid-1970s, <strong>Nathalie Hérold</strong></li>
-        <li><em>10 min. break</em></li>
+       </ul>
+       <em>10 min. break</em>
+      <ul style="font-size: 0.9em;">
         <li>The Classroom Case for Timbre, <strong>Holly Bergeron-Dumaine</strong></li>
         <li>Toward a cross-disciplinary framework for strategic communication about timbre, <strong>Lindsey Reymore</strong></li>
       </ul>
