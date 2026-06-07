@@ -316,6 +316,12 @@ projects: []
     <td colspan="2" style="text-align:center">Coffee break</td>
   </tr>
 
+ <tr style="text-align:center">
+    <td> </td>
+    <td><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-claude-champagne/">Salle Claude-Champagne</a></b></td>
+    <td><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-serge-garant/">Salle Serge-Garant (B-484)</a></b></td>
+  </tr>
+
   <tr>
     <td>14:40 - 16:30</td>
     <td>
@@ -449,6 +455,21 @@ projects: []
   <tr>
     <td>12:00 - 13:15</td>
     <td colspan="2" style="text-align:center">Lunch break and poster session</td>
+  </tr>
+
+ <tr>
+    <td></td>
+    <td colspan="2" style="text-align:left">
+     <ul style="font-size: 0.9em;">
+    <li></li>
+     </ul>
+    </td>
+  </tr>
+
+ <tr style="text-align:center">
+    <td> </td>
+    <td><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-claude-champagne/">Salle Claude-Champagne</a></b></td>
+    <td><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-serge-garant/">Salle Serge-Garant (B-484)</a></b></td>
   </tr>
 
   <tr>
