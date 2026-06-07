@@ -65,7 +65,7 @@ projects: []
 
   <tr>
     <td>9:00 - 9:10</td>
-    <td colspan="2" style="text-align:center">Welcom talk</td>
+    <td colspan="2" style="text-align:center">Welcome talk</td>
   </tr>
 
   <tr style="text-align:center">
@@ -75,37 +75,32 @@ projects: []
   </tr>
 
   <tr>
-    <td>9:00 - 9:10</td>
-    <td colspan="2" style="text-align:center">Welcome Talk</td>
-  </tr>
-
-  <tr>
-  <td>9:10 - 10:30</td>
-  <td>
-    <u>Session 1: Artistic reports</u>
-    <ul style="font-size: 0.9em;">
-      <li>It May Not Be Noise: Composing Mental Timbre Through Redistribution and Contextual Interference, <strong>Rafael Maia & José Alberto Gomes</strong></li>
-      <li>Phantom Polyphony: Modeling tinnitus and the variability of its timbre in the context of a sound installation, <strong>Thomas Augustin</strong></li>
-      <li>Lithophonica: Timbral explorations of stones and sticks, <strong>James Harley & Gayle Young</strong></li>
-    </ul>
-  </td>
+  <td>9:10 - 10:25</td>
     <td>
-      <u>Session 2: Contemporary music analysis and dance</u>
+      <u>Session 1: Contemporary music analysis and dance</u>
       <ul style="font-size: 0.9em;">
         <li>Enacting Violence through Choreography-Orchestration Relationships in Stravinsky's Sacrificial Dance, <strong>Rebecca Moranis</strong></li>
         <li>Orchestration and Transformation Procedures in George Benjamin's Dance Figures, <strong>Igor Maia & Robert Hasegawa</strong></li>
         <li>Analysis of Orchestration Style: A Case Study of Two Works by Germaine Tailleferre, <strong>Jade Roth</strong></li>
       </ul>
     </td>
+ <td>
+    <u>Session 2: Artistic reports</u>
+    <ul style="font-size: 0.9em;">
+      <li>It May Not Be Noise: Composing Mental Timbre Through Redistribution and Contextual Interference, <strong>Rafael Maia & José Alberto Gomes</strong></li>
+      <li>Phantom Polyphony: Modeling tinnitus and the variability of its timbre in the context of a sound installation, <strong>Thomas Augustin</strong></li>
+      <li>Lithophonica: Timbral explorations of stones and sticks, <strong>James Harley & Gayle Young</strong></li>
+    </ul>
+  </td>
   </tr>
 
   <tr>
-    <td>10:30 - 10:50</td>
-    <td colspan="2" style="text-align:center">Coffee break</td>
+    <td>10:25 - 10:45</td>
+    <td colspan="2" style="text-align:center">Coffee break and poster session (foyer)</td>
   </tr>
 
   <tr>
-    <td>10:50 - 12:10</td>
+    <td>10:45 - 12:00</td>
     <td>
       <u>Session 3: Crossmodality</u>
       <ul style="font-size: 0.9em;">
@@ -125,24 +120,33 @@ projects: []
   </tr>
 
   <tr>
-    <td>12:10 - 13:30</td>
+    <td>12:00 - 13:20</td>
     <td colspan="2" style="text-align:center">Lunch break and poster session</td>
+    <td>
+     <ul style="font-size: 0.9em;">
+      <li>Re-Examining Germaine Tailleferre Criticism in Light of Orchestral Grouping Effects in her Piano Concerto No. 1 (1924), <strong>Emma Davis</strong></li>
+      <li>The Contours of Timbre in Rebecca Saunders's Fury II, <strong>Ash Mach</strong></li>	
+      <li>Colouring Shapes and Forms: Timbral and Orchestrational Strategies in the Serial Works of Elisabeth Lutyens, <strong>Aidan McGartland</strong></li>
+      <li>Hearing the Form, Seeing the Material: Global and Local Feature Correspondences Across Vision and Audition, <strong>Asterios Zacharakis</strong></li>	
+      <li>MusicVis: Leveraging Cross-Modal Correspondences for Fine-Grained Visual Representations of Music, <strong>Kelly Raines </strong></li>							
+   </ul>
+   </td>
   </tr>
 
   <tr>
     <td>13:30 - 14:50</td>
     <td>
-      <u>Session 5: Panel on Cross-cultural timbre studies</u>
+      <u>Session 5: Panel on cross-cultural timbre studies</u>
+        Negotiating Timbre between East and West: Friction, Reflexivity, and Knowledge-Making in Cross-Cultural Timbral Studies, <strong> Yifan Huang </strong> (moderator)
       <ul style="font-size: 0.9em;">
-        <li>Negotiating Timbre between East and West: Friction, Reflexivity, and Knowledge-Making in Cross-Cultural Timbral Studies, <strong> xx </strong> (moderator)</li>
-        <li>Notating Timbre in Jianzipu: A Gesture-Based MEI Encoding Module, <strong>Eto Sun, Yifan Huang1 & Ichiro Fujinaga</strong></li>
+        <li>Notating Timbre in Jianzipu: A Gesture-Based MEI Encoding Module, <strong>Eto Sun, Yifan Huang & Ichiro Fujinaga</strong></li>
         <li>Hearing Orchestration with the TOGE: A Perception-Oriented Case Study of Lei Liang’s Tremors of a Memory Chord, <strong>Linglan Zhu, Yifan Huang, Florian Iochem, Chen Fan, Lena Heng, & Stephen McAdams</strong></li>
         <li>Western and Chinese Musical Acoustics in Dialogue: Understanding the Timbre of the Chinese Transverse Flute (dizi) Through Physics, <strong>Xinmeng Luan & Gary Scavone</strong></li>
         <li>A cross-cultural comparison of the timbre-semantic space of Chinese instrumental sounds, <strong>Yifan Huang, Linglan Zhu, & Stephen McAdams</strong></li>
       </ul>
     </td>
     <td>
-      <u>Session 6: Timbre and the politics of artificial creativity</u>
+      <u>Session 6: Panel on timbre and the politics of artificial creativity</u>
       <ul style="font-size: 0.9em;">
         <li>Cat In Loop: A Case Study On Timbre, Imagination And AI, <strong>Weilu Ge</strong> & <strong>Nithya Shikarpur</strong></li>
         <li>Timbre at the Interface: Negotiating Audio Representations in the Age of Artificial Creativity, <strong>panel</strong> led by <strong>Charalampos Saitis</strong> with <strong>Kai Siedenburg</strong>, <strong>Landon Morrison</strong>, <strong>Dominic Thibault</strong>, <strong>Hee Seng Kye</strong>, <strong>Weilu Ge</strong>, <strong>Nithya Shikarpur</strong>, <strong>Steven Lewis</strong></li>
