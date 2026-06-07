@@ -53,6 +53,21 @@ projects: []
 </thead>
 <tbody style="vertical-align: top;">
 
+  <tr>
+    <td></td>
+    <td colspan="2" style="text-align:center"><b>Foyer de la Salle Claude Champagne</b></td>
+  </tr>
+
+  <tr>
+    <td>8:00 - 9:00</td>
+    <td colspan="2" style="text-align:center">Registration and breakfast</td>
+  </tr>
+
+  <tr>
+    <td>9:00 - 9:10</td>
+    <td colspan="2" style="text-align:center">Welcom talk</td>
+  </tr>
+
   <tr style="text-align:center">
     <td> </td>
     <td><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-claude-champagne/">Salle Claude-Champagne</a></b></td>
