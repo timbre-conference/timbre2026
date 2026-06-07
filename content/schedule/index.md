@@ -304,6 +304,7 @@ projects: []
         </ul>
        <em>10 min. break</em>
        <br>
+       <br>
         <ul style="font-size: 0.9em;">
         <li>15:40 -- The Timbre Is the Instrument: The Imagined DX7 and 1980s Nostalgia, <strong>Megan Lavengood</strong></li>
         <li>16:05 -- Synthetic Timbres, Cinematic Worlds: Queen's Flash Gordon Soundtrack as a Paradigm for Sound Synthesis and Processing, <strong>Nicola Bizzo</strong></li>
@@ -314,10 +315,11 @@ projects: []
       <ul style="font-size: 0.9em;">
         <li>14:40 -- A Multi-Space Hierarchical Timbre Model: Perceptually Grounded Prediction of Timbral Similarity, <strong>Siavosh Banihashemi</strong></li>
         <li>15:05 -- From Terms to Concepts: Towards an Epistemology of North-American Timbre Theory and Analysis of the Mid-1970s, <strong>Nathalie Hérold</strong></li>
-       </ul>
+        </ul>
        <em>10 min. break</em>
        <br>
-      <ul style="font-size: 0.9em;">
+       <br>
+        <ul style="font-size: 0.9em;">
         <li>15:40 -- The Classroom Case for Timbre, <strong>Holly Bergeron-Dumaine</strong></li>
         <li>16:05 -- Toward a cross-disciplinary framework for strategic communication about timbre, <strong>Lindsey Reymore</strong></li>
       </ul>
@@ -459,6 +461,11 @@ projects: []
       <ul style="font-size: 0.9em;">
         <li>14:50 -- Orchestration of Polyrhythms in Hiatus Kaiyote's Music, <strong>Kelsey Lussier</strong> [LT]</li>
         <li>15:00 -- Analyzing Studio Orchestration through the Hybrid Sound of Michel Legrand, <strong>Mael Oudin</strong></li>
+       </ul>
+       <em>10 min. break</em>
+       <br>
+       <br>
+        <ul style="font-size: 0.9em;">
         <li>15:25 -- Exertion Narratives in Pop Music Production, <strong>Will Mason</strong></li>
         <li><em>(10 min. break)</em></li>
         <li>16:00 -- Beyond Voice Superiority: Acoustic Factors Driving Vocal Salience in Musical Mixtures, <strong>Michel Bürgel & Kai Siedenburg</strong></li>
@@ -471,6 +478,11 @@ projects: []
         <li>14:50 -- Timbre as Structure: Case Study of Georg Friedrich Haas's 11.000 Saiten, <strong>Isabel Keleti</strong> [LT]</li>
         <li>15:00 -- Composing for the Liminare Spectral Organ, <strong>Louis-Michel Tougas</strong></li>
         <li>15:25 -- Timbre in the Music of Luciano Berio: A Workshop on the Sources, <strong>Christoph Neidhöfer</strong></li>
+       </ul>
+       <em>10 min. break</em>
+       <br>
+       <br>
+        <ul style="font-size: 0.9em;">
         <li><em>(10 min. break)</em></li>
         <li>16:00 -- "from inner to outershadow": ensemble coherence in recent works for oboe and strings, <strong>Anton Vishio</strong></li>
         <li>16:25 -- Double-reed Multiphonics: Their Character, Stability, and Potential for Integration with Heterogeneous Instrumental Ensembles, <strong>Roger Reynolds</strong></li>
