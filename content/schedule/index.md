@@ -79,17 +79,17 @@ projects: []
     <td>
       <u>Session 1: Contemporary music analysis and dance</u>
       <ul style="font-size: 0.9em;">
-        <li>Enacting Violence through Choreography-Orchestration Relationships in Stravinsky's Sacrificial Dance, <strong>Rebecca Moranis</strong></li>
-        <li>Orchestration and Transformation Procedures in George Benjamin's Dance Figures, <strong>Igor Maia & Robert Hasegawa</strong></li>
-        <li>Analysis of Orchestration Style: A Case Study of Two Works by Germaine Tailleferre, <strong>Jade Roth</strong></li>
+        <li>9:10 -- Enacting Violence through Choreography-Orchestration Relationships in Stravinsky's Sacrificial Dance, <strong>Rebecca Moranis</strong></li>
+        <li>9:35 -- Orchestration and Transformation Procedures in George Benjamin's Dance Figures, <strong>Igor Maia & Robert Hasegawa</strong></li>
+        <li>10:00 -- Analysis of Orchestration Style: A Case Study of Two Works by Germaine Tailleferre, <strong>Jade Roth</strong></li>
       </ul>
     </td>
  <td>
     <u>Session 2: Artistic reports</u>
     <ul style="font-size: 0.9em;">
-      <li>It May Not Be Noise: Composing Mental Timbre Through Redistribution and Contextual Interference, <strong>Rafael Maia & José Alberto Gomes</strong></li>
-      <li>Phantom Polyphony: Modeling tinnitus and the variability of its timbre in the context of a sound installation, <strong>Thomas Augustin</strong></li>
-      <li>Lithophonica: Timbral explorations of stones and sticks, <strong>James Harley & Gayle Young</strong></li>
+      <li>9:10 -- It May Not Be Noise: Composing Mental Timbre Through Redistribution and Contextual Interference, <strong>Rafael Maia & José Alberto Gomes</strong></li>
+      <li>9:35 -- Phantom Polyphony: Modeling tinnitus and the variability of its timbre in the context of a sound installation, <strong>Thomas Augustin</strong></li>
+      <li>10:00 -- Lithophonica: Timbral explorations of stones and sticks, <strong>James Harley & Gayle Young</strong></li>
     </ul>
   </td>
   </tr>
@@ -104,17 +104,17 @@ projects: []
     <td>
       <u>Session 3: Crossmodality</u>
       <ul style="font-size: 0.9em;">
-        <li>How Transmodal Performative Settings Shape Timbral Perception, <strong>Ajtony Csaba</strong></li>
-        <li>Crossmodal semantic priming between timbre and olfaction: does timbre activate semantic associations? <strong>Asterios Zacharakis</strong></li>
-        <li>Microsensorium: Timbral Crossmodal Worlds in Orchestral Music and AI Video, <strong>Chelsea Komschlies</strong></li>
+        <li>10:45 -- How Transmodal Performative Settings Shape Timbral Perception, <strong>Ajtony Csaba</strong></li>
+        <li>11:10 -- Crossmodal semantic priming between timbre and olfaction: does timbre activate semantic associations? <strong>Asterios Zacharakis</strong></li>
+        <li>10:35 -- Microsensorium: Timbral Crossmodal Worlds in Orchestral Music and AI Video, <strong>Chelsea Komschlies</strong></li>
       </ul>
     </td>
     <td>
       <u>Session 4: Extended techniques</u>
       <ul style="font-size: 0.9em;">
-        <li>Classifying String Instrument Preparation Techniques: Analysis, Taxonomies, and Applications in Computer-Aided Orchestration, <strong>Maurizio Azzan & Luca Guidarini</strong></li>
-        <li>Analyzing String Instrument Preparation Techniques in Context: Timbral Space, Syntax and Form, <strong>Ingrid Pustijanac & Michele Leggieri</strong></li>
-        <li>Applying Timbre Analysis in the Performance of Chamber Music with Timpani and Cello, <strong>Manuel López Tovar</strong></li>
+        <li>10:45 -- Classifying String Instrument Preparation Techniques: Analysis, Taxonomies, and Applications in Computer-Aided Orchestration, <strong>Maurizio Azzan & Luca Guidarini</strong></li>
+        <li>11:10 -- Analyzing String Instrument Preparation Techniques in Context: Timbral Space, Syntax and Form, <strong>Ingrid Pustijanac & Michele Leggieri</strong></li>
+        <li>10:35 -- Applying Timbre Analysis in the Performance of Chamber Music with Timpani and Cello, <strong>Manuel López Tovar</strong></li>
       </ul>
     </td>
   </tr>
