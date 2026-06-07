@@ -466,9 +466,9 @@ projects: []
     </td>
   </tr>
 
- <tr style="text-align:center">
+  <tr style="text-align:center">
     <td> </td>
-    <td><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-claude-champagne/">Salle Claude-Champagne</a></b></td>
+    <td><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-jean-papineau-couture/">Salle Jean-Papineau-Couture (B-421)</a></b></td>
     <td><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-serge-garant/">Salle Serge-Garant (B-484)</a></b></td>
   </tr>
 
