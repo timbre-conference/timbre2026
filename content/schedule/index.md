@@ -121,7 +121,7 @@ projects: []
 
   <tr>
     <td>12:00 - 13:20</td>
-    <td colspan="2" style="text-align:center">Lunch break and poster session</td>
+    <td colspan="2" style="text-align:center">Lunch break and poster session
      <ul style="font-size: 0.9em;">
       <li>Re-Examining Germaine Tailleferre Criticism in Light of Orchestral Grouping Effects in her Piano Concerto No. 1 (1924), <strong>Emma Davis</strong></li>
       <li>The Contours of Timbre in Rebecca Saunders's Fury II, <strong>Ash Mach</strong></li>	
@@ -129,6 +129,7 @@ projects: []
       <li>Hearing the Form, Seeing the Material: Global and Local Feature Correspondences Across Vision and Audition, <strong>Asterios Zacharakis</strong></li>	
       <li>MusicVis: Leveraging Cross-Modal Correspondences for Fine-Grained Visual Representations of Music, <strong>Kelly Raines </strong></li>							
     </ul>
+  </td>
   </tr>
 
   <tr>
