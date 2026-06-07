@@ -122,27 +122,25 @@ projects: []
   <tr>
     <td>12:00 - 13:20</td>
     <td colspan="2" style="text-align:center">Lunch break and poster session</td>
-    <td>
      <ul style="font-size: 0.9em;">
       <li>Re-Examining Germaine Tailleferre Criticism in Light of Orchestral Grouping Effects in her Piano Concerto No. 1 (1924), <strong>Emma Davis</strong></li>
       <li>The Contours of Timbre in Rebecca Saunders's Fury II, <strong>Ash Mach</strong></li>	
       <li>Colouring Shapes and Forms: Timbral and Orchestrational Strategies in the Serial Works of Elisabeth Lutyens, <strong>Aidan McGartland</strong></li>
       <li>Hearing the Form, Seeing the Material: Global and Local Feature Correspondences Across Vision and Audition, <strong>Asterios Zacharakis</strong></li>	
       <li>MusicVis: Leveraging Cross-Modal Correspondences for Fine-Grained Visual Representations of Music, <strong>Kelly Raines </strong></li>							
-   </ul>
-   </td>
+    </ul>
   </tr>
 
   <tr>
-    <td>13:30 - 14:50</td>
+    <td>13:20 - 14:50</td>
     <td>
       <u>Session 5: Panel on cross-cultural timbre studies</u>
         Negotiating Timbre between East and West: Friction, Reflexivity, and Knowledge-Making in Cross-Cultural Timbral Studies, <strong> Yifan Huang </strong> (moderator)
       <ul style="font-size: 0.9em;">
-        <li>Notating Timbre in Jianzipu: A Gesture-Based MEI Encoding Module, <strong>Eto Sun, Yifan Huang & Ichiro Fujinaga</strong></li>
-        <li>Hearing Orchestration with the TOGE: A Perception-Oriented Case Study of Lei Liang’s Tremors of a Memory Chord, <strong>Linglan Zhu, Yifan Huang, Florian Iochem, Chen Fan, Lena Heng, & Stephen McAdams</strong></li>
-        <li>Western and Chinese Musical Acoustics in Dialogue: Understanding the Timbre of the Chinese Transverse Flute (dizi) Through Physics, <strong>Xinmeng Luan & Gary Scavone</strong></li>
-        <li>A cross-cultural comparison of the timbre-semantic space of Chinese instrumental sounds, <strong>Yifan Huang, Linglan Zhu, & Stephen McAdams</strong></li>
+        <li>13:25 -- Notating Timbre in Jianzipu: A Gesture-Based MEI Encoding Module, <strong>Eto Sun, Yifan Huang & Ichiro Fujinaga</strong></li>
+        <li>13:45 -- Hearing Orchestration with the TOGE: A Perception-Oriented Case Study of Lei Liang’s Tremors of a Memory Chord, <strong>Linglan Zhu, Yifan Huang, Florian Iochem, Chen Fan, Lena Heng, & Stephen McAdams</strong></li>
+        <li>14:05 -- Western and Chinese Musical Acoustics in Dialogue: Understanding the Timbre of the Chinese Transverse Flute (dizi) Through Physics, <strong>Xinmeng Luan & Gary Scavone</strong></li>
+        <li>14:25 -- A cross-cultural comparison of the timbre-semantic space of Chinese instrumental sounds, <strong>Yifan Huang, Linglan Zhu, & Stephen McAdams</strong></li>
       </ul>
     </td>
     <td>
