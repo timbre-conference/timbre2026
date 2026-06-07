@@ -308,7 +308,7 @@ projects: []
 
   <tr>
     <td>13:20 - 14:20</td>
-    <td colspan="2">Keynote lecture, <strong><a href="/timbre2026/keynotes/#wallmark">Zachary Wallmark</a></strong> : Authentic, idiosyncratic, or enchanted? Three ideologies of timbre in popular music</td>
+    <td colspan="2">Keynote lecture: <strong><a href="/timbre2026/keynotes/#wallmark">Zachary Wallmark</a></strong> : Authentic, idiosyncratic, or enchanted? Three ideologies of timbre in popular music</td>
   </tr>
 
   <tr>
