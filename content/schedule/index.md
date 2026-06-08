@@ -134,12 +134,19 @@ projects: []
       <li>Colouring Shapes and Forms: Timbral and Orchestrational Strategies in the Serial Works of Elisabeth Lutyens, <strong>Aidan McGartland</strong></li>
       <li>Hearing the Form, Seeing the Material: Global and Local Feature Correspondences Across Vision and Audition, <strong>Asterios Zacharakis</strong></li>	
       <li>MusicVis: Leveraging Cross-Modal Correspondences for Fine-Grained Visual Representations of Music, <strong>Kelly Raines </strong></li>
+      <li>Timbre’s Beholders and the Racialization of Sensation in Concert Music Aesthetics, <strong>Colin Tucker</strong></li>
       <li>Toward a Conceptual Framework for AI-Mediated Timbre Transformation: Exploring Transparency and Interaction in Algorithmic Intervention and Interface Design, <strong>Steven Lewis</strong></li>
       <li>Concrete Listening in Latent Space: Reduced Semantic Conditioning of Diffusion Transformers as a Compositional Strategy, <strong>David Piazza</strong></li>
       <li>Prony-Informed Percussion Orchestration: A Case Study in Elements of Adventure, <strong>Joseph Chang</strong></li>
       <li>Timbre discrimination in drum tom-toms: An approach based on audio descriptors and timbre space, <strong>Carlos de Castro</strong></li>
     </ul>
   </td>
+  </tr>
+
+ <tr style="text-align:center">
+    <td> </td>
+    <td><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-claude-champagne/">Salle Claude-Champagne</a></b></td>
+    <td><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-serge-garant/">Salle Serge-Garant (B-484)</a></b></td>
   </tr>
 
   <tr>
@@ -304,6 +311,13 @@ projects: []
 	<li>Timbre as a Pedagogical Tool for Students with Dyslexia in the Music Theory Classroom, <strong>Joy Anderson</strong></li>
     </ul>
     </td>
+  </tr>
+
+ <tr>
+    <td></td>
+    <td colspan="2" style="text-align:center">
+     <b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-claude-champagne/">Salle Claude-Champagne</a></b>
+     </td>
   </tr>
 
   <tr>
