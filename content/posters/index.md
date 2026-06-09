@@ -19,6 +19,8 @@ image:
 projects: []
 ---
 
+Here are the logos you can use in your posters and slides : [Timbre2026-Horizontal](assets/media/logos/Timbre_logo_horizontal.pdf) 
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
