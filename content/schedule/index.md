@@ -132,13 +132,13 @@ projects: []
       <li>Re-Examining Germaine Tailleferre Criticism in Light of Orchestral Grouping Effects in her Piano Concerto No. 1 (1924), <strong>Emma Davis</strong></li>
       <li>The Contours of Timbre in Rebecca Saunders's Fury II, <strong>Ash Mach</strong></li>	
       <li>Colouring Shapes and Forms: Timbral and Orchestrational Strategies in the Serial Works of Elisabeth Lutyens, <strong>Aidan McGartland</strong></li>
-      <li>Hearing the Form, Seeing the Material: Global and Local Feature Correspondences Across Vision and Audition, <strong>Asterios Zacharakis</strong></li>	
-      <li>MusicVis: Leveraging Cross-Modal Correspondences for Fine-Grained Visual Representations of Music, <strong>Kelly Raines </strong></li>
+      <li>Hearing the Form, Seeing the Material: Global and Local Feature Correspondences Across Vision and Audition, <strong>Asterios Zacharakis & Amit Gur</strong></li>	
+      <li>MusicVis: Leveraging Cross-Modal Correspondences for Fine-Grained Visual Representations of Music, <strong>Kelly Raines & Xin Wei Sha</strong></li>
       <li>Timbre’s Beholders and the Racialization of Sensation in Concert Music Aesthetics, <strong>Colin Tucker</strong></li>
       <li>Toward a Conceptual Framework for AI-Mediated Timbre Transformation: Exploring Transparency and Interaction in Algorithmic Intervention and Interface Design, <strong>Steven Lewis</strong></li>
       <li>Concrete Listening in Latent Space: Reduced Semantic Conditioning of Diffusion Transformers as a Compositional Strategy, <strong>David Piazza</strong></li>
-      <li>Prony-Informed Percussion Orchestration: A Case Study in Elements of Adventure, <strong>Joseph Chang</strong></li>
-      <li>Timbre discrimination in drum tom-toms: An approach based on audio descriptors and timbre space, <strong>Carlos de Castro</strong></li>
+      <li>Prony-Informed Percussion Orchestration: A Case Study in Elements of Adventure, <strong>Joseph Chang & Philippe Depalle</strong></li>
+      <li>Timbre discrimination in drum tom-toms: An approach based on audio descriptors and timbre space, <strong>Carlos de Castro & Marcelo Gomes de Queiroz</strong></li>
     </ul>
   </td>
   </tr>
@@ -299,15 +299,15 @@ projects: []
     <td></td>
     <td colspan="2" style="text-align:left">
      <ul style="font-size: 0.9em;">
-	<li>Towards embodied and inclusive crossmodal experiences of timbre and music: User perspectives of a new vibrotactile assistive device, <strong>Alex Bégin</strong></li>
-	<li>Reactive Materials and Gesture in Timbral Shaping: Towards an Augmented Sonic Device, <strong>Maria Vittoria Agresti </strong></li>
-	<li>Signs of Mediated Gesture: Play and Recognition in Mixed Instrumental Works, <strong>Nicholas Ma</strong></li>
-	<li>Measuring Consistency in Explainable Synthetic Timbre Annotators, <strong>Peter McCabe</strong></li>
-	<li>Vocal Timbre Similarity for Personalized Singer Matching and Song Recommendation, <strong>Jiaxing Yu Learning</strong></li>
-	<li>Investigating "Timbre Tagging" of Pitch Structure in an Implicit Statistical Learning Paradigm, <strong>Adam Andrew Garrow</strong></li>
-	<li>Everyday Sounds as Emotional Catalysts: A Research-Creation Study in Contemporary Music, <strong>Yifan Huang</strong></li>
-	<li>Grounding Musical Intimacy in Timbre: Exploring a Conceptual Model of Intimate Listening, <strong>Yifan Huang</strong></li>
-	<li>Creating a Timbral Monster: The Superclarinet of Martino’s Triple Concerto, <strong>Zachary Brennan</strong></li>
+	<li>Towards embodied and inclusive crossmodal experiences of timbre and music: User perspectives of a new vibrotactile assistive device, <strong>Alex Bégin, <u>Loonan Chauvette</u>, Jérémie Voix, Matthieu J. Guitton, & Andréanne Sharp</strong></li>
+	<li> Time-dependent Materials and Gesture in Timbral Shaping: Towards a Material-based Sonic Device, <strong>Maria Vittoria Agresti, Ernesto Di Maio, & Stefano Silvestri </strong></li>
+	<li>Play and Recognition in Mixed Instrumental Works, <strong>Nicholas Ma</strong></li>
+	<li>Measuring Consistency in Explainable Synthetic Timbre Annotators, <strong>Peter McCabe, Alec Krsek, &Patrick J. Donnelly</strong></li>
+	<li>Learning Vocal Timbre Similarity for Personalized Singer Matching and Song Recommendation, <strong>Jiaxing Yu, Yingping Cao, Ziyi Huang, Yuhang Jin, Shuyu Li1, & Kejun Zhang</strong></li>
+	<li>Investigating "Timbre Tagging" of Pitch Structure in a Statistical Learning Paradigm, <strong>Adam Andrew Garrow & Marcus Thomas Pearce</strong></li>
+	<li>Everyday Sounds as Emotional Catalysts: A Research-Creation Study in Contemporary Music, <strong>Jonas Regnier, Yifan Huang, & Stephen McAdams</strong></li>
+	<li>Grounding Musical Intimacy in Timbre: Exploring a Conceptual Model of Intimate Listening, <strong>Yifan Huang, Martha de Francisco, & Stephen McAdams</strong></li>
+	<li>Creating a Timbral Monster: The Superclarinet of Martino’s Triple Concerto, <strong>Zac Brennan</strong></li>
 	<li>Timbre as a Pedagogical Tool for Students with Dyslexia in the Music Theory Classroom, <strong>Joy Anderson</strong></li>
     </ul>
     </td>
@@ -475,11 +475,11 @@ projects: []
     <td></td>
     <td colspan="2" style="text-align:left">
      <ul style="font-size: 0.9em;">
-	<li>Evaluation of Audio and Language Foundation Models on Timbre Cognition Tasks, <strong>Georgios Velissaridis</strong></li>
-	<li>Transitivity and Timbre Similarity Judgment, <strong>Molly Jones</strong></li>
-	<li>Musical Metaphors: Timbre, Semantics, and Meaning, <strong>Susanne Sevcik</strong></li>
+	<li>Evaluation of Audio and Language Foundation Models on Timbre Cognition Tasks, <strong>Yorgos Velissaridis, György Fazekas, & Charalampos Saitis</strong></li>
+	<li>Transitivity and Timbre Similarity Judgment, <strong>Molly Jones & Sile O’Modhrain</strong></li>
+	<li>Memory for Musical Meaning Through Timbre Semantics, <strong>Susanne Sevcik</strong></li>
 	<li>Timbre, Perception, and Musical Form in Tan Dun’s Water Concerto (1998), <strong>Anqi Wang</strong></li>
-	<li>Thinking Timbre Through Light: Chiaroscuro Metaphors in Saariaho’s Solo Cello Music, <strong>Rafael Felicio Silva Godoi</strong></li>
+	<li>Thinking Timbre Through Light: Chiaroscuro Metaphors in Saariaho’s Solo Cello Music, <strong>Rafael Felicio Silva Godoi1 & Igor Leão Maia</strong></li>
 	<li>From Numbers to Practice: The Perceptual Reality of Neutral Intervals in Persian Tuning, <strong>Farzad Milani</strong></li>
 	<li>Is Everything Romantic?: Sonic Expressions of Gender in Hyperpop Vocal Production, <strong>Lilly Korkontzelos</strong></li>
 	<li>Invariant Instrumentation and the Effects of Shifted Vocal Performance on Screamed Deathcore Songs, <strong>Zachary Simonds </strong></li>
