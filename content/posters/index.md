@@ -19,8 +19,10 @@ image:
 projects: []
 ---
 
-Here are the logos you can use in your posters and slides: [Timbre2026-Horizontal](/timbre2026/logos/timbre_logo_horizontal.pdf)
-
+Here are the logos you can use in your posters and slides: 
+[Timbre2026-Horizontal](/timbre2026/logos/timbre_logo_horizontal.pdf)
+[Timbre2026-Vertical](/timbre2026/logos/timbre_logo_vertical.pdf)
+[Timbre2026-Vertical-Texte](/timbre2026/logos/timbre_logo_vertical_text.pdf)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
