@@ -571,7 +571,7 @@ projects: []
         <li>Keon Ju Maverick Lee - Resonance and Depth</li>
         <li>Gael Moriceau - Harmonic Turbulences</li>
        </ul>
-       <em>10 min. break</em>
+       <em>intermission</em>
        <br>
        <br>
         <ul style="font-size: 0.9em;">
