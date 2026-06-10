@@ -553,19 +553,27 @@ projects: []
   </tr>
 
   <tr>
-    <td>16:50 - 17:20</td>
-    <td colspan="2" style="text-align:center">Break</td>
+    <td>17:20 - 19:00</td>
+    <td colspan="2" style="text-align:center">Concert</td>
   </tr>
 
   <tr>
     <td></td>
-    <td colspan="2" style="text-align:center"><b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-claude-champagne/">Salle Claude-Champagne</a></b></td>
+    <td colspan="2">
+      <ul style="font-size: 0.9em;">
+        <li><strong>Benjamin Lavastre</strong> — <em>Essai de coexistence sonore</em> (Karlax & double bass)</li>
+        <li><strong>Arja Kastinen</strong> (Kantele)</li>
+        <li><strong>Keon Ju Maverick Lee</strong> — <em>Resonance and Depth</em> (acousmatic)</li>
+        <li><strong>Gaël Moriceau</strong> — <em>Harmonic Turbulences</em> (T-Stick)</li>
+      </ul>
+      <p style="font-size: 0.9em; text-align:center;"><em>Intermission</em></p>
+      <ul style="font-size: 0.9em;">
+        <li><strong>Tarcísio Braga</strong> — <em>Tambor</em> (snare drum et electronics)</li>
+        <li><strong>Hubert Ho</strong> — <em>Satellites</em> (piano & spatialisation)</li>
+        <li><strong>Robert Normandeau</strong> — <em>StrinGDberg</em> (acousmatic)</li>
+      </ul>
+    </td>
   </tr>
-
-   <tr>
-      <td>17:20 - 19:00</td>
-      <td colspan="2" style="text-align:center">Concert</td>
-    </tr>
 
 </tbody>
 </table>
