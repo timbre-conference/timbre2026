@@ -47,9 +47,9 @@ Robert Hasegawa, McGill University<br>
 Ravi Shankar Domingues<br>
 Simon Grégorcic<br>
 Zakary Colello<br>
+AC Riznar<br>
 Daria Giritch<br> 
 Rosalie Dutil<br>
-AC Riznar<br>
 
 ### <span style="color:var(--darkBlue);">Research assistants at U. McGill</span>
 Jade Roth<br>
