@@ -565,22 +565,25 @@ projects: []
   <tr>
     <td>17:20 - 19:00</td>
     <td colspan="2" style="text-align:center">Concert</td>
+
     <td colspan="2" style="text-align:left">
-     <ul style="font-size: 0.9em;">
-        <li>Benjamin Lavastre - Essai de coexistence sonore</li>
-        <li>Arja Kastinen</li>
-        <li>Keon Ju Maverick Lee - Resonance and Depth</li>
-        <li>Gael Moriceau - Harmonic Turbulences</li>
-       </ul>
-       <em>intermission</em>
-       <br>
-       <br>
-        <ul style="font-size: 0.9em;">
-        <li>Tarcisio Braga - Tambor</li>
-        <li>Hubert Ho - Satellites</li>
-        <li>Robert Normandeau - StrinGDberg</li>
-      </ul>
-  </td>
+
+	<ul style="font-size: 0.9em;">
+	  <li><strong>Benjamin Lavastre</strong> - Essai de coexistence sonore</li>
+	  <li><strong>Arja Kastinen</strong></li>
+  	<li><strong>Keon Ju Maverick Lee</strong> - Resonance and Depth</li>
+  	<li><strong>Gael Moriceau</strong> - Harmonic Turbulences</li>
+	</ul>
+
+	<p><em>Intermission</em></p>
+
+	<ul style="font-size: 0.9em;">
+ 	 <li><strong>Tarcisio Braga</strong> - Tambor</li>
+ 	 <li><strong>Hubert Ho</strong> - Satellites</li>
+ 	 <li><strong>Robert Normandeau</strong> - StrinGDberg</li>
+	</ul>   
+
+   </td>
   </tr>
 
 </tbody>
