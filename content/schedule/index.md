@@ -565,6 +565,20 @@ projects: []
   <tr>
     <td>17:20 - 19:00</td>
     <td colspan="2" style="text-align:center">Concert</td>
+     <ul style="font-size: 0.9em;">
+        <li>Benjamin Lavastre - Essai de coexistence sonore</li>
+        <li>Arja Kastinen</li>
+        <li>Keon Ju Maverick Lee - Resonance and Depth</li>
+        <li>Gael Moriceau - Harmonic Turbulences</li>
+       </ul>
+       <em>10 min. break</em>
+       <br>
+       <br>
+        <ul style="font-size: 0.9em;">
+        <li>Tarcisio Braga - Tambor</li>
+        <li>Hubert Ho - Satellites</li>
+        <li>Robert Normandeau - StrinGDberg</li>
+      </ul>
   </tr>
 
 </tbody>
