@@ -507,7 +507,7 @@ projects: []
       <u>Session 22: Vocality</u>
       <ul style="font-size: 0.9em;">
         <li>13:15 -- Emergence of vocality: hybridization and timbral metamorphoses between the pipe organ and the voice in the ORA and Vox Humana Projects, <strong>Hyun-Hwa Cho & Christophe d'Alessandro</strong></li>
-        <li>13:40 -- Sounding "round", "bright", "Oooh" or "Aaah": on the use of phonemes to describe the timbre of string quartet instruments, <strong>Leïla Barbedette</strong></li>
+        <li>13:40 -- Sounding "round", "bright", "Oooh" or "Aaah": on the use of phonemes to describe the timbre of string quartet instruments, <strong>Leïla Barbedette & Caroline Traube</strong></li>
         <li>14:05 -- Two Rappers: Recreating vocal patterns through percussion in George Lewis' North Star Boogaloo, <strong>Malcolm Taylor</strong></li>
       </ul>
     </td>
