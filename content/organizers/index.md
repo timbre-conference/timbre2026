@@ -44,11 +44,16 @@ Jimmie LeBlanc, University of Montreal</br>
 Robert Hasegawa, McGill University<br>
 
 ### <span style="color:var(--darkBlue);">Research assistants at U. of Montreal</span>
-Zakary Colello<br>
-Daria Giritch<br> 
 Ravi Shankar Domingues<br>
 Simon Grégorcic<br>
+Zakary Colello<br>
+Daria Giritch<br> 
+Rosalie Dutil<br>
 AC Riznar<br>
+
+### <span style="color:var(--darkBlue);">Research assistants at U. McGill</span>
+Jade Roth<br>
+Joshua Rosner<br>
 
 ### <span style="color:var(--darkBlue)">Evaluation Committee</span>
 
