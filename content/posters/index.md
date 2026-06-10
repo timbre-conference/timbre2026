@@ -31,6 +31,7 @@ Here are the logos you can use in your posters and slides: [Timbre2026-Horizonta
   font-weight:normal;overflow:hidden;padding:10px 9px;word-break:normal;}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}
 </style>
+
 <table class="tg" style="undefined;table-layout: fixed; width: 820px;">
 <colgroup>
 <col style="width: 280px">
@@ -68,7 +69,9 @@ Here are the logos you can use in your posters and slides: [Timbre2026-Horizonta
   </tr>
 </tbody>
 </table>
+
 <br>
+
 <table class="tg" style="undefined;table-layout: fixed; width: 820px;">
 <colgroup>
 <col style="width: 280px">
@@ -132,7 +135,9 @@ Here are the logos you can use in your posters and slides: [Timbre2026-Horizonta
   </tr>
 </tbody>
 </table>
+
 <br>
+
 <table class="tg" style="undefined;table-layout: fixed; width: 820px;">
 <colgroup>
 <col style="width: 280px">
