@@ -500,7 +500,7 @@ projects: []
       <ul style="font-size: 0.9em;">
         <li>13:15 -- From sensitive listening to sound to the intuition of a gesture, <strong>Jean Geoffroy</strong></li>
         <li>13:40 -- "So that the sting first enters the skin, and then hurts": embodied transmission of a single note, <strong>Gina Fatone</strong></li>
-        <li>14:05 -- Timbral Habitus: Sound, Listening, and Embodiment, <strong>Jose R Torres</strong></li>
+        <li>14:05 -- , <strong></strong></li>
       </ul>
     </td>
     <td>
