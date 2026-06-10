@@ -20,16 +20,16 @@ projects: []
 ---
 
 <ul style="font-size: 0.9em;">
-<li>Benjamin Lavastre - Essai de coexistence sonore</li>
-<li>Arja Kastinen</li>
-<li>Keon Ju Maverick Lee - Resonance and Depth</li>
-<li>Gael Moriceau - Harmonic Turbulences</li>
+  <li>Benjamin Lavastre - Essai de coexistence sonore</li>
+  <li>Arja Kastinen</li>
+  <li>Keon Ju Maverick Lee - Resonance and Depth</li>
+  <li>Gael Moriceau - Harmonic Turbulences</li>
 </ul>
-<em>Intermission</em>
-<br>
-<br>
+
+<p><em>Intermission</em></p>
+
 <ul style="font-size: 0.9em;">
-<li>Tarcisio Braga - Tambor</li>
-<li>Hubert Ho - Satellites</li>
-<li>Robert Normandeau - StrinGDberg</li>
+  <li>Tarcisio Braga - Tambor</li>
+  <li>Hubert Ho - Satellites</li>
+  <li>Robert Normandeau - StrinGDberg</li>
 </ul>
