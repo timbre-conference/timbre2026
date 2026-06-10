@@ -565,6 +565,7 @@ projects: []
   <tr>
     <td>17:20 - 19:00</td>
     <td colspan="2" style="text-align:center">Concert</td>
+    <td colspan="2" style="text-align:left">
      <ul style="font-size: 0.9em;">
         <li>Benjamin Lavastre - Essai de coexistence sonore</li>
         <li>Arja Kastinen</li>
@@ -579,6 +580,7 @@ projects: []
         <li>Hubert Ho - Satellites</li>
         <li>Robert Normandeau - StrinGDberg</li>
       </ul>
+  </td>
   </tr>
 
 </tbody>
