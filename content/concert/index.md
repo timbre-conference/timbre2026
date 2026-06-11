@@ -66,7 +66,7 @@ Work published by YMX Media (SOCAN)
 
 <br>
 
-{{< figure src="photos_concert_robert normandeau.jpg" alt="Robert Normandeau" width="100%" >}}
+{{< figure src="photos_concert_robert normandeau.png" alt="Robert Normandeau" width="100%" >}}
 
 <strong>Robert Normandeau</strong> (Québec, 1955)
 
