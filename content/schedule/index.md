@@ -552,6 +552,11 @@ projects: []
     </td>
   </tr>
 
+ <tr>
+    <td>16:50 - 17:20</td>
+    <td colspan="2" style="text-align:center">Break</td>
+  </tr>
+
   <tr>
     <td></td>
     <td colspan="2" style="text-align:center">
