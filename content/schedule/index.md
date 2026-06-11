@@ -553,6 +553,13 @@ projects: []
   </tr>
 
   <tr>
+    <td></td>
+    <td colspan="2" style="text-align:center">
+     <b><a href="https://musique.umontreal.ca/a-propos/nos-espaces/salles-de-concerts/salle-claude-champagne/">Salle Claude-Champagne</a></b>
+     </td>
+  </tr>
+
+  <tr>
     <td>17:20 - 19:00</td>
     <td colspan="2" style="text-align:center">Concert</td>
   </tr>
