@@ -114,7 +114,7 @@ projects: []
       <ul style="font-size: 0.9em;">
         <li>10:45 -- How Transmodal Performative Settings Shape Timbral Perception, <strong>Ajtony Csaba</strong></li>
         <li>11:10 -- Crossmodal semantic priming between timbre and olfaction: does timbre activate semantic associations? <strong>Asterios Zacharakis</strong></li>
-        <li>10:35 -- Microsensorium: Timbral Crossmodal Worlds in Orchestral Music and AI Video, <strong>Chelsea Komschlies</strong></li>
+        <li>11:35 -- Microsensorium: Timbral Crossmodal Worlds in Orchestral Music and AI Video, <strong>Chelsea Komschlies</strong></li>
       </ul>
     </td>
   </tr>
@@ -256,7 +256,7 @@ projects: []
     <td>
       <u>Session 10: Hearing/touching synthetic textures</u>
       <ul style="font-size: 0.9em;">
-        <li>9:00 -- Towards embodied and inclusive crossmodal experiences of timbre and music: User perspectives of a new vibrotactile assistive device, <strong>Loonan Chauvette, Alex Bégin, Jérémie Voix, Matthieu J. Guitton, & Andréanne Sharp</strong></li>
+        <li>9:00 -- Timbre beyond hearing: auditory and vibrotactile interactions in the perception of timbre-related acoustic features, <strong>Loonan Chauvette, Anne Sophie Grenier, Philippe Albouy, Emily Coffey, Robert Zatorre & Andréanne Sharp</strong></li>
         <li>9:25 -- Empirical Study of the Semantics of Synthetic "Timbre-Textures", <strong>Jason Noble, Francis Bourgoin, Takuto Fukuda, Caroline Traube, & Zachary Wallmark</strong></li>
         <li>9:50 -- Gestural Control of Timbre with a Digital Musical Instrument, <strong>Gaël Moriceau</strong></li>
       </ul>
