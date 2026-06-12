@@ -102,19 +102,19 @@ projects: []
   <tr>
     <td>10:45 - 12:00</td>
     <td>
-      <u>Session 3: Crossmodality</u>
+      <u>Session 3: Extended techniques</u>
+      <ul style="font-size: 0.9em;">
+        <li>10:45 -- Classifying String Instrument Preparation Techniques: Analysis, Taxonomies, and Applications in Computer-Aided Orchestration, <strong>Maurizio Azzan & Luca Guidarini</strong></li>
+        <li>11:10 -- Analyzing String Instrument Preparation Techniques in Context: Timbral Space, Syntax and Form, <strong>Ingrid Pustijanac & Michele Leggieri</strong></li>
+        <li>11:35 -- Applying Timbre Analysis in the Performance of Chamber Music with Timpani and Cello, <strong>Manuel López Tovar</strong></li>
+      </ul>
+    </td>
+     <td>
+      <u>Session 4: Crossmodality</u>
       <ul style="font-size: 0.9em;">
         <li>10:45 -- How Transmodal Performative Settings Shape Timbral Perception, <strong>Ajtony Csaba</strong></li>
         <li>11:10 -- Crossmodal semantic priming between timbre and olfaction: does timbre activate semantic associations? <strong>Asterios Zacharakis</strong></li>
         <li>10:35 -- Microsensorium: Timbral Crossmodal Worlds in Orchestral Music and AI Video, <strong>Chelsea Komschlies</strong></li>
-      </ul>
-    </td>
-    <td>
-      <u>Session 4: Extended techniques</u>
-      <ul style="font-size: 0.9em;">
-        <li>10:45 -- Classifying String Instrument Preparation Techniques: Analysis, Taxonomies, and Applications in Computer-Aided Orchestration, <strong>Maurizio Azzan & Luca Guidarini</strong></li>
-        <li>11:10 -- Analyzing String Instrument Preparation Techniques in Context: Timbral Space, Syntax and Form, <strong>Ingrid Pustijanac & Michele Leggieri</strong></li>
-        <li>10:35 -- Applying Timbre Analysis in the Performance of Chamber Music with Timpani and Cello, <strong>Manuel López Tovar</strong></li>
       </ul>
     </td>
   </tr>
@@ -553,7 +553,7 @@ projects: []
   </tr>
 
  <tr>
-    <td>16:50 - 17:20</td>
+    <td>16:50 - 17:10</td>
     <td colspan="2" style="text-align:center">Break</td>
   </tr>
 
@@ -565,7 +565,12 @@ projects: []
   </tr>
 
   <tr>
-    <td>17:20 - 19:00</td>
+    <td>17:10 - 17:30</td>
+    <td colspan="2" style="text-align:center">Closing remarks</td>
+  </tr>
+
+  <tr>
+    <td>17:30 - 19:00</td>
     <td colspan="2" style="text-align:center">Concert</td>
   </tr>
 
