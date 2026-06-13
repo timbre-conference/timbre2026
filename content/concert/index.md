@@ -49,11 +49,10 @@ Salle Claude-Champagne, Faculté de musique, Université de Montréal
 <strong>Strindberg</strong>. Music composed using sound elements created for the stage music of August Strindberg’s Miss Julie, directed by Brigitte Haentjens at Espace GO in Montreal in May 2001.
 </p>
 <p style="font-size: 0.8em;">
-<strong>StrinGDberg</strong> is the first work in the Timbre Spatialization cycle, which focuses on the composition and spatialization of timbre in immersive loudspeaker systems. This cycle is still ongoing and comprises a dozen works. It was commissioned by the GRM (Groupe de recherches musicales de Paris). It premiered in Paris on June 1, 2001. Hurdy-gurdy: Silvy Grenier; cello: James Darling. It premiered in Montreal on September 14, 2002. Revised in 2003, it premiered in Aarhus (Denmark) in November 2003. New version in 2025.
+<strong>StrinGDberg</strong> is the first work in the Timbre Spatialization cycle, which focuses on the composition and spatialization of timbre in immersive loudspeaker systems. This cycle is still ongoing and comprises a dozen works. It was commissioned by the GRM (Groupe de recherches musicales de Paris). 
 
-© 2001 Normandeau (SOCAN)
-
-Work published by YMX Media (SOCAN)
+<p style="font-size: 0.8em;">
+Hurdy-gurdy: Silvy Grenier; cello: James Darling.
 </p>
 
 {{< figure src="photos_concert_robert normandeau.png" alt="Robert Normandeau" width="100%" >}}
