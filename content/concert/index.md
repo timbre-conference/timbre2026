@@ -34,11 +34,13 @@ Salle Claude-Champagne, Faculté de musique, Université de Montréal
 
 <ul style="font-size: 0.9em;">
   <li><strong>Tarcísio Braga</strong> — <em>Tambor</em> (snare drum et electronics)</li>
-  <li><strong>Hubert Ho</strong> — <em>Satellites</em> (piano & spatialisation)</li>
+  <li><strong>Matt Schumaker</strong> — <em>Satellites</em> (piano, electronics & spatialization)</li> - performed by <strong>Hubert Ho</strong>
   <li><strong>Robert Normandeau</strong> — <em>StrinGDberg</em> (acousmatic)</li>
 </ul>
 
 <br>
+
+
 
 <p style="font-size: 1.2em;">
 <strong>Program notes and biographies</strong>
@@ -87,6 +89,36 @@ expressive music performance within the MIDI domain.
 artist-researcher, electronic percussionist, and creator working across avant-garde electronic music and audiovisual art. His immersive works treat timbre, sound diffusion, and spatial motion as central compositional materials, with loudspeaker arrays and binaural headphones serving as complementary listening environments. As a research-creation PhD candidate at Simon Fraser University’s Metacreation Lab, they develop co-creative, artist-in-the-loop musical agents and interactive systems for percussion performance, while also conducting research on large-scale music datasets and computational approaches to music analysis. His performances, installations, and collaborative projects have been presented at the SAT in Montréal, MUTEK,WeSA, MusicAcoustica, Ars Electronica, SIGGRAPH, and the AI Song Contest as a Top 10 finalist in 2024. They have collaborated with researchers affiliated with C4DM, CIRMMT, and
 IRCAM, and have presented research through TISMIR, ISMIR, NIME, AIMC, and the NeurIPS Creative AI Track. His recent spatial works were selected for the petites formes 2026 Acousmatic Composition Competition and they remain active in Montréal’s avant-garde music
 and experimental arts community.
+</p>
+
+
+<br>
+
+
+<strong>Matt Schumaker</strong> — <em>Satellites</em>, piano and electronics, 12’00 
+Performed by <strong>Hubert Ho</strong>
+
+<p style="font-size: 0.8em;">
+Satellites is a suite of three pieces for piano and electronics. Each piece in the suite references
+Bach’s Goldberg Varia3ons, specifically VariaAons 16, 17, and 18, and refers to some quality in
+the character and of those works. Satellites is also a part of a series of works drawing on the
+sound and science of flight and space. The music commemorates the work of Black American
+astronauts Robert Lawrence, Jr., Michael P. Anderson, and Ronald E. McNair, all of whom gave
+their lives to space research in the Ame preceding and around the era of the space shu.le.
+In Satellite 1, frequencies collected from words spoken by astronaut Michael P. Anderson during
+an interview from space are converted to pitches that provide the principal harmonies of the
+work. Satellite 2 draws on the disAncAve parabolic curve of the space shu.le’s flight to space
+and uses it to structure the upwards trajectory of the musical phrases over the course of the
+piece. In Satellite 3, the sound of an F-104 Starfighter airplanes that Robert Lawrence, Jr. flew as
+a test pilot are analyzed for their component frequencies and then used to provide a harmonic
+model for the piece. These harmonies, derived from the sound of a single flyby, are stretched
+over the length of the piece by way of an mlp regressor, a neural network used here to
+interpolate between the harmonic stages drawn from the airplane’s sound. The electronics of
+the piece make use of Antescofo~ score following. 
+In essence, the space shu.le was an airplane, souped up with the power of massive liquid-fuel
+cryogenic rocket engines, undertaking deeply studied, delicately balanced, and precisely
+executed flights. Similarly, the electronics in this piece enhance the pianist’s expressive intensity,
+supporAng the performer’s pursuit of a kind of musical escape velocity.
 </p>
 
 
