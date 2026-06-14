@@ -93,6 +93,7 @@ and experimental arts community.
 
 
 <strong>Matt Schumaker</strong> — <em>Satellites</em>, piano and electronics, 12’00 
+<br>
 Performed by <strong>Hubert Ho</strong>
 
 <p style="font-size: 0.8em;">
@@ -136,7 +137,9 @@ supporAng the performer’s pursuit of a kind of musical escape velocity.
 <strong>StrinGDberg</strong> is the first work in the Timbre Spatialization cycle, which focuses on the composition and spatialization of timbre in immersive loudspeaker systems. This cycle is still ongoing and comprises a dozen works. It was commissioned by the GRM (Groupe de recherches musicales de Paris). 
 
 <p style="font-size: 0.8em;">
-Hurdy-gurdy: Silvy Grenier; cello: James Darling.
+hurdy-gurdy: Silvy Grenier
+
+cello: James Darling
 </p>
 
 
