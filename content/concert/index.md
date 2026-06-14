@@ -40,6 +40,47 @@ Salle Claude-Champagne, Faculté de musique, Université de Montréal
 
 <br>
 
+<p style="font-size: 1.2em;">
+<strong>Program notes and biographies</strong>
+</p>
+
+<em>Otavaisen olkapäillä</em> (On the shoulders of the Great Bear) 15'00
+
+<p style="font-size: 0.8em;">
+An improvisation on two kanteles. The 12‑string kantele is a replica of
+a southern Karelian model from the late 19th century. It is hollowed out
+from above, has a separate top plate, and is strung with brass. The
+15‑string kantele reflects the cultural shift in musical practice at the
+beginning of the 20th century: it is built from several pieces, with
+steel strings and metal tuning pegs. At the same time as the two
+instruments represent the distinct sound worlds of kanteles from
+different historical periods, they also complement one another when
+played together. Aesthetically, the music draws on the aural runosong
+culture, in which music was not a set of separate songs but a single
+entity—an endless stream without beginning or end. Kantele players’
+“inner power” improvisations were spiritual journeys that could last for
+hours. This 15 min. improvisation is an experimental journey to the dim
+and distant past seeking to uphold tradition while creating new things.
+</p>
+
+{{< figure src="photos_Arja_Kastinen_Timbre 2026.png" alt="Arja Kastinen" width="100%" >}}
+
+<strong>Arja Kastinen</strong> (North Karelia, Finland, 1963)
+
+<p style="font-size: 0.8em;">
+Having focused for over thirty years on Karelian kantele
+improvisation—its historical background, museum instruments, archival
+materials, scales, tuning systems, playing techniques, and musical
+aesthetics—Arja has become one of the leading artistic researchers in
+the field. Her latest five‑year project at the University of the Arts
+Helsinki ended in spring 2026
+(https://www.temps.fi/en/research/kantele-of-the-runosong-culture-and-the-dialogue-of-creativity/).
+A follow‑up project has now begun, exploring the relationship between AI
+and the preservation of aural cultural heritage. Arja has released six
+solo albums and three archival albums rooted in the tradition of
+Karelian kantele improvisation.
+</p>
+
 <em>StrinGDberg</em> (2001–03, revised 2025) 18’20
 
 <p style="font-size: 0.8em;">
