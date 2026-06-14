@@ -46,13 +46,13 @@ Salle Claude-Champagne, Faculté de musique, Université de Montréal
 
 <strong>Arja Kastinen</strong> - <em>Otavaisen olkapäillä</em> (On the shoulders of the Great Bear), Kantele, 15'00
 
+{{< figure src="photos_Arja_Kastinen_Timbre 2026.png" alt="Arja Kastinen" width="100%" >}}
+
 <p style="font-size: 0.8em;">
 An improvisation on two kanteles. The 12‑string kantele is a replica of a southern Karelian model from the late 19th century. It is hollowed out
 from above, has a separate top plate, and is strung with brass. 
 The 15‑string kantele reflects the cultural shift in musical practice at the beginning of the 20th century: it is built from several pieces, with steel strings and metal tuning pegs. At the same time as the two instruments represent the distinct sound worlds of kanteles from different historical periods, they also complement one another when played together. Aesthetically, the music draws on the aural runosong culture, in which music was not a set of separate songs but a single entity—an endless stream without beginning or end. Kantele players’ “inner power” improvisations were spiritual journeys that could last for hours. This 15 min. improvisation is an experimental journey to the dim and distant past seeking to uphold tradition while creating new things.
 </p>
-
-{{< figure src="photos_Arja_Kastinen_Timbre 2026.png" alt="Arja Kastinen" width="100%" >}}
 
 <strong>Arja Kastinen</strong> (North Karelia, Finland, 1963)
 
@@ -83,7 +83,7 @@ expressive music performance within the MIDI domain.
 </p>
 
 <p style="font-size: 0.8em;">
-<strong>Keon Ju Maverick Lee/strong> (he/him/they) is a Korean-Canadian electroacoustic and acousmatic
+<strong>Keon Ju Maverick Lee</strong> (he/him/they) is a Korean-Canadian electroacoustic and acousmatic
 artist-researcher, electronic percussionist, and creator working across avant-garde electronic music and audiovisual art. His immersive works treat timbre, sound diffusion, and spatial motion as central compositional materials, with loudspeaker arrays and binaural headphones serving as complementary listening environments. As a research-creation PhD candidate at Simon Fraser University’s Metacreation Lab, they develop co-creative, artist-in-the-loop musical agents and interactive systems for percussion performance, while also conducting research on large-scale music datasets and computational approaches to music analysis. His performances, installations, and collaborative projects have been presented at the SAT in Montréal, MUTEK,WeSA, MusicAcoustica, Ars Electronica, SIGGRAPH, and the AI Song Contest as a Top 10 finalist in 2024. They have collaborated with researchers affiliated with C4DM, CIRMMT, and
 IRCAM, and have presented research through TISMIR, ISMIR, NIME, AIMC, and the NeurIPS Creative AI Track. His recent spatial works were selected for the petites formes 2026 Acousmatic Composition Competition and they remain active in Montréal’s avant-garde music
 and experimental arts community.
