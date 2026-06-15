@@ -137,9 +137,10 @@ supporAng the performer’s pursuit of a kind of musical escape velocity.
 <strong>StrinGDberg</strong> is the first work in the Timbre Spatialization cycle, which focuses on the composition and spatialization of timbre in immersive loudspeaker systems. This cycle is still ongoing and comprises a dozen works. It was commissioned by the GRM (Groupe de recherches musicales de Paris). 
 
 <p style="font-size: 0.8em;">
-hurdy-gurdy: Silvy Grenier
-
-cello: James Darling
+<ul>
+<li>hurdy-gurdy: Silvy Grenier</li>
+<li>cello: James Darling</li>
+</ul>
 </p>
 
 
