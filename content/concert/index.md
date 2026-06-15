@@ -92,9 +92,9 @@ and experimental arts community.
 <br>
 
 
-<strong>Matt Schumaker</strong> — <em>Satellites</em>, piano and electronics, 12’00 
+<strong>Matt Schumaker</strong> — <em>Satellites</em>, 12’00 
 <br>
-Performed by <strong>Hubert Ho</strong>
+for piano and electronics, performed by <strong>Hubert Ho</strong>
 
 <p style="font-size: 0.8em;">
 Satellites is a suite of three pieces for piano and electronics. Each piece in the suite references
@@ -121,6 +121,31 @@ supporAng the performer’s pursuit of a kind of musical escape velocity.
 
 
 <br>
+
+
+<strong>Tarcísio Braga</strong> — <em>Tambor V</em>, (2024, revised 2026) 10’00
+<br>
+for solo snare drum and quadraphonic fixed media
+
+{{< figure src="photos_Tarcicio_Braga.png" alt="Tarcísio Braga" width="100%" >}}
+
+<p style="font-size: 0.8em;">
+Tambor, meaning drum in Portuguese, originated from freely improvised warm-ups that I would create while working on specific written snare drum pieces. Many noted that these improvisations sounded like compositions, which inspired me to take them more seriously.
+The snare drum draws from Brazilian and West African hand-drumming practices, transforming rimshots, stick placement, and points of contact into a wide palette of timbral inflections. It also reflects Brazilian snare drumming traditions associated with maracatu, samba, and frevo, grounded in my field research. The performance places the live snare drum in dialogue with quadraphonic fixed media, shaped from processed materials drawn from my personal archive of Brazilian Amazon field recordings collected over eleven years in Manaus.
+Tambor explores how the environmental and acoustic properties of specific places can be integrated into an immersive artistic practice that brings together field recording, improvisation, composition, performance, and audience reception. Improvisation gives Tambor its open and spontaneous quality, allowing each performance to unfold in response to the space, the sound, and the moment. Tambor V continues my artistic exploration of Brazilian percussion, field recording, spatial audio, and the blurred boundaries between acoustic performance and acousmatic sound.
+
+<ul>
+<li><p style="font-size: 0.8em;">snare drum, performed live: Tarcísio Braga</p></li>
+<li><p style="font-size: 0.8em;">yapurutú, cotia, and mawaco: Ricardo Sá</p></li>
+<li><p style="font-size: 0.8em;">field recordings, fixed media, and revised quadraphonic spatialization: Tarcísio Braga</p></li>
+</ul>
+
+</p>
+
+<p style="font-size: 0.8em;">
+<strong>Tarcísio Braga</strong> (b. 1981) is a Brazilian drummer, percussionist, improviser, and educator. Driven by cross-pollination between tradition, technology, and embodied performance, Braga explores the drum kit, the snare drum, and acoustic percussion as hybrid instruments. Live electronics extend this practice through real-time sound processing, live looping, and spatial listening. More recently, he has incorporated processed field recordings, particularly from the Brazilian Amazon, as immersive sonic environments in multichannel formats. Braga is Professor of Music and Director of Percussion Studies at Amazonas State University (UEA), and is currently a Doctor of Music candidate at McGill University.
+</p>
+
 
 
 <strong>Robert Normandeau</strong> — <em>StrinGDberg</em> (2001–03, revised 2025) 18’20
