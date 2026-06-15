@@ -51,7 +51,6 @@ Salle Claude-Champagne, Faculté de musique, Université de Montréal
 {{< figure src="photos_Arja_Kastinen_Timbre 2026.png" alt="Arja Kastinen" width="100%" >}}
 
 <p style="font-size: 0.8em;">
-
 This improvisation is performed on two kanteles (traditional Finnish and Karelian plucked string instruments).
 The 12‑string kantele is a replica of a southern Karelian model from the late 19th century. It is hollowed out
 from above, has a separate top plate, and is strung with brass. The 15‑string kantele reflects the cultural shift in musical practice at the beginning of the 20th century: it is built from several pieces, with steel strings and metal tuning pegs. At the same time as the two instruments represent the distinct sound worlds of kanteles from different historical periods, they also complement one another when played together. Aesthetically, the music draws on the aural runosong culture, in which music was not a set of separate songs but a single entity—an endless stream without beginning or end. Kantele players’ “inner power” improvisations were spiritual journeys that could last for hours. This 15 min. improvisation is an experimental journey to the dim and distant past seeking to uphold tradition while creating new things.
