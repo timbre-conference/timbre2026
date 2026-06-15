@@ -133,7 +133,6 @@ projects: []
       <li>Colouring Shapes and Forms: Timbral and Orchestrational Strategies in the Serial Works of Elisabeth Lutyens, <strong>Aidan McGartland</strong></li>
       <li>Hearing the Form, Seeing the Material: Global and Local Feature Correspondences Across Vision and Audition, <strong>Asterios Zacharakis & Amit Gur</strong></li>	
       <li>MusicVis: Leveraging Cross-Modal Correspondences for Fine-Grained Visual Representations of Music, <strong>Kelly Raines & Xin Wei Sha</strong></li>
-      <li>Timbre’s Beholders and the Racialization of Sensation in Concert Music Aesthetics, <strong>Colin Tucker</strong></li>
       <li>Toward a Conceptual Framework for AI-Driven Timbre Transformation: Exploring Ethics, Occlusion, Transparency, and Interaction in Algorithmic Design, <strong>Steven Lewis</strong></li>
       <li>Concrete Listening in Latent Space: Reduced Semantic Conditioning of Diffusion Transformers as a Compositional Strategy, <strong>David Piazza</strong></li>
       <li>Prony-Informed Percussion Orchestration: A Case Study in Elements of Adventure, <strong>Joseph Chang & Philippe Depalle</strong></li>
@@ -275,14 +274,14 @@ projects: []
         <li>10:35 -- Listening to Demonstrations: Timbral Perspectives on Urban Crowd Sound, <strong>Kamyar Karimi, Alice Jarry & Gabriel Vigliensoni</strong> [LT] </li>
         <li>10:45 -- Don’t Let Screaming Ruin Your Beauty Sleep, Just Bleach It! A Study of Frequency Shearing for Noise, <strong>Marina Lee</strong></li>
         <li>11:10 -- Timbre as Exposure: Fragility, Proximity, and the Audibility of the Body, <strong>Hee Seng Kye</strong></li>
-        <li>11:35 -- An Embodied and Crossmodal Approach to Timbre in Unaccompanied Solo Traditional Singing, <strong>Kristin Jonzon</strong></li>
+        <li>11:35 -- Timbre’s Beholders and the Racialization of Sensation in Concert Music Aesthetics, <strong>Colin Tucker</strong></li>
       </ul>
     </td>
     <td>
       <u>Session 12: Philosophy of timbre</u>
       <ul style="font-size: 0.9em;">
         <li>10:35 -- The Commitments of Physical Modeling: Timbre, Mediation, and Virtual Instrument Construction, <strong>Xyh Tamura</strong> [LT]</li>
-        <li>10:45 -- The violent particularity of timbre as sonic and symbolist ideal in new music, <strong>Amy Bauer</strong></li>
+        <li>10:45 -- The Violent Particularity of Timbre as Sonic and Symbolist Ideal in New Music, <strong>Amy Bauer</strong></li>
         <li>11:10 -- "Almost Unbelievably Rich": Autistic Listening and Wandelweiser Music, <strong>Nathan Friedman</strong></li>
         <li>11:35 -- Toward a Lachenmannian Phenomenology in the Music of Lachenmann, Saunders, and Iannotta, <strong>Zachary Bernstein</strong></li>
       </ul>
@@ -298,7 +297,7 @@ projects: []
     <td></td>
     <td colspan="2" style="text-align:left">
      <ul style="font-size: 0.9em;">
-	<li>Towards embodied and inclusive crossmodal experiences of timbre and music: User perspectives of a new vibrotactile assistive device, <strong>Alex Bégin, <u>Loonan Chauvette</u>, Jérémie Voix, Matthieu J. Guitton, & Andréanne Sharp</strong></li>
+	<li>Towards Embodied and Inclusive Crossmodal Experiences of Timbre and Music: User Perspectives of a New Vibrotactile Assistive Device, <strong>Alex Bégin, <u>Loonan Chauvette</u>, Jérémie Voix, Matthieu J. Guitton, & Andréanne Sharp</strong></li>
 	<li> Time-dependent Materials and Gesture in Timbral Shaping: Towards a Material-based Sonic Device, <strong>Maria Vittoria Agresti, Ernesto Di Maio, & Stefano Silvestri </strong></li>
 	<li>Play and Recognition in Mixed Instrumental Works, <strong>Nicholas Ma</strong></li>
 	<li>Measuring Consistency in Explainable Synthetic Timbre Annotators, <strong>Peter McCabe, Alec Krsek, &Patrick J. Donnelly</strong></li>
@@ -499,7 +498,7 @@ projects: []
       <ul style="font-size: 0.9em;">
         <li>13:15 -- From sensitive listening to sound to the intuition of a gesture, <strong>Jean Geoffroy</strong></li>
         <li>13:40 -- "So that the sting first enters the skin, and then hurts": embodied transmission of a single note, <strong>Gina Fatone</strong></li>
-        <li>14:05 -- , <strong></strong></li>
+        <li>14:05 -- An Embodied and Crossmodal Approach to Timbre in Unaccompanied Solo Traditional Singing, <strong>Kristin Jonzon</strong></li>
       </ul>
     </td>
     <td>
@@ -545,8 +544,8 @@ projects: []
        <br>
        <br>
         <ul style="font-size: 0.9em;">
-        <li>16:00 -- "from inner to outershadow": ensemble coherence in recent works for oboe and strings, <strong>Anton Vishio</strong></li>
-        <li>16:25 -- Double-reed Multiphonics: Their Character, Stability, and Potential for Integration with Heterogeneous Instrumental Ensembles, <strong>Roger Reynolds</strong></li>
+        <li>16:00 -- “From Inner to Outershadow”: Ensemble Coherence in Recent Works for Oboe and Strings, <strong>Anton Vishio</strong></li>
+        <li>16:25 -- Double-Reed Multiphonics: Their Character, Stability, and Potential for Integration With Heterogeneous Instrumental Ensembles, <strong>Roger Reynolds</strong></li>
       </ul>
     </td>
   </tr>
