@@ -136,7 +136,7 @@ projects: []
       <li>Toward a Conceptual Framework for AI-Driven Timbre Transformation: Exploring Ethics, Occlusion, Transparency, and Interaction in Algorithmic Design, <strong>Steven Lewis</strong></li>
       <li>Concrete Listening in Latent Space: Reduced Semantic Conditioning of Diffusion Transformers as a Compositional Strategy, <strong>David Piazza</strong></li>
       <li>Prony-Informed Percussion Orchestration: A Case Study in Elements of Adventure, <strong>Joseph Chang & Philippe Depalle</strong></li>
-      <li>Timbre discrimination in drum tom-toms: An approach based on audio descriptors and timbre space, <strong>Carlos de Castro & Marcelo Gomes de Queiroz</strong></li>
+      <li>Timbre Discrimination in Drum Tom-Toms: An Approach Based on Audio Descriptors and Timbre Space, <strong>Carlos de Castro & Marcelo Gomes de Queiroz</strong></li>
     </ul>
   </td>
   </tr>
@@ -361,7 +361,7 @@ projects: []
        <br>
         <ul style="font-size: 0.9em;">
         <li>15:40 -- The Classroom Case for Timbre, <strong>Holly Bergeron-Dumaine</strong></li>
-        <li>16:05 -- Toward a cross-disciplinary framework for strategic communication about timbre, <strong>Lindsey Reymore</strong></li>
+        <li>16:05 -- Toward a Cross-Disciplinary Framework for Strategic Communication About Timbre, <strong>Lindsey Reymore</strong></li>
       </ul>
     </td>
   </tr>
@@ -376,7 +376,7 @@ projects: []
     <td>
       <u>Session 15: Emotions and intimacy</u>
       <ul style="font-size: 0.9em;">
-        <li>16:45 -- Emotions in song and speech: Acoustic features underlying the multidimensional space of perceived emotions, <strong>Lena Heng & Annabel Cohen</strong></li>
+        <li>16:45 -- Emotions in Song and Speech: Acoustic Features Underlying the Multidimensional Space of Perceived Emotions, <strong>Lena Heng & Annabel Cohen</strong></li>
         <li>17:10 -- Timbre as a Compositional and Relational Tool in an Immersive Contemporary Music Performance for Infants (0–2 years), <strong>Anne Chabot-Bucchi & Joshua Bucchi</strong></li>
         <li>17:35 -- The Intimate Timbres of the Kantele: Materiality, Touch and Cultural Memory, <strong>Arja Kastinen</strong></li>
       </ul>
@@ -432,7 +432,7 @@ projects: []
       <ul style="font-size: 0.9em;">
         <li>9:00 -- Satellites: Orbiting Composer and Performer Insights on Timbre in a Work for Piano and Electronics, <strong>Hubert Ho &  Matthew Schumaker</strong></li>
         <li>9:25 -- Orchestrating Timbre with Interaction Scenarios, <strong>Frédéric Roverselli</strong></li>
-        <li>9:50 -- Instrument identification in a virtual orchestral scene, <strong>Kai Siedenburg</strong></li>
+        <li>9:50 -- Instrument Identification in a Virtual Orchestral Scene, <strong>Kai Siedenburg</strong></li>
       </ul>
     </td>
   </tr>
@@ -496,17 +496,17 @@ projects: []
     <td>
       <u>Session 21: Timbre, gesture and embodiment</u>
       <ul style="font-size: 0.9em;">
-        <li>13:15 -- From sensitive listening to sound to the intuition of a gesture, <strong>Jean Geoffroy</strong></li>
-        <li>13:40 -- "So that the sting first enters the skin, and then hurts": embodied transmission of a single note, <strong>Gina Fatone</strong></li>
+        <li>13:15 -- From Sensitive Listening to Sound to the Intuition of a Gesture, <strong>Jean Geoffroy</strong></li>
+        <li>13:40 -- “So that the sting first enters the skin, and then hurts”: Embodied Transmission of a Single Note, <strong>Gina Fatone</strong></li>
         <li>14:05 -- An Embodied and Crossmodal Approach to Timbre in Unaccompanied Solo Traditional Singing, <strong>Kristin Jonzon</strong></li>
       </ul>
     </td>
     <td>
       <u>Session 22: Vocality</u>
       <ul style="font-size: 0.9em;">
-        <li>13:15 -- Emergence of vocality: hybridization and timbral metamorphoses between the pipe organ and the voice in the ORA and Vox Humana Projects, <strong>Hyun-Hwa Cho & Christophe d'Alessandro</strong></li>
-        <li>13:40 -- Sounding "round", "bright", "Oooh" or "Aaah": on the use of phonemes to describe the timbre of string quartet instruments, <strong>Leïla Barbedette & Caroline Traube</strong></li>
-        <li>14:05 -- Two Rappers: Recreating vocal patterns through percussion in George Lewis' North Star Boogaloo, <strong>Malcolm Taylor</strong></li>
+        <li>13:15 -- Emergence of Vocality: Hybridization and Timbral Metamorphoses Between the Pipe Organ and the Voice in the Ora and Vox Humana Projects, <strong>Hyun-Hwa Cho & Christophe d'Alessandro</strong></li>
+        <li>13:40 -- Sounding "round", "bright", "Oooh" or "Aaah": on the Use of Phonemes to Describe the Timbre of String Quartet Instruments, <strong>Leïla Barbedette & Caroline Traube</strong></li>
+        <li>14:05 -- Two Rappers: Recreating Vocal Patterns through Percussion in George Lewis' North Star Boogaloo, <strong>Malcolm Taylor</strong></li>
       </ul>
     </td>
   </tr>
