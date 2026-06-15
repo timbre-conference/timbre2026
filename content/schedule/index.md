@@ -477,7 +477,7 @@ projects: []
 	<li>Transitivity and Timbre Similarity Judgment, <strong>Molly Jones & Sile O’Modhrain</strong></li>
 	<li>Memory for Musical Meaning Through Timbre Semantics, <strong>Susanne Sevcik</strong></li>
 	<li>Timbre, Perception, and Musical Form in Tan Dun’s Water Concerto (1998), <strong>Anqi Wang</strong></li>
-	<li>Thinking Timbre Through Light: Chiaroscuro Metaphors in Saariaho’s Solo Cello Music, <strong>Rafael Felicio Silva Godoi1 & Igor Leão Maia</strong></li>
+	<li>Thinking Timbre Through Light: Chiaroscuro Metaphors in Saariaho’s Solo Cello Music, <strong>Rafael Felicio Silva Godoi & Igor Leão Maia</strong></li>
 	<li>From Numbers to Practice: The Perceptual Reality of Neutral Intervals in Persian Tuning, <strong>Farzad Milani</strong></li>
 	<li>Is Everything Romantic?: Sonic Expressions of Gender in Hyperpop Vocal Production, <strong>Lilly Korkontzelos</strong></li>
 	<li>Invariant Instrumentation and the Effects of Shifted Vocal Performance on Screamed Deathcore Songs, <strong>Zachary Simonds </strong></li>
