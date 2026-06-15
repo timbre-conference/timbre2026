@@ -144,8 +144,6 @@ supporAng the performer’s pursuit of a kind of musical escape velocity.
 </p>
 
 
-and Josh Mitchell)
-
 <p style="font-size: 0.8em;">
 <strong>Robert Normandeau</strong> (Québec, 1955) -- His work as a composer is mainly devoted to acousmatic music. More specifically, by the tones used and the aesthetic choices that tend to it, his approach is part of a "cinema for the ear" where "sense" contributes to the development of his works just as much as "sound". More recently he has composed a cycle of immersive multichannel music for the speaker dome. Space has become a major feature of his musical work. Along with concert music, he has composed, for a period of twenty years, incidental music, especially for dance and theatre. He also worked as artistic director for over twenty years, especially for the concert series Clair de terre from 1989 to 1993 at the Planétarium de Montréal, and Rien à voir and Akousma from 1997 to 2006. He was Professor in electroacoustic music composition at Université de Montréal between 1999 and 2023, after completing the first Doctorate in Electroacoustic Composition (1992). He leads the GRIS (Groupe de recherche en immersion spatiale: Space Immersion Research Group), which produces SpatGRIS, a sound spatialization software. 
 </p>
