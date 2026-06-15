@@ -88,7 +88,7 @@ projects: []
     <u>Session 2: Artistic reports</u>
     <ul style="font-size: 0.9em;">
       <li>9:10 -- It May Not Be Noise: Composing Mental Timbre Through Redistribution and Contextual Interference, <strong>Rafael Maia & José Alberto Gomes</strong></li>
-      <li>9:35 -- Phantom Polyphony: Modeling Tinnitus and the Variability of its Timbre in the Context of a Sound Installation, <strong>Thomas Augustin</strong></li>
+      <li>9:35 -- <em>Phantom Polyphony</em>: Modeling Tinnitus and the Variability of Its Timbre in the Context of an Art Installation, <strong>Thomas Augustin</strong></li>
       <li>10:00 -- Lithophonica: Timbral Explorations of Stones and Sticks, <strong>James Harley & Gayle Young</strong></li>
     </ul>
   </td>
