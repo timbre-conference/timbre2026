@@ -113,6 +113,22 @@ and experimental arts community.
 <br>
 
 
+<strong>Gaël Moriceau</strong> — <em>Harmonic Turbulences</em>
+
+{{< figure src="photos_Gael_Moriceau.png" alt="Gaël Moriceau" width="100%" >}}
+
+<p style="font-size: 0.8em;">
+<em>Harmonic Turbulences</em> is an electroacoustic composition for the T-Stick, a gestural controller developed at McGill University’s Input Devices and Music Interaction Laboratory (IDMIL). Coupled with a Frequency Modulation (FM) synthesis engine designed in the SuperCollider environment, the T-Stick functions as a digital musical instrument (DMI), enabling the performer to shape sounds in real time. FM synthesis was chosen as a classic and efficient method for producing rich and complex timbres and textures. Performed on the T-Stick Sopranino, the predominant version currently available at IDMIL, Harmonic Turbulences unfolds as a continuously evolving synthetic soundscape, inspired by the contrasts between calm and stormy weather. The sonic textures undergo constant transformation, shifting from delicate nuances to powerful gusts, creating a dynamic and immersive auditory experience. This composition is part of an ongoing research project aimed at expanding the T-Stick’s repertoire and promoting its integration into contemporary music practice. By fostering engagement with DMIs among composers and performers, this work contributes to the continued development and longevity of these innovative instruments.
+</p>
+
+<p style="font-size: 0.8em;">
+<strong>Gaël Moriceau</strong> is a master’s student in music composition and sound art at Université de Montréal (UdeM). A former mechanical engineer, he turned to music in 2019 and studied sound design and electroacoustic composition at University of Montreal, where he completed a bachelor’s degree in 2022. His work combines field recordings, synthesis, and spatialization to create immersive sonic environments. His current research focuses on developing playing techniques for Digital Musical Instruments (DMIs) such as the T-Stick and composing electroacoustic works for small DMI ensembles, aiming to expand their repertoire and promote sustainable creative practices for future performers and composers.
+</p>
+
+
+<br>
+
+
 <strong>Tarcísio Braga</strong> — <em>Tambor V</em>, (2024, revised 2026) 10’00
 <br>
 for solo snare drum and quadraphonic fixed media
@@ -120,7 +136,7 @@ for solo snare drum and quadraphonic fixed media
 {{< figure src="photos_Tarcicio_Braga.png" alt="Tarcísio Braga" width="100%" >}}
 
 <p style="font-size: 0.8em;">
-Tambor, meaning drum in Portuguese, originated from freely improvised warm-ups that I would create while working on specific written snare drum pieces. Many noted that these improvisations sounded like compositions, which inspired me to take them more seriously.
+<em>Tambor</em>, meaning drum in Portuguese, originated from freely improvised warm-ups that I would create while working on specific written snare drum pieces. Many noted that these improvisations sounded like compositions, which inspired me to take them more seriously.
 The snare drum draws from Brazilian and West African hand-drumming practices, transforming rimshots, stick placement, and points of contact into a wide palette of timbral inflections. It also reflects Brazilian snare drumming traditions associated with maracatu, samba, and frevo, grounded in my field research. The performance places the live snare drum in dialogue with quadraphonic fixed media, shaped from processed materials drawn from my personal archive of Brazilian Amazon field recordings collected over eleven years in Manaus.
 Tambor explores how the environmental and acoustic properties of specific places can be integrated into an immersive artistic practice that brings together field recording, improvisation, composition, performance, and audience reception. Improvisation gives Tambor its open and spontaneous quality, allowing each performance to unfold in response to the space, the sound, and the moment. Tambor V continues my artistic exploration of Brazilian percussion, field recording, spatial audio, and the blurred boundaries between acoustic performance and acousmatic sound.
 
