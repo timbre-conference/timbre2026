@@ -46,7 +46,7 @@ Salle Claude-Champagne, Faculté de musique, Université de Montréal
 <strong>Program notes and biographies</strong>
 </p>
 
-<strong>Arja Kastinen</strong> - <em>Otavaisen olkapäillä</em> (On the shoulders of the Great Bear), Kantele, 9'00
+<strong>Arja Kastinen</strong> - <em>Otavaisen olkapäillä</em> (On the shoulders of the Great Bear), Kantele, 10'00
 
 {{< figure src="photos_Arja_Kastinen_Timbre 2026.png" alt="Arja Kastinen" width="100%" >}}
 
