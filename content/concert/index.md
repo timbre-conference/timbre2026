@@ -92,37 +92,6 @@ and experimental arts community.
 <br>
 
 
-<strong>Matt Schumaker</strong> — <em>Satellites</em>, 12’00 
-<br>
-for piano and electronics, performed by <strong>Hubert Ho</strong>
-
-<p style="font-size: 0.8em;">
-Satellites is a suite of three pieces for piano and electronics. Each piece in the suite references
-Bach’s Goldberg Varia3ons, specifically VariaAons 16, 17, and 18, and refers to some quality in
-the character and of those works. Satellites is also a part of a series of works drawing on the
-sound and science of flight and space. The music commemorates the work of Black American
-astronauts Robert Lawrence, Jr., Michael P. Anderson, and Ronald E. McNair, all of whom gave
-their lives to space research in the Ame preceding and around the era of the space shu.le.
-In Satellite 1, frequencies collected from words spoken by astronaut Michael P. Anderson during
-an interview from space are converted to pitches that provide the principal harmonies of the
-work. Satellite 2 draws on the disAncAve parabolic curve of the space shu.le’s flight to space
-and uses it to structure the upwards trajectory of the musical phrases over the course of the
-piece. In Satellite 3, the sound of an F-104 Starfighter airplanes that Robert Lawrence, Jr. flew as
-a test pilot are analyzed for their component frequencies and then used to provide a harmonic
-model for the piece. These harmonies, derived from the sound of a single flyby, are stretched
-over the length of the piece by way of an mlp regressor, a neural network used here to
-interpolate between the harmonic stages drawn from the airplane’s sound. The electronics of
-the piece make use of Antescofo~ score following. 
-In essence, the space shu.le was an airplane, souped up with the power of massive liquid-fuel
-cryogenic rocket engines, undertaking deeply studied, delicately balanced, and precisely
-executed flights. Similarly, the electronics in this piece enhance the pianist’s expressive intensity,
-supporAng the performer’s pursuit of a kind of musical escape velocity.
-</p>
-
-
-<br>
-
-
 <strong>Tarcísio Braga</strong> — <em>Tambor V</em>, (2024, revised 2026) 10’00
 <br>
 for solo snare drum and quadraphonic fixed media
@@ -147,6 +116,29 @@ Tambor explores how the environmental and acoustic properties of specific places
 </p>
 
 
+<br>
+
+<strong>Matt Schumaker</strong> — <em>Satellites</em> (piano and electronics), 12’00 
+<br>
+<strong>Hubert Ho</strong>, piano
+
+{{< figure src="photos_MSchumaker_HHo.png" alt="Matt Schumaker & Hubert Ho" width="100%" >}}
+
+<p style="font-size: 0.8em;">
+Satellites is a suite of three short pieces for piano and electronics that draws on the sound and science of flight and space. The music commemorates the work of Black American astronauts Robert Lawrence, Jr., Michael P. Anderson, and Ronald E. McNair, all of whom gave their lives to space research in the time preceding and around the era of the space shuttle. In Satellite 1, frequencies collected from words spoken by astronaut Michael P. Anderson during an interview from space are converted to pitches that provide the principal harmonies of the work. Satellite 2 draws on the distinctive parabolic curve of the space shuttle’s flight to space and uses it to structure the upwards trajectory of the musical phrases over the course of the piece. In Satellite 3, the sound of an F-104 Starfighter airplanes that Robert Lawrence, Jr. flew as a test pilot are analyzed for their component frequencies and then used to provide a harmonic span for the piece. These harmonies, derived from the sound of a single flyby, are stretched over the length of the piece. In essence, the space shuttle was an airplane, souped up with the power of massive liquid-fuel cryogenic rocket engines, undertaking deeply studied, delicately balanced, and precisely executed flights. Similarly, the electronics in this piece enhance the pianist’s expressive intensity, supporting the performer’s pursuit of a kind of musical escape velocity.
+</p>
+
+<p style="font-size: 0.8em;">
+<strong>Matt Schumaker</strong>’s music explores relationships between composer, performers, and technology. His compositions emerge through dialogues with computer programs that extend and transform musical ideas. His ensemble works and works for soloists and technology have been presented at concerts and festivals internationally, including performances by members of Dog Trio at the klub katarakt Festival for Experimental Music in Hamburg, Germany; pianist Hyeyeon Jung at the International Computer Music Conference (Seoul, 2024); clarinetist Joshua Rubin at soundSCAPE in Blonay, Switzerland; and pianist Eric Huebner in a portrait concert at the Gassmann Electronic Music Series at UC Irvine.
+His writing on computer-assisted composition appears in The OM Composers’ Book 3 (IRCAM/Delatour). In November 2025, Schumaker was Festival Director of the Korean Experimental Music Festival, bringing together traditional Korean musical practices performed by members of Seoul’s National Gugak Center, Western classical instrumentation, and cutting-edge music technology through collaborations with UC Santa Cruz’s Music Department, UC Berkeley’s CNMAT, and Stanford’s CCRMA. The festival featured nineteen world premieres by Californian composers. Schumaker was a Martin Luther King, Jr. Visiting Scholar at MIT and is Assistant Professor of Music at UC Santa Cruz.
+</p>
+ 
+<p style="font-size: 0.8em;">
+<strong>Hubert Ho</strong>’s music has been performed in Carnegie Hall under the Pro Musicis Foundation series and at the Kennedy Center for the Arts, D.C. A former United States Presidential Scholar in the Arts, he is a recipient of the Charles Ives Scholarship from the American Academy of Arts and Letters. His music has been performed at such festivals as June in Buffalo, the Wellesley Composers Conference, Cincinnati Conservatory’s Music 99 and Music 2001, by groups including the Oesterreiches ensemble fur Neue Musik, the New York New Music Ensemble, and the California EAR Unit, Das Chicas Trio, and the Bakersfield Symphony New Directions chamber concert series. He is an enthusiastic new music pianist as well, having performed with the groups Earplay (S.F.) and the Berkeley Contemporary Chamber Players (Berkeley).
+He also actively performed in the Czech Republic, at the Acanthes Festival in Metz, France, at the Darmstadt Ferienkurse fur Neue Musik, and recently at the 50th International Computer Music Conferenece. His scholarly interests include the relationship between music theory and psychoacoustics, and has delivered papers at various theory conferences on the music of Martinu and Varése. Dr. Ho received his Ph. D. from the University of California, Berkeley in Music and an A. B. from Harvard College in Music and Physics. He currently serves as Teaching Professor at Northeastern University.
+</p>
+
+<br>
 
 <strong>Robert Normandeau</strong> — <em>StrinGDberg</em> (2001–03, revised 2025) 18’20
 
