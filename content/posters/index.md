@@ -129,10 +129,6 @@ Here are the logos you can use in your posters and slides: [Timbre2026-Horizonta
     <td>Yifan Huang, Martha de Francisco, & Stephen McAdams</td>
     <td>Grounding Musical Intimacy in Timbre: Exploring a Conceptual Model of Intimate Listening</td>
   </tr>
-  <tr>
-    <td>Colin Tucker</td>
-    <td>Timbre's Beholders and the Racialization of Sensation in Concert Music Aesthetics</td>
-  </tr>
 </tbody>
 </table>
 
@@ -172,20 +168,12 @@ Here are the logos you can use in your posters and slides: [Timbre2026-Horizonta
 </thead>
 <tbody style="vertical-align: middle; text-align: left;">
   <tr>
-    <td>Fredrica Roos</td>
-    <td>Scoring the World: Mahler's Orchestration as Imaginary Sound-World</td>
-  </tr>
-  <tr>
     <td>Anqi Wang</td>
     <td>Timbre, Perception, and Musical Form in Tan Dun's Water Concerto (1998)</td>
   </tr>
   <tr>
     <td>Ash Mach</td>
     <td>The Contours of Timbre in Rebecca Saunders's Fury II</td>
-  </tr>
-  <tr>
-    <td>Emma Davis</td>
-    <td>Re-Examining Germaine Tailleferre Criticism in Light of Orchestral Grouping Effects in her Piano Concerto No. 1 (1924)</td>
   </tr>
   <tr>
     <td>Rafael Felicio Silva Godoi & Igor Leão Maia</td>
@@ -216,10 +204,6 @@ Here are the logos you can use in your posters and slides: [Timbre2026-Horizonta
   <tr>
     <td>Farzad Milani</td>
     <td>From Numbers to Practice: The Perceptual Reality of Neutral Intervals in Persian Tuning</td>
-  </tr>
-  <tr>
-    <td>Farshid Samandari</td>
-    <td>Sounding the Silk Road: A Comparative Study of Short Necked Lutes</td>
   </tr>
 </tbody>
 </table>
