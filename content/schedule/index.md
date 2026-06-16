@@ -156,7 +156,7 @@ projects: []
         <li>13:25 -- Notating Timbre in Jianzipu: A Gesture-Based MEI Encoding Module, <strong>Eto Sun, Yifan Huang & Ichiro Fujinaga</strong></li>
         <li>13:45 -- Hearing Orchestration with the TOGE: A Perception-Oriented Case Study of Lei Liang’s Tremors of a Memory Chord, <strong>Linglan Zhu, Yifan Huang, Florian Iochem, Chen Fan, Lena Heng, & Stephen McAdams</strong></li>
         <li>14:05 -- Western and Chinese Musical Acoustics in Dialogue: Understanding the Timbre of the Chinese Transverse Flute (dizi) Through Physics, <strong>Xinmeng Luan & Gary Scavone</strong></li>
-        <li>14:25 -- A cross-cultural comparison of the timbre-semantic space of Chinese instrumental sounds, <strong>Yifan Huang, Linglan Zhu, & Stephen McAdams</strong></li>
+        <li>14:25 -- A Cross-Cultural Comparison of the Timbre-Semantic Space of Chinese Instrumental Sounds, <strong>Yifan Huang, Lena Heng, Zijin Li & Stephen McAdams1</strong></li>
       </ul>
     </td>
     <td>
@@ -179,7 +179,7 @@ projects: []
       <u>Session 7: Timbre and sound spatialisation</u>
       <ul style="font-size: 0.9em;">
         <li>15:10 -- Composing Timbre in Space: Spatialisation as a Timbral Parameter in Higher-Order Ambisonics, <strong>James Bagshaw</strong></li>
-        <li>15:35 -- Resonance and Depth: Composing Timbral Identity and Spatial Form in an Artist-in-the-Loop Co-Creative Multi-Agent Percussive Performance, <strong>Keon Ju Maverick Lee</strong></li>
+        <li>15:35 -- Resonance and Depth: Composing Timbral Identity and Spatial Form in an Artist-in-the-Loop Co-Creative Multi-Agent Percussive Performance, <strong>Keon Ju Maverick Lee/Users/ctraube/Documents/UdeMONTREAL/---COURS/----COURS SECTEUR MUSNUM/--MUS3321_psycho</strong></li>
         <li>16:00 -- Timbre spatialisation: The medium is space, <strong>Robert Normandeau</strong></li>
       </ul>
     </td>
