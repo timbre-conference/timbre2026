@@ -113,7 +113,7 @@ and experimental arts community.
 <br>
 
 
-<strong>Gaël Moriceau</strong> — <em>Harmonic Turbulences</em>
+<strong>Gaël Moriceau</strong> — <em>Harmonic Turbulences</em> (T-stick)
 
 {{< figure src="photos_Gael_Moriceau.png" alt="Gaël Moriceau" width="100%" >}}
 
@@ -155,7 +155,7 @@ Tambor explores how the environmental and acoustic properties of specific places
 
 <br>
 
-<strong>Matt Schumaker</strong> — <em>Satellites</em> (piano and electronics), 12’00 
+<strong>Matt Schumaker</strong> — <em>Satellites</em> (piano, electronics & spatialization), 12’00 
 <br>
 <strong>Hubert Ho</strong>, piano
 
