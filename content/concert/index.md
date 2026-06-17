@@ -155,7 +155,7 @@ Tambor explores how the environmental and acoustic properties of specific places
 
 <br>
 
-<strong>Matt Schumaker</strong> — <em>Satellites</em> (piano, electronics & spatialization), 12’00 
+<strong>Matt Schumaker</strong> — <em>Satellites</em> (piano & electronics), 12’00 
 <br>
 <strong>Hubert Ho</strong>, piano
 
