@@ -179,7 +179,7 @@ projects: []
       <u>Session 7: Timbre and sound spatialisation</u>
       <ul style="font-size: 0.9em;">
         <li>15:10 -- Composing Timbre in Space: Spatialisation as a Timbral Parameter in Higher-Order Ambisonics, <strong>James Bagshaw</strong></li>
-        <li>15:35 -- Resonance and Depth: Composing Timbral Identity and Spatial Form in an Artist-in-the-Loop Co-Creative Multi-Agent Percussive Performance, <strong>Keon Ju Maverick Lee/Users/ctraube/Documents/UdeMONTREAL/---COURS/----COURS SECTEUR MUSNUM/--MUS3321_psycho</strong></li>
+        <li>15:35 -- Resonance and Depth: Composing Timbral Identity and Spatial Form in an Artist-in-the-Loop Co-Creative Multi-Agent Percussive Performance, <strong>Keon Ju Maverick Lee</strong></li>
         <li>16:00 -- Timbre spatialisation: The medium is space, <strong>Robert Normandeau</strong></li>
       </ul>
     </td>
