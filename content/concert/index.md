@@ -24,7 +24,7 @@ July 4, 2026
 Salle Claude-Champagne, Faculté de musique, Université de Montréal
 
 <ul style="font-size: 0.9em;">
-  <li><strong>Mael Oudin</strong> — <em>Essai de coexistence sonore</em> (Karlax & double bass)</li> -- performed by <strong>Benjamin Lavastre (Karlax) & Mael Oudin (double bass)</strong>
+  <li><strong>Mael Oudin</strong> — <em>Essai de coexistence sonore</em> (Karlax & double bass)</li> -- performed by <strong>Benjamin Lavastre</strong> (Karlax) & <strong>Mael Oudin</strong> (double bass)
   <li><strong>Arja Kastinen</strong> - <em>On the shoulders of the Great Bear</em> (Kantele)</li>
   <li><strong>Keon Ju Maverick Lee</strong> — <em>Resonance and Depth</em> (acousmatic)</li>
   <li><strong>Gaël Moriceau</strong> — <em>Harmonic Turbulences</em> (T-Stick)</li>
