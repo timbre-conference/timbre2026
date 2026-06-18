@@ -43,7 +43,6 @@ The conference will take place at the [Teloglion Foundation of Arts](https://www
 | **Bus stop 'Teloglio'** | Bus lines 24, 17, 37 |
 | **Bus stop 'Plateia Pavlou Mela'** | Bus line 15 |
 
-{{< gallery album="venue" resize_options="450x275">}} 
 -->
 ## **Travel Information**
 {style="color: var(--darkBlue) "}
@@ -75,6 +74,3 @@ Public transportation in the city is handled by the _Société de transport de M
 
 {{< figure src="travel/mtl-metro-arrow.jpg" alt="Montreal metro map" width="100%" caption="Montreal metro map" >}}
 
-<!-- 
-{{< gallery album="travel" resize_options="450x275" >}}
--->
