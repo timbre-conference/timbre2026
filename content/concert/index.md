@@ -34,8 +34,8 @@ Salle Claude-Champagne, Faculté de musique, Université de Montréal
 
 <ul style="font-size: 0.9em;">
   <li><strong>Tarcísio Braga</strong> — <em>Tambor</em> (snare drum et electronics)</li>
-  <li><strong>Matt Schumaker</strong> — <em>Satellites</em> (piano & electronics)</li> -- performed by <strong>Hubert Ho</strong>
   <li><strong>Robert Normandeau</strong> — <em>StrinGDberg</em> (acousmatic)</li>
+  <li><strong>Matt Schumaker</strong> — <em>Satellites</em> (piano & electronics)</li> -- performed by <strong>Hubert Ho</strong>
 </ul>
 
 <br>
