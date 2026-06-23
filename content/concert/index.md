@@ -46,6 +46,8 @@ Salle Claude-Champagne, Faculté de musique, Université de Montréal
 <strong>Program notes and biographies</strong>
 </p>
 
+<span id="oudin"></span>
+<span id="lavastre"></span>
 <strong>Mael Oudin</strong> - <em>Essai de coexistence sonore</em> (Karlax, double bass and prerecorded electroacoustic guitar), 
 -- performed by <strong>Benjamin Lavastre</strong>, karlax & <strong>Mael Oudin</strong>, double bass
 
@@ -66,7 +68,7 @@ The piece explores the possibility of a shared space between instruments of diff
 
 <br>
 
-
+<span id="kastinen"></span>
 <strong>Arja Kastinen</strong> - <em>Otavaisen olkapäillä</em> (On the shoulders of the Great Bear), Kantele, 10'00
 
 {{< figure src="photos_Arja_Kastinen_Timbre 2026.png" alt="Arja Kastinen" width="100%" >}}
@@ -84,7 +86,7 @@ from above, has a separate top plate, and is strung with brass. The 15‑string 
 
 <br>
 
-
+<span id="lee"></span>
 <strong>Keon Ju Maverick Lee</strong> - <em>Resonance and Depth</em> (2025), Acousmatic, 10'00
 
 {{< figure src="photos_Keon_Ju_Maverick Lee_Timbre_2026.png" alt="Keon Ju Maverick Lee" width="100%" >}}
@@ -112,7 +114,7 @@ and experimental arts community.
 
 <br>
 
-
+<span id="moriceau"></span>
 <strong>Gaël Moriceau</strong> — <em>Harmonic Turbulences</em> (T-stick)
 
 {{< figure src="photos_Gael_Moriceau.png" alt="Gaël Moriceau" width="100%" >}}
@@ -128,7 +130,7 @@ and experimental arts community.
 
 <br>
 
-
+<span id="braga"></span>
 <strong>Tarcísio Braga</strong> — <em>Tambor V</em>, (2024, revised 2026) 10’00
 <br>
 for solo snare drum and quadraphonic fixed media
@@ -155,6 +157,8 @@ Tambor explores how the environmental and acoustic properties of specific places
 
 <br>
 
+<span id="schumaker"></span>
+<span id="ho"></span>
 <strong>Matt Schumaker</strong> — <em>Satellites</em> (piano & electronics), 12’00 
 <br>
 <strong>Hubert Ho</strong>, piano
@@ -177,6 +181,7 @@ He also actively performed in the Czech Republic, at the Acanthes Festival in Me
 
 <br>
 
+<span id="normandeau"></span>
 <strong>Robert Normandeau</strong> — <em>StrinGDberg</em> (2001–03, revised 2025) 18’20
 
 {{< figure src="photos_concert_robert normandeau.png" alt="Robert Normandeau" width="100%" >}}
