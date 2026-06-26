@@ -29,7 +29,7 @@ image:
 projects: []
 ---
 
-## **TIMBRE 2026 - SATELLITE WORKSHOP 1** {style="color: var(--darkBlue); margin-bottom: 0.2rem;"}
+## **SATELLITE WORKSHOP 1** {style="color: var(--darkBlue); margin-bottom: 0.2rem;"}
 
 30 June 2025, 10:15 am - noon<br>
 Room A-512, Elizabeth Wirth Music Building<br>
@@ -53,7 +53,7 @@ No prior programming experience is required. The workshop is intended for musici
 
 ________________________________________________________________________________________________________________
 
-## **TIMBRE 2026 - SATELLITE WORKSHOP 2** {style="color: var(--darkBlue); margin-bottom: 0.2rem;"}
+## **SATELLITE WORKSHOP 2** {style="color: var(--darkBlue); margin-bottom: 0.2rem;"}
 30 June 2025, 1:15-2:15 pm<br>
 Room A-512, Elizabeth Wirth Music Building<br>
 527 Sherbrooke Street West (enter via 3rd Floor)
