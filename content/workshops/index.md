@@ -66,6 +66,6 @@ https://barbedette-luthier.com/a_propos/en<br>
 <strong>Luke Chiang</strong>, Université de Montréal 
 {style="margin-top: 0; margin-bottom: 1.5rem;"}
 
-(Photos)
+{{< figure src="barbedette_chiang.png" alt="Leïla Barbedette Luthier, Luke Chiang violinist" width="100%" >}}
 
 The timbre of a violin is distinct from that of a clarinet, cello, or viola; it may also differ between two violins and depend on the musician playing the instrument. In the interaction between a particular musician and a particular violin, what range of timbres is accessible? This workshop explores the various factors that contribute to timbre on the violin, including the musician’s gestures and the collaboration between the luthier and the musician. This exploration invites active listening to the timbral palette of a violin, placing it in the context of the musician’s gestures and their relationship to specific acoustical properties. Through a live violin adjustment conducted by a luthier and a violinist, participants will discover how adjusting certain parts of the instrument can help it respond more effectively to a musician’s preferences and artistic intentions. Participants are invited to contribute to a discussion on the instrument’s timbre and to take part in the adjustment of a violin.
