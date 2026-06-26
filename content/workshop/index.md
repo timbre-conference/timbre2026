@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Workshop"
+title: "Workshops"
 subtitle: ""
 summary: ""
 authors: []
