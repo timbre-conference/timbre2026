@@ -163,7 +163,7 @@ projects: []
       <u>Session 6: Panel on timbre and the politics of artificial creativity</u>
       <ul style="font-size: 0.9em;">
         <li>Cat In Loop: A Case Study On Timbre, Imagination And AI, <strong>Weilu Ge</strong> & <strong>Nithya Shikarpur</strong></li>
-        <li>Timbre at the Interface: Negotiating Audio Representations in the Age of Artificial Creativity, <strong>panel</strong> led by <strong>Charalampos Saitis</strong> with <strong>Kai Siedenburg</strong>, <strong>Landon Morrison</strong>, <strong>Dominic Thibault</strong>, <strong>Hee Seng Kye</strong>, <strong>Weilu Ge</strong>, <strong>Nithya Shikarpur</strong>, <strong>Steven Lewis</strong></li>
+        <li>Timbre at the Interface: Negotiating Audio Representations in the Age of Artificial Creativity, <strong>panel</strong> led by <strong>Charalampos Saitis</strong> with <strong>Kai Siedenburg</strong>, <strong>Landon Morrison</strong>, <strong><a href="/timbre2026/workshops/#thibault">Dominic Thibault</a></strong>, <strong>Hee Seng Kye</strong>, <strong>Weilu Ge</strong>, <strong>Nithya Shikarpur</strong>, <strong>Steven Lewis</strong></li>
         </ul>
     </td>
   </tr>
@@ -569,7 +569,7 @@ projects: []
 
   <tr>
     <td>17:30 - 19:00</td>
-    <td colspan="2" style="text-align:center">Concert</td>
+    <td colspan="2" style="text-align:center"><a href="/timbre2026/concert/">Concert</a></td>
   </tr>
 
   <tr>

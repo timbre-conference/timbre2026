@@ -39,6 +39,7 @@ Room A-512, Elizabeth Wirth Music Building<br>
 ### Navigating Abstract Timbre Spaces with Mosaïque
 {style="color: var(--darkBlue); font-size: 1.5em;"}
 
+<span id="thibault"></span>
 <strong>Prof. Dominic Thibault</strong>, Université de Montréal<br>
 https://www.cirmmt.org/en/members/dominic-thibault
 {style="margin-top: 0; margin-bottom: 1.5rem;"}
@@ -61,6 +62,7 @@ Room A-512, Elizabeth Wirth Music Building<br>
 ### The Heart of Timbre on the Violin: Where the Craft of the Luthier meets that of the Musician
 {style="color: var(--darkBlue); font-size: 1.5em;"}
 
+<span id="barbedette"></span>
 <strong>Leïla Barbedette</strong>, Université de Montréal<br>
 https://barbedette-luthier.com/a_propos/en<br>
 <strong>Luke Chiang</strong>, Université de Montréal 

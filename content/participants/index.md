@@ -195,6 +195,70 @@ projects: []
   <td>Oral Presentation - Presenter</td>
 </tr>
 
+<tr>
+  <td>Chelsea Komschlies</td>
+  <td>Graduate Student</td>
+  <td>McGill University (Ph.D. Candidate); Louisville Orchestra (Composer in Residence)</td>
+  <td>QC</td>
+  <td>Poster Presentation - Presenter</td>
+</tr>
+
+<tr>
+  <td>Manuel López Tovar</td>
+  <td>Graduate Student</td>
+  <td>McGill University</td>
+  <td>QC</td>
+  <td>Oral Presentation - Presenter</td>
+</tr>
+
+<tr>
+  <td>Aidan McGartland</td>
+  <td>Graduate Student</td>
+  <td>McGill University</td>
+  <td>QC</td>
+  <td>Poster Presentation - Presenter</td>
+</tr>
+
+<tr>
+  <td>Joshua Rosner</td>
+  <td>Graduate Student</td>
+  <td>McGill University</td>
+  <td>QC</td>
+  <td>Oral Presentation - Presenter; Poster Presentation - Co-author</td>
+</tr>
+
+<tr>
+  <td>Jade Roth</td>
+  <td>Graduate Student</td>
+  <td>McGill University</td>
+  <td>QC</td>
+  <td>Oral Presentation - Presenter</td>
+</tr>
+
+<tr>
+  <td>Susanne Sevcik</td>
+  <td>Graduate Student</td>
+  <td>McGill University</td>
+  <td>QC</td>
+  <td>Poster Presentation - Presenter</td>
+</tr>
+
+<tr>
+  <td>Eto Sun</td>
+  <td>Graduate Student</td>
+  <td>McGill University</td>
+  <td>QC</td>
+  <td>Oral Presentation - Presenter</td>
+</tr>
+
+<tr>
+  <td>Louis-Michel Tougas</td>
+  <td>Graduate Student</td>
+  <td>McGill University</td>
+  <td>QC</td>
+  <td>Oral Presentation - Presenter</td>
+</tr>
+
 <!-- Simon Fraser University -->
 
 <tr>
@@ -257,6 +321,38 @@ projects: []
   <td>Artistic Report + Concert - Presenter</td>
 </tr>
 
+<tr>
+  <td>Thomas Augustin</td>
+  <td>Graduate Student</td>
+  <td>Université de Montréal</td>
+  <td>QC</td>
+  <td>Oral Presentation - Presenter</td>
+</tr>
+
+<tr>
+  <td><a href="/timbre2026/workshops/#barbedette">Leïla Barbedette</a></td>
+  <td>Graduate Student</td>
+  <td>Université de Montréal</td>
+  <td>QC</td>
+  <td>Oral Presentation - Presenter</td>
+</tr>
+
+<tr>
+  <td>Matthieu Galliker</td>
+  <td>Graduate Student</td>
+  <td>Université de Montréal</td>
+  <td>QC</td>
+  <td>Oral Presentation - Presenter</td>
+</tr>
+
+<tr>
+  <td>Frédéric Roverselli</td>
+  <td>Graduate Student</td>
+  <td>Université de Montréal</td>
+  <td>QC</td>
+  <td>Oral Presentation - Presenter</td>
+</tr>
+
 <!-- University of British Columbia -->
 
 <tr>
@@ -265,6 +361,72 @@ projects: []
   <td>University of British Columbia</td>
   <td>BC</td>
   <td>Oral Presentation - Presenter</td>
+</tr>
+
+<tr>
+  <td>Eshantha Peiris</td>
+  <td>Professor/Researcher</td>
+  <td>University of British Columbia</td>
+  <td>BC</td>
+  <td>Oral Presentation - Presenter</td>
+</tr>
+
+<!-- University of Guelph -->
+
+<tr>
+  <td>James Harley</td>
+  <td>Professor/Researcher</td>
+  <td>University of Guelph</td>
+  <td>ON</td>
+  <td>Oral Presentation - Presenter</td>
+</tr>
+
+<!-- University of Toronto -->
+
+<tr>
+  <td>Anton Vishio</td>
+  <td>Professor/Researcher</td>
+  <td>University of Toronto</td>
+  <td>ON</td>
+  <td>Oral Presentation - Presenter</td>
+</tr>
+
+<!-- University of Victoria -->
+
+<tr>
+  <td>Ajtony Csaba</td>
+  <td>Professor/Researcher</td>
+  <td>University of Victoria</td>
+  <td>BC</td>
+  <td>Oral Presentation - Presenter</td>
+</tr>
+
+<!-- St. Francis Xavier University -->
+
+<tr>
+  <td>Lena Heng</td>
+  <td>Professor/Researcher</td>
+  <td>St. Francis Xavier University</td>
+  <td>NS</td>
+  <td>Oral Presentation - Presenter; Poster Presentation - Co-author</td>
+</tr>
+
+<!-- Independent -->
+
+<tr>
+  <td>Colin Tucker</td>
+  <td>Independent Artist-Scholar</td>
+  <td>Independent Artist-Scholar</td>
+  <td>ON</td>
+  <td>Poster Presentation - Presenter</td>
+</tr>
+
+<tr>
+  <td>Joshua Bucchi</td>
+  <td>Independent Researcher/Artist</td>
+  <td>ACTOR/CIRMMT</td>
+  <td>QC</td>
+  <td>Oral Presentation - Presenter; Poster Presentation - Co-author</td>
 </tr>
 
 </tbody>
@@ -884,6 +1046,14 @@ projects: []
   <td>Professor/Researcher</td>
   <td>University of Pavia</td>
   <td>Italy</td>
+  <td>Oral Presentation - Presenter</td>
+</tr>
+
+<tr>
+  <td>Matt Collins</td>
+  <td>Independent Researcher/Artist</td>
+  <td>Independent Researcher</td>
+  <td>United Kingdom</td>
   <td>Oral Presentation - Presenter</td>
 </tr>
 
