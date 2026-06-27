@@ -76,17 +76,17 @@ projects: []
     <td>
       <u>Session 1: Contemporary music analysis and dance</u> - Chair : Stephen McAdams
       <p style="font-size: 0.9em;">
-        <br>9:10 -- Enacting Violence through Choreography-Orchestration Relationships in Stravinsky's Sacrificial Dance, <strong>Rebecca Moranis</strong></li>
-        <br>9:35 -- Orchestration and Transformation Procedures in George Benjamin's Dance Figures, <strong>Igor Maia & Robert Hasegawa</strong></li>
-        <br>10:00 -- Analysis of Orchestration Style: A Case Study of Two Works by Germaine Tailleferre, <strong>Jade Roth</strong></li>
+        <br>9:10 -- Enacting Violence through Choreography-Orchestration Relationships in Stravinsky's Sacrificial Dance, <strong>Rebecca Moranis</strong>
+        <br>9:35 -- Orchestration and Transformation Procedures in George Benjamin's Dance Figures, <strong>Igor Maia & Robert Hasegawa</strong>
+        <br>10:00 -- Analysis of Orchestration Style: A Case Study of Two Works by Germaine Tailleferre, <strong>Jade Roth</strong>
       </p>
      </td>
  <td>
     <u>Session 2: Aestheticizing noise</u>
-    <p style="font-size: 0.9em;">
-      <br>9:10 -- It May Not Be Noise: Composing Mental Timbre Through Redistribution and Contextual Interference, <strong>Rafael Maia & José Alberto Gomes</strong></li>
-      <br>9:35 -- <em>Phantom Polyphony</em>: Modeling Tinnitus and the Variability of Its Timbre in the Context of an Art Installation, <strong>Thomas Augustin</strong></li>
-      <br>10:00 -- Don’t Let Screaming Ruin Your Beauty Sleep, Just Bleach It! A Study of Frequency Shearing for Noise, <strong>Marina Lee</strong></li>
+    <p style="font-size: 0.9em;"> - Chair : Caroline Traube
+      <br>9:10 -- It May Not Be Noise: Composing Mental Timbre Through Redistribution and Contextual Interference, <strong>Rafael Maia & José Alberto Gomes</strong>
+      <br>9:35 -- <em>Phantom Polyphony</em>: Modeling Tinnitus and the Variability of Its Timbre in the Context of an Art Installation, <strong>Thomas Augustin</strong>
+      <br>10:00 -- Don’t Let Screaming Ruin Your Beauty Sleep, Just Bleach It! A Study of Frequency Shearing for Noise, <strong>Marina Lee</strong>
     </p>
   </td>
   </tr>
@@ -150,20 +150,20 @@ projects: []
     <td>
       <u>Session 5: Panel on cross-cultural timbre studies</u>
         Negotiating Timbre between East and West: Friction, Reflexivity, and Knowledge-Making in Cross-Cultural Timbral Studies, <strong> Yifan Huang </strong> (moderator)
-      <ul style="font-size: 0.9em;">
-         <li>13:25 -- A Cross-Cultural Comparison of the Timbre-Semantic Space of Chinese Instrumental Sounds, <strong>Yifan Huang, Lena Heng, Zijin Li & Stephen McAdams1</strong></li>
-        <li>13:40 -- Notating Timbre in Jianzipu: A Gesture-Based MEI Encoding Module, <strong>Eto Sun, Yifan Huang & Ichiro Fujinaga</strong></li>
-        <li>13:55 -- Western and Chinese Musical Acoustics in Dialogue: Understanding the Timbre of the Chinese Transverse Flute (dizi) Through Physics, <strong>Xinmeng Luan & Gary Scavone</strong></li>
-        <li>14:10 -- Hearing Orchestration with the TOGE: A Perception-Oriented Case Study of Lei Liang’s Tremors of a Memory Chord, <strong>Linglan Zhu, Yifan Huang, Florian Iochem, Chen Fan, Lena Heng, & Stephen McAdams</strong></li>
-        <li>14:25 -- Panel discussion</li>
-      </ul>
+      <p style="font-size: 0.9em;">
+         <br>13:25 -- A Cross-Cultural Comparison of the Timbre-Semantic Space of Chinese Instrumental Sounds, <strong>Yifan Huang, Lena Heng, Zijin Li & Stephen McAdams1</strong></li>
+         <br>13:40 -- Notating Timbre in Jianzipu: A Gesture-Based MEI Encoding Module, <strong>Eto Sun, Yifan Huang & Ichiro Fujinaga</strong></li>
+         <br>13:55 -- Western and Chinese Musical Acoustics in Dialogue: Understanding the Timbre of the Chinese Transverse Flute (dizi) Through Physics, <strong>Xinmeng Luan & Gary Scavone</strong></li>
+         <br>14:10 -- Hearing Orchestration with the TOGE: A Perception-Oriented Case Study of Lei Liang’s Tremors of a Memory Chord, <strong>Linglan Zhu, Yifan Huang, Florian Iochem, Chen Fan, Lena Heng, & Stephen McAdams</strong></li>
+        <br>14:25 -- Panel discussion</li>
+      </p>
     </td>
     <td>
       <u>Session 6: Panel on timbre and the politics of artificial creativity</u>
-      <ul style="font-size: 0.9em;">
-        <li>Cat In Loop: A Case Study On Timbre, Imagination And AI, <strong>Weilu Ge</strong> & <strong>Nithya Shikarpur</strong></li>
-        <li>Timbre at the Interface: Negotiating Audio Representations in the Age of Artificial Creativity, <strong>panel</strong> led by <strong>Charalampos Saitis</strong> with <strong>Kai Siedenburg</strong>, <strong>Landon Morrison</strong>, <strong><a href="/timbre2026/workshops/#thibault">Dominic Thibault</a></strong>, <strong>Hee Seng Kye</strong>, <strong>Weilu Ge</strong>, <strong>Nithya Shikarpur</strong>, <strong>Steven Lewis</strong></li>
-        </ul>
+      <p style="font-size: 0.9em;">
+        <br>Cat In Loop: A Case Study On Timbre, Imagination And AI, <strong>Weilu Ge</strong> & <strong>Nithya Shikarpur</strong></li>
+        <br>Timbre at the Interface: Negotiating Audio Representations in the Age of Artificial Creativity, <strong>panel</strong> led by <strong>Charalampos Saitis</strong> with <strong>Kai Siedenburg</strong>, <strong>Landon Morrison</strong>, <strong><a href="/timbre2026/workshops/#thibault">Dominic Thibault</a></strong>, <strong>Hee Seng Kye</strong>, <strong>Weilu Ge</strong>, <strong>Nithya Shikarpur</strong>, <strong>Steven Lewis</strong></li>
+        </p>
     </td>
   </tr>
 
@@ -184,11 +184,11 @@ projects: []
     </td>
     <td>
       <u>Session 8: Percussion and rhythms</u>
-      <ul style="font-size: 0.9em;">
-        <li>15:10 -- An Multidimensional Scaling Timbre Space for Percussive Musical Instruments Generated by Physical Modeling Synthesis, <strong>Marcelo Caetano & Josh Mitchell</strong> [V]</li>
-        <li>15:15 -- Mapping the Concert Snare Drum: A Sound Catalogue Through Improvisation, <strong>Tarcísio Braga</strong></li>
-        <li>15:40 -- Timbre and Rhythmic Parsing: Spectral Centroid and Temporal Envelope Effects on Prominence and Grouping, <strong>Joshua Rosner, Stephen McAdams, & Michael Wagner</strong></li>
-        <li>16:05 -- Percussion Patterns, Rhyming Poetry, and the Expectation of Recurring Timbres: Case Studies from Sri Lanka, <strong>Eshantha Peiris</strong></li>
+      <p style="font-size: 0.9em;">
+        <br>15:10 -- An Multidimensional Scaling Timbre Space for Percussive Musical Instruments Generated by Physical Modeling Synthesis, <strong>Marcelo Caetano & Josh Mitchell</strong> [V]</li>
+        <br>15:15 -- Mapping the Concert Snare Drum: A Sound Catalogue Through Improvisation, <strong>Tarcísio Braga</strong></li>
+        <br>15:40 -- Timbre and Rhythmic Parsing: Spectral Centroid and Temporal Envelope Effects on Prominence and Grouping, <strong>Joshua Rosner, Stephen McAdams, & Michael Wagner</strong></li>
+        <br>16:05 -- Percussion Patterns, Rhyming Poetry, and the Expectation of Recurring Timbres: Case Studies from Sri Lanka, <strong>Eshantha Peiris</strong></li>
       </ul>
     </td>
   </tr>
