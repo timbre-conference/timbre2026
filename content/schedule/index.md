@@ -244,19 +244,19 @@ projects: []
   <tr>
     <td>9:00 - 10:15</td>
     <td>
-      <u>Session 9: Timbre in instrumental performance</u>
+      <u>Session 9: Aesthetics and political philosophy</u>
+       <p style="font-size: 0.9em;">
+        <br>9:00 -- The Violent Particularity of Timbre as Sonic and Symbolist Ideal in New Music, <strong>Amy Bauer</strong>
+        <br>9:25 -- "Almost Unbelievably Rich": Autistic Listening and Wandelweiser Music, <strong>Nathan Friedman</strong>
+        <br>9:50 -- Timbre’s Beholders and the Racialization of Sensation in Concert Music Aesthetics, <strong>Colin Tucker</strong>
+      </p>
+    </td>
+    <td>
+     <u>Session 10: Timbre in instrumental performance</u>
        <p style="font-size: 0.9em;">
         <br>9:00 -- Physical Analysis of Sound Production in the Baroque Traverso: Geometry, Resonance, and Timbre Control, <strong>Patricio de la Cuadra, Benoît Fabre & Augustin Ernoult</strong>
         <br>9:25 -- Individual Differences in Bow-Related Timbre Across 23 Recordings of Bach's Fourth Cello Suite Prelude, <strong>Clare Monfredo</strong>
         <br>9:50 -- Timbre & Text: A Preliminary Study of Dietrich Fischer-Dieskau's Recordings of Schubert's "Gute Nacht", <strong>Tracy Lipke-Perry</strong>
-      </p>
-    </td>
-    <td>
-      <u>Session 10: Hearing/touching synthetic textures</u>
-       <p style="font-size: 0.9em;">
-        <br>9:00 -- Timbre beyond hearing: auditory and vibrotactile interactions in the perception of timbre-related acoustic features, <strong>Loonan Chauvette, Anne Sophie Grenier, Philippe Albouy, Emily Coffey, Robert Zatorre & Andréanne Sharp</strong>
-        <br>9:25 -- Empirical Study of the Semantics of Synthetic "Timbre-Textures", <strong>Jason Noble, Francis Bourgoin, Takuto Fukuda, Caroline Traube, & Zachary Wallmark</strong>
-        <br>9:50 -- Gestural Control of Timbre with a Digital Musical Instrument, <strong>Gaël Moriceau</strong>
       </p>
     </td>
   </tr>
@@ -277,13 +277,12 @@ projects: []
         <br>11:35 -- Toward a Lachenmannian Phenomenology in the Music of Lachenmann, Saunders, and Iannotta, <strong>Zachary Bernstein</strong>
       </p>
     </td>
-    <td>
-      <u>Session 12: Aesthetics and political philosophy</u>
+     <td>
+    <u>Session 12: Hearing/touching synthetic textures</u>
        <p style="font-size: 0.9em;">
-        <br>10:35 -- 
-        <br>10:45 -- The Violent Particularity of Timbre as Sonic and Symbolist Ideal in New Music, <strong>Amy Bauer</strong>
-        <br>11:10 -- "Almost Unbelievably Rich": Autistic Listening and Wandelweiser Music, <strong>Nathan Friedman</strong>
-        <br>11:35 -- Timbre’s Beholders and the Racialization of Sensation in Concert Music Aesthetics, <strong>Colin Tucker</strong>
+        <br>10:35 -- Timbre beyond hearing: auditory and vibrotactile interactions in the perception of timbre-related acoustic features, <strong>Loonan Chauvette, Anne Sophie Grenier, Philippe Albouy, Emily Coffey, Robert Zatorre & Andréanne Sharp</strong>
+        <br>11:00 -- Empirical Study of the Semantics of Synthetic "Timbre-Textures", <strong>Jason Noble, Francis Bourgoin, Takuto Fukuda, Caroline Traube, & Zachary Wallmark</strong>
+        <br>11:25 -- Gestural Control of Timbre with a Digital Musical Instrument, <strong>Gaël Moriceau</strong>
       </p>
     </td>
   </tr>
