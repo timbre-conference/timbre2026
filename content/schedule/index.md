@@ -421,9 +421,8 @@ projects: []
     <td>
       <u>Session 17: Ethnomusicological perspectives</u>
       <ul style="font-size: 0.9em;">
-        <li>9:00 -- On the Global Study of Timbre, <strong>Jason Winikoff</strong> [LT]</li>
-        <li>9:08 -- Timbral Transformations in Tunisian Folk Music: A Case Study of the Small-sized 'Darbuka' Drum, <strong>Ali Chamseddine</strong> [LT]</li>
-        <li>9:16 -- Timbre as Musical Language in the Dùndún Ensemble: Perception, Performance, and Meaning in Yoruba Culture and Auditory Frameworks, <strong>Sunday Olufemi Akande</strong> [LT]</li>
+        <li>9:00 -- On the Global Study of Timbre, <strong>Jason Winikoff</strong> [V]</li>
+        <li>9:10 -- Timbral Transformations in Tunisian Folk Music: A Case Study of the Small-sized 'Darbuka' Drum, <strong>Ali Chamseddine</strong> [V]</li>
         <li>9:25 -- Analyse et perception du timbre et des pratiques de l'orchestration en Méditerranée, <strong>Mondher Ayari</strong></li>
         <li>9:50 -- Timbral Signatures in Cuban Dance Bands from Songo to Timba: Hybridities, Technologies, and Vocality (1970–1995), <strong>Joshua Bucchi</strong></li>
       </ul>
