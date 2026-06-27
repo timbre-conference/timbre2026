@@ -82,8 +82,8 @@ projects: []
       </p>
      </td>
  <td>
-    <u>Session 2: Aestheticizing noise</u>
-    <p style="font-size: 0.9em;"> - Chair : Caroline Traube
+    <u>Session 2: Aestheticizing noise</u> - Chair : Caroline Traube
+    <p style="font-size: 0.9em;"> 
       <br>9:10 -- It May Not Be Noise: Composing Mental Timbre Through Redistribution and Contextual Interference, <strong>Rafael Maia & José Alberto Gomes</strong>
       <br>9:35 -- <em>Phantom Polyphony</em>: Modeling Tinnitus and the Variability of Its Timbre in the Context of an Art Installation, <strong>Thomas Augustin</strong>
       <br>10:00 -- Don’t Let Screaming Ruin Your Beauty Sleep, Just Bleach It! A Study of Frequency Shearing for Noise, <strong>Marina Lee</strong>
@@ -148,21 +148,22 @@ projects: []
   <tr>
     <td>13:20 - 14:50</td>
     <td>
-      <u>Session 5: Panel on cross-cultural timbre studies</u>
-        Negotiating Timbre between East and West: Friction, Reflexivity, and Knowledge-Making in Cross-Cultural Timbral Studies, <strong> Yifan Huang </strong> (moderator)
+      <u>Session 5: Panel -- Negotiating Timbre between East and West: Friction, Reflexivity, and Knowledge-Making in Cross-Cultural Timbral Studies</u> -- Moderator: Yifan Huang
       <p style="font-size: 0.9em;">
-         <br>13:25 -- A Cross-Cultural Comparison of the Timbre-Semantic Space of Chinese Instrumental Sounds, <strong>Yifan Huang, Lena Heng, Zijin Li & Stephen McAdams1</strong></li>
-         <br>13:40 -- Notating Timbre in Jianzipu: A Gesture-Based MEI Encoding Module, <strong>Eto Sun, Yifan Huang & Ichiro Fujinaga</strong></li>
-         <br>13:55 -- Western and Chinese Musical Acoustics in Dialogue: Understanding the Timbre of the Chinese Transverse Flute (dizi) Through Physics, <strong>Xinmeng Luan & Gary Scavone</strong></li>
-         <br>14:10 -- Hearing Orchestration with the TOGE: A Perception-Oriented Case Study of Lei Liang’s Tremors of a Memory Chord, <strong>Linglan Zhu, Yifan Huang, Florian Iochem, Chen Fan, Lena Heng, & Stephen McAdams</strong></li>
-        <br>14:25 -- Panel discussion</li>
+	  <br>13:20 -- Introduction
+         <br>13:25 -- A Cross-Cultural Comparison of the Timbre-Semantic Space of Chinese Instrumental Sounds, <strong>Yifan Huang, Lena Heng, Zijin Li & Stephen McAdams</strong>
+         <br>13:40 -- Notating Timbre in Jianzipu: A Gesture-Based MEI Encoding Module, <strong>Eto Sun, Yifan Huang & Ichiro Fujinaga</strong>
+         <br>13:55 -- Western and Chinese Musical Acoustics in Dialogue: Understanding the Timbre of the Chinese Transverse Flute (dizi) Through Physics, <strong>Xinmeng Luan & Gary Scavone</strong>
+         <br>14:10 -- Hearing Orchestration with the TOGE: A Perception-Oriented Case Study of Lei Liang’s Tremors of a Memory Chord, <strong>Linglan Zhu, Yifan Huang, Florian Iochem, Chen Fan, Lena Heng, & Stephen McAdams</strong>
+        <br>14:25 -- Panel discussion
       </p>
     </td>
     <td>
-      <u>Session 6: Panel on timbre and the politics of artificial creativity</u>
+      <u>Session 6: Panel -- Timbre and the politics of artificial creativity</u> -- Moderator : Charalampos Saitis
       <p style="font-size: 0.9em;">
-        <br>Cat In Loop: A Case Study On Timbre, Imagination And AI, <strong>Weilu Ge</strong> & <strong>Nithya Shikarpur</strong></li>
-        <br>Timbre at the Interface: Negotiating Audio Representations in the Age of Artificial Creativity, <strong>panel</strong> led by <strong>Charalampos Saitis</strong> with <strong>Kai Siedenburg</strong>, <strong>Landon Morrison</strong>, <strong><a href="/timbre2026/workshops/#thibault">Dominic Thibault</a></strong>, <strong>Hee Seng Kye</strong>, <strong>Weilu Ge</strong>, <strong>Nithya Shikarpur</strong>, <strong>Steven Lewis</strong></li>
+        <br>13:20 -- Introduction
+	 <br>13:25 -- Cat In Loop: A Case Study On Timbre, Imagination And AI, <strong>Weilu Ge</strong> & <strong>Nithya Shikarpur</strong>
+	 <br>13:50 -- Timbre at the Interface: Negotiating Audio Representations in the Age of Artificial Creativity, <strong>panel</strong> led by <strong>Charalampos Saitis</strong> with <strong>Kai Siedenburg</strong>, <strong>Landon Morrison</strong>, <strong><a href="/timbre2026/workshops/#thibault">Dominic Thibault</a></strong>, <strong>Hee Seng Kye</strong>, <strong>Weilu Ge</strong>, <strong>Nithya Shikarpur</strong>, <strong>Steven Lewis</strong>
         </p>
     </td>
   </tr>
