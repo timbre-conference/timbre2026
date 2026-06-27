@@ -490,7 +490,7 @@ projects: []
   <tr>
     <td>13:15 - 14:30</td>
     <td>
-      <u>Session 21: Timbre, gesture and embodiment</u>
+      <u>Session 21: Timbre, gesture and embodiment</u> - Chair: Eshantha Peiris
        <p style="font-size: 0.9em;">
         <br>13:15 -- From Sensitive Listening to Sound to the Intuition of a Gesture, <strong>Jean Geoffroy</strong>
         <br>13:40 -- “So that the sting first enters the skin, and then hurts”: Embodied Transmission of a Single Note, <strong>Gina Fatone</strong>
