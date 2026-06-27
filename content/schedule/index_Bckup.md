@@ -89,7 +89,7 @@ projects: []
     <ul style="font-size: 0.9em;">
       <li>9:10 -- It May Not Be Noise: Composing Mental Timbre Through Redistribution and Contextual Interference, <strong>Rafael Maia & José Alberto Gomes</strong></li>
       <li>9:35 -- <em>Phantom Polyphony</em>: Modeling Tinnitus and the Variability of Its Timbre in the Context of an Art Installation, <strong>Thomas Augustin</strong></li>
-      <li>10:00 -- Don’t Let Screaming Ruin Your Beauty Sleep, Just Bleach It! A Study of Frequency Shearing for Noise, <strong>Marina Lee</strong></li>
+      <li>10:00 -- Lithophonica: Timbral Explorations of Stones and Sticks, <strong>James Harley & Gayle Young</strong></li>
     </ul>
   </td>
   </tr>
@@ -104,10 +104,9 @@ projects: []
     <td>
       <u>Session 3: Extended techniques</u>
       <ul style="font-size: 0.9em;">
-        <li>10:45 -- Classifying String Instrument Preparation Techniques: Analysis, Taxonomies, and Applications in Computer-Aided Orchestration, <strong>Maurizio Azzan & Luca Guidarini</strong> [V] </li>
-        <li>10:55 -- Analyzing String Instrument Preparation Techniques in Context: Timbral Space, Syntax and Form, <strong>Ingrid Pustijanac & Michele Leggieri</strong></li>
-        <li>11:20 -- Hearing The Unconventional: A Study of Perceptual Fusion of Extended Techniques in Contemporary Classical Music, <strong>Jia Yi Lee & Jenine Brown</strong> [V]</li>
-        <li>11:30 -- Applying Timbre Analysis in the Performance of Chamber Music with Timpani and Cello, <strong>Manuel López Tovar</strong></li>
+        <li>10:45 -- Classifying String Instrument Preparation Techniques: Analysis, Taxonomies, and Applications in Computer-Aided Orchestration, <strong>Maurizio Azzan & Luca Guidarini</strong></li>
+        <li>11:10 -- Analyzing String Instrument Preparation Techniques in Context: Timbral Space, Syntax and Form, <strong>Ingrid Pustijanac & Michele Leggieri</strong></li>
+        <li>11:35 -- Applying Timbre Analysis in the Performance of Chamber Music with Timpani and Cello, <strong>Manuel López Tovar</strong></li>
       </ul>
     </td>
      <td>
@@ -154,11 +153,10 @@ projects: []
       <u>Session 5: Panel on cross-cultural timbre studies</u>
         Negotiating Timbre between East and West: Friction, Reflexivity, and Knowledge-Making in Cross-Cultural Timbral Studies, <strong> Yifan Huang </strong> (moderator)
       <ul style="font-size: 0.9em;">
-         <li>13:25 -- A Cross-Cultural Comparison of the Timbre-Semantic Space of Chinese Instrumental Sounds, <strong>Yifan Huang, Lena Heng, Zijin Li & Stephen McAdams1</strong></li>
-        <li>13:40 -- Notating Timbre in Jianzipu: A Gesture-Based MEI Encoding Module, <strong>Eto Sun, Yifan Huang & Ichiro Fujinaga</strong></li>
-        <li>13:55 -- Western and Chinese Musical Acoustics in Dialogue: Understanding the Timbre of the Chinese Transverse Flute (dizi) Through Physics, <strong>Xinmeng Luan & Gary Scavone</strong></li>
-        <li>14:10 -- Hearing Orchestration with the TOGE: A Perception-Oriented Case Study of Lei Liang’s Tremors of a Memory Chord, <strong>Linglan Zhu, Yifan Huang, Florian Iochem, Chen Fan, Lena Heng, & Stephen McAdams</strong></li>
-        <li>14:25 -- Panel discussion</li>
+        <li>13:25 -- Notating Timbre in Jianzipu: A Gesture-Based MEI Encoding Module, <strong>Eto Sun, Yifan Huang & Ichiro Fujinaga</strong></li>
+        <li>13:45 -- Hearing Orchestration with the TOGE: A Perception-Oriented Case Study of Lei Liang’s Tremors of a Memory Chord, <strong>Linglan Zhu, Yifan Huang, Florian Iochem, Chen Fan, Lena Heng, & Stephen McAdams</strong></li>
+        <li>14:05 -- Western and Chinese Musical Acoustics in Dialogue: Understanding the Timbre of the Chinese Transverse Flute (dizi) Through Physics, <strong>Xinmeng Luan & Gary Scavone</strong></li>
+        <li>14:25 -- A Cross-Cultural Comparison of the Timbre-Semantic Space of Chinese Instrumental Sounds, <strong>Yifan Huang, Lena Heng, Zijin Li & Stephen McAdams1</strong></li>
       </ul>
     </td>
     <td>
@@ -271,12 +269,12 @@ projects: []
   <tr>
     <td>10:35 - 12:00</td>
     <td>
-      <u>Session 11 : Sound studies and phenomenology</u>
+      <u>Session 11 : Sound studies</u>
       <ul style="font-size: 0.9em;">
         <li>10:35 -- Listening to Demonstrations: Timbral Perspectives on Urban Crowd Sound, <strong>Kamyar Karimi, Alice Jarry & Gabriel Vigliensoni</strong> [LT] </li>
-        <li>10:45 -- Timbre as Exposure: Fragility, Proximity, and the Audibility of the Body, <strong>Hee Seng Kye</strong></li>
-        <li>11:10 -- Timbre as a Combination of Its Source and Contents: A Phenomenological Metaphor-Based Framework for Analysing Timbre in Musical Works, <strong>Matt Collins</strong></li>
-        <li>11:35 -- Toward a Lachenmannian Phenomenology in the Music of Lachenmann, Saunders, and Iannotta, <strong>Zachary Bernstein</strong></li>
+        <li>10:45 -- Don’t Let Screaming Ruin Your Beauty Sleep, Just Bleach It! A Study of Frequency Shearing for Noise, <strong>Marina Lee</strong></li>
+        <li>11:10 -- Timbre as Exposure: Fragility, Proximity, and the Audibility of the Body, <strong>Hee Seng Kye</strong></li>
+        <li>11:35 -- Timbre’s Beholders and the Racialization of Sensation in Concert Music Aesthetics, <strong>Colin Tucker</strong></li>
       </ul>
     </td>
     <td>
@@ -285,7 +283,7 @@ projects: []
         <li>10:35 -- The Commitments of Physical Modeling: Timbre, Mediation, and Virtual Instrument Construction, <strong>Xyh Tamura</strong> [LT]</li>
         <li>10:45 -- The Violent Particularity of Timbre as Sonic and Symbolist Ideal in New Music, <strong>Amy Bauer</strong></li>
         <li>11:10 -- "Almost Unbelievably Rich": Autistic Listening and Wandelweiser Music, <strong>Nathan Friedman</strong></li>
-        <li>11:35 -- Timbre’s Beholders and the Racialization of Sensation in Concert Music Aesthetics, <strong>Colin Tucker</strong></li>
+        <li>11:35 -- Toward a Lachenmannian Phenomenology in the Music of Lachenmann, Saunders, and Iannotta, <strong>Zachary Bernstein</strong></li>
       </ul>
     </td>
   </tr>
@@ -386,7 +384,7 @@ projects: []
     <td>
       <u>Session 16: Sounds of nature</u>
       <ul style="font-size: 0.9em;">
-        <li>16:45 -- Lithophonica: Timbral Explorations of Stones and Sticks, <strong>James Harley & Gayle Young</strong></li>
+        <li>16:45 -- Timbre as a Combination of Its Source and Contents: A Phenomenological Metaphor-Based Framework for Analysing Timbre in Musical Works, <strong>Matt Collins</strong></li>
         <li>17:10 -- Timbre Across Species: Appropriating Bird Vocalizations in Contemporary Music, <strong>Matthieu Galliker</strong></li>
         <li>17:35 -- Ethereality in Jennifer Higdon's Early Works, <strong>Laura Dallman</strong></li>
       </ul>
@@ -433,8 +431,8 @@ projects: []
       <u>Session 18: Orchestrating and analyzing the musical scene</u>
       <ul style="font-size: 0.9em;">
         <li>9:00 -- Satellites: Orbiting Composer and Performer Insights on Timbre in a Work for Piano and Electronics, <strong>Hubert Ho &  Matthew Schumaker</strong></li>
-        <li>9:25 -- Unplugged Electronics and Expansive Orchestration for a New Guitar Concerto, <strong>Marc Garcia-Vitoria</strong></li>
-        <li>9:50 -- 
+        <li>9:25 -- Orchestrating Timbre with Interaction Scenarios, <strong>Frédéric Roverselli</strong></li>
+        <li>9:50 -- Instrument Identification in a Virtual Orchestral Scene, <strong>Kai Siedenburg</strong></li>
       </ul>
     </td>
   </tr>
@@ -450,17 +448,17 @@ projects: []
       <u>Session 19: Perception, imagery and memory</u>
       <ul style="font-size: 0.9em;">
         <li>10:35 -- Can Instrumentation Predict Pitch-Class Profiles?, <strong>Noah Kahrs</strong> [LT]</li>
-        <li>10:45 -- Timbral imagery for instrumental dyads, <strong>Linglan Zhu</strong></li>
-        <li>11:10 -- Differential Short-Term Memory for Spectral and Temporal Dimensions of Timbre, <strong>Stephen McAdams, Behrad Madahi & Bryana-Alexa Liberta</strong></li>
-        <li>11:35 -- Instrument Identification in a Virtual Orchestral Scene, <strong>Kai Siedenburg</strong></li>
+        <li>10:45 -- Hearing The Unconventional: A Study of Perceptual Fusion of Extended Techniques in Contemporary Classical Music, <strong>Jia Yi Lee & Jenine Brown</strong></li>
+        <li>11:10 -- Timbral imagery for instrumental dyads, <strong>Linglan Zhu</strong></li>
+        <li>11:35 -- Differential Short-Term Memory for Spectral and Temporal Dimensions of Timbre, <strong>Stephen McAdams, Behrad Madahi & Bryana-Alexa Liberta</strong></li>
       </ul>
     </td>
     <td>
       <u>Session 20: Timbre and interaction in contemporary music</u>
       <ul style="font-size: 0.9em;">
-        <li>10:35 -- Cross-Cultural and Cross-Medium Timbre in Contemporary Music, <strong>Bike Oner</strong> [V]</li>
+        <li>10:35 -- Cross-Cultural and Cross-Medium Timbre in Contemporary Music, <strong>Bike Oner</strong> [LT]</li>
         <li>10:45 -- Composer-performers interaction in pieces featuring specific instruments: a case study of Essai de coexistence sonore for electroacoustic guitar, Karlax, and double bass, <strong>Benjamin Lavastre, Mael Oudin & Andrea Gozzi</strong></li>
-        <li>11:10 -- Orchestrating Timbre with Interaction Scenarios, <strong>Frédéric Roverselli</strong></li>
+        <li>11:10 -- Unplugged Electronics and Expansive Orchestration for a New Guitar Concerto, <strong>Marc Garcia-Vitoria</strong></li>
         <li>11:35 -- Bell Timbres as Compositional Framework: Acoustic, Algorithmic, and Formalized Approaches, <strong>Dongryul Lee</strong></li>
       </ul>
     </td>
