@@ -54,13 +54,10 @@ projects: []
 <tbody style="vertical-align: top;">
 
   <tr>
-    <td></td>
-    <td colspan="2" style="text-align:center"><b>Foyer de la Salle Claude Champagne</b></td>
-  </tr>
-
-  <tr>
     <td>8:00 - 9:00</td>
-    <td colspan="2" style="text-align:center">Registration and breakfast</td>
+    <td colspan="2" style="text-align:center"><b>Foyer de la Salle Claude Champagne</b>
+    <br>Registration and breakfast
+  </td>
   </tr>
 
   <tr>
