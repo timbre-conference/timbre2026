@@ -79,17 +79,17 @@ projects: []
     <td>
       <u>Session 1: Contemporary music analysis and dance</u> - Chair : Stephen McAdams
       <p style="font-size: 0.9em;">
-        <br>[ 9:10 -- Enacting Violence through Choreography-Orchestration Relationships in Stravinsky's Sacrificial Dance, <strong>Rebecca Moranis</strong></li>
-        <br>[ 9:35 -- Orchestration and Transformation Procedures in George Benjamin's Dance Figures, <strong>Igor Maia & Robert Hasegawa</strong></li>
-        <br>[ 10:00 -- Analysis of Orchestration Style: A Case Study of Two Works by Germaine Tailleferre, <strong>Jade Roth</strong></li>
+        <br>9:10 -- Enacting Violence through Choreography-Orchestration Relationships in Stravinsky's Sacrificial Dance, <strong>Rebecca Moranis</strong></li>
+        <br>9:35 -- Orchestration and Transformation Procedures in George Benjamin's Dance Figures, <strong>Igor Maia & Robert Hasegawa</strong></li>
+        <br>10:00 -- Analysis of Orchestration Style: A Case Study of Two Works by Germaine Tailleferre, <strong>Jade Roth</strong></li>
       </p>
      </td>
  <td>
     <u>Session 2: Aestheticizing noise</u>
     <p style="font-size: 0.9em;">
-      <br>[ 9:10 -- It May Not Be Noise: Composing Mental Timbre Through Redistribution and Contextual Interference, <strong>Rafael Maia & José Alberto Gomes</strong></li>
-      <br>[ 9:35 -- <em>Phantom Polyphony</em>: Modeling Tinnitus and the Variability of Its Timbre in the Context of an Art Installation, <strong>Thomas Augustin</strong></li>
-      <br>[ 10:00 -- Don’t Let Screaming Ruin Your Beauty Sleep, Just Bleach It! A Study of Frequency Shearing for Noise, <strong>Marina Lee</strong></li>
+      <br>9:10 -- It May Not Be Noise: Composing Mental Timbre Through Redistribution and Contextual Interference, <strong>Rafael Maia & José Alberto Gomes</strong></li>
+      <br>9:35 -- <em>Phantom Polyphony</em>: Modeling Tinnitus and the Variability of Its Timbre in the Context of an Art Installation, <strong>Thomas Augustin</strong></li>
+      <br>10:00 -- Don’t Let Screaming Ruin Your Beauty Sleep, Just Bleach It! A Study of Frequency Shearing for Noise, <strong>Marina Lee</strong></li>
     </p>
   </td>
   </tr>
@@ -104,18 +104,18 @@ projects: []
     <td>
       <u>Session 3: Extended techniques</u>
       <p style="font-size: 0.9em;">
-        <br>[ 10:45 -- Classifying String Instrument Preparation Techniques: Analysis, Taxonomies, and Applications in Computer-Aided Orchestration, <strong>Maurizio Azzan & Luca Guidarini</strong> [V] </li>
-        <br>[ 10:55 -- Analyzing String Instrument Preparation Techniques in Context: Timbral Space, Syntax and Form, <strong>Ingrid Pustijanac & Michele Leggieri</strong></li>
-        <br>[ 11:20 -- Hearing The Unconventional: A Study of Perceptual Fusion of Extended Techniques in Contemporary Classical Music, <strong>Jia Yi Lee & Jenine Brown</strong> [V]</li>
-        <br>[ 11:30 -- Applying Timbre Analysis in the Performance of Chamber Music with Timpani and Cello, <strong>Manuel López Tovar</strong></li>
+        <br>10:45 -- Classifying String Instrument Preparation Techniques: Analysis, Taxonomies, and Applications in Computer-Aided Orchestration, <strong>Maurizio Azzan & Luca Guidarini</strong> [V] </li>
+        <br>10:55 -- Analyzing String Instrument Preparation Techniques in Context: Timbral Space, Syntax and Form, <strong>Ingrid Pustijanac & Michele Leggieri</strong></li>
+        <br>11:20 -- Hearing The Unconventional: A Study of Perceptual Fusion of Extended Techniques in Contemporary Classical Music, <strong>Jia Yi Lee & Jenine Brown</strong> [V]</li>
+        <br>11:30 -- Applying Timbre Analysis in the Performance of Chamber Music with Timpani and Cello, <strong>Manuel López Tovar</strong></li>
       </p>
     </td>
      <td>
       <u>Session 4: Crossmodality</u>
       <p style="font-size: 0.9em;">
-        <br>[ 10:45 -- How Transmodal Performative Settings Shape Timbral Perception, <strong>Ajtony Csaba</strong></li>
-        <br>[ 11:10 -- Crossmodal Semantic Priming between Timbre and Olfaction: Does Timbre Activate Semantic Associations? <strong>Asterios Zacharakis</strong></li>
-        <br>[ 11:35 -- Microsensorium: Timbral Crossmodal Worlds in Orchestral Music and AI Video, <strong>Chelsea Komschlies</strong></li>
+        <br>10:45 -- How Transmodal Performative Settings Shape Timbral Perception, <strong>Ajtony Csaba</strong></li>
+        <br>11:10 -- Crossmodal Semantic Priming between Timbre and Olfaction: Does Timbre Activate Semantic Associations? <strong>Asterios Zacharakis</strong></li>
+        <br>11:35 -- Microsensorium: Timbral Crossmodal Worlds in Orchestral Music and AI Video, <strong>Chelsea Komschlies</strong></li>
       </p>
     </td>
   </tr>
@@ -188,7 +188,7 @@ projects: []
     <td>
       <u>Session 8: Percussion and rhythms</u>
       <ul style="font-size: 0.9em;">
-        <li>15:10 -- An Multidimensional Scaling Timbre Space for Percussive Musical Instruments Generated by Physical Modeling Synthesis, <strong>Marcelo Caetano & Josh Mitchell</strong> [LT]</li>
+        <li>15:10 -- An Multidimensional Scaling Timbre Space for Percussive Musical Instruments Generated by Physical Modeling Synthesis, <strong>Marcelo Caetano & Josh Mitchell</strong> [V]</li>
         <li>15:15 -- Mapping the Concert Snare Drum: A Sound Catalogue Through Improvisation, <strong>Tarcísio Braga</strong></li>
         <li>15:40 -- Timbre and Rhythmic Parsing: Spectral Centroid and Temporal Envelope Effects on Prominence and Grouping, <strong>Joshua Rosner, Stephen McAdams, & Michael Wagner</strong></li>
         <li>16:05 -- Percussion Patterns, Rhyming Poetry, and the Expectation of Recurring Timbres: Case Studies from Sri Lanka, <strong>Eshantha Peiris</strong></li>
