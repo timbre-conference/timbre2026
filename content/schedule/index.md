@@ -278,7 +278,7 @@ projects: []
       </p>
     </td>
     <td>
-      <u>Session 12: Philosophy of timbre</u>
+      <u>Session 12: Aesthetics and political philosophy</u>
        <p style="font-size: 0.9em;">
         <br>10:35 -- The Commitments of Physical Modeling: Timbre, Mediation, and Virtual Instrument Construction, <strong>Xyh Tamura</strong> [LT]
         <br>10:45 -- The Violent Particularity of Timbre as Sonic and Symbolist Ideal in New Music, <strong>Amy Bauer</strong>
@@ -339,8 +339,8 @@ projects: []
       <u>Session 13: Synthetic timbre in popular music</u>
        <p style="font-size: 0.9em;">
         <br>14:40 -- The Transmedial Ecology of Robot Timbres: Sonic Metaphors and the Evolution of Dubstep Music, <strong>Mark Higgins</strong>
-        <li>15:05 -- Deviant Timbre: Sounding Beyond the Human in Pharmakon's Maggot Mass (2024), <strong>Bailey Hilgren</strong>
-        </ul>
+        <br>15:05 -- Deviant Timbre: Sounding Beyond the Human in Pharmakon's Maggot Mass (2024), <strong>Bailey Hilgren</strong>
+        <p>
        <em>10 min. break</em>
        <br>
        <br>
