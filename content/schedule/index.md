@@ -520,14 +520,13 @@ projects: []
         <br>14:50 -- Orchestration of Polyrhythms in Hiatus Kaiyote's Music, <strong>Kelsey Lussier</strong> [LT]
         <br>15:00 -- Analyzing Studio Orchestration through the Hybrid Sound of Michel Legrand, <strong>Mael Oudin</strong>
         <br>15:25 -- Exertion Narratives in Pop Music Production, <strong>Will Mason</strong></li>
-       </ul>
+       </p>
        <em>10 min. break</em>
        <br>
-       <br>
-        <ul style="font-size: 0.9em;">
-        <li>16:00 -- Beyond Voice Superiority: Acoustic Factors Driving Vocal Salience in Musical Mixtures, <strong>Michel Bürgel & Kai Siedenburg</strong>
-        <li>16:25 -- Queering Timbre: The Colourful Sounds of The Cure, <strong>Jay Marchand Knight</strong>
-      </ul>
+      <p style="font-size: 0.9em;">
+        <br>16:00 -- Beyond Voice Superiority: Acoustic Factors Driving Vocal Salience in Musical Mixtures, <strong>Michel Bürgel & Kai Siedenburg</strong>
+        <br>16:25 -- Queering Timbre: The Colourful Sounds of The Cure, <strong>Jay Marchand Knight</strong>
+      </p>
     </td>
     <td>
       <u>Session 24: Timbre in contemporary music</u>
@@ -537,7 +536,6 @@ projects: []
         <br>15:25 -- Timbre in the Music of Luciano Berio: A Workshop on the Sources, <strong>Christoph Neidhöfer</strong>
        </p>
        <em>10 min. break</em>
-       <br>
        <br>
         <p style="font-size: 0.9em;">
         <br>16:00 -- “From Inner to Outershadow”: Ensemble Coherence in Recent Works for Oboe and Strings, <strong>Anton Vishio</strong>
