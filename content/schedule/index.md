@@ -208,7 +208,7 @@ projects: []
 
   <tr>
     <td>17:00 - 18:00</td>
-    <td colspan="2" style="text-align:center">Keynote lecture and CIRMMT distinguished lecture : <strong><a href="/timbre2026/keynotes/#ystad">Sølvi Ystad</a></strong> -- Timbre, evocations and perceptual engineering: past and present contradictions and illusions</td>
+    <td colspan="2" style="text-align:center">Keynote lecture and CIRMMT distinguished lecture : <strong><a href="/timbre2026/keynotes/#ystad">Sølvi Ystad</a></strong> -- Timbre, evocations and perceptual engineering: past and present contradictions and illusions - Chair: Caroline Traube</td>
   </tr>
 
   <tr>
@@ -318,7 +318,7 @@ projects: []
 
   <tr>
     <td>13:20 - 14:20</td>
-    <td colspan="2">Keynote lecture: <strong><a href="/timbre2026/keynotes/#wallmark">Zachary Wallmark</a></strong> : Authentic, idiosyncratic, or enchanted? Three ideologies of timbre in popular music</td>
+    <td colspan="2">Keynote lecture: <strong><a href="/timbre2026/keynotes/#wallmark">Zachary Wallmark</a></strong> : Authentic, idiosyncratic, or enchanted? Three ideologies of timbre in popular music - Chair: Robert Hasegawa</td>
   </tr>
 
   <tr>
