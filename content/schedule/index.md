@@ -245,19 +245,19 @@ projects: []
     <td>9:00 - 10:15</td>
     <td>
       <u>Session 9: Timbre in instrumental performance</u>
-      <ul style="font-size: 0.9em;">
-        <li>9:00 -- Physical Analysis of Sound Production in the Baroque Traverso: Geometry, Resonance, and Timbre Control, <strong>Patricio de la Cuadra, Benoît Fabre & Augustin Ernoult</strong></li>
-        <li>9:25 -- Individual Differences in Bow-Related Timbre Across 23 Recordings of Bach's Fourth Cello Suite Prelude, <strong>Clare Monfredo</strong></li>
-        <li>9:50 -- Timbre & Text: A Preliminary Study of Dietrich Fischer-Dieskau's Recordings of Schubert's "Gute Nacht", <strong>Tracy Lipke-Perry</strong></li>
-      </ul>
+       <p style="font-size: 0.9em;">
+        <br>9:00 -- Physical Analysis of Sound Production in the Baroque Traverso: Geometry, Resonance, and Timbre Control, <strong>Patricio de la Cuadra, Benoît Fabre & Augustin Ernoult</strong>
+        <br>9:25 -- Individual Differences in Bow-Related Timbre Across 23 Recordings of Bach's Fourth Cello Suite Prelude, <strong>Clare Monfredo</strong>
+        <br>9:50 -- Timbre & Text: A Preliminary Study of Dietrich Fischer-Dieskau's Recordings of Schubert's "Gute Nacht", <strong>Tracy Lipke-Perry</strong>
+      </p>
     </td>
     <td>
       <u>Session 10: Hearing/touching synthetic textures</u>
-      <ul style="font-size: 0.9em;">
-        <li>9:00 -- Timbre beyond hearing: auditory and vibrotactile interactions in the perception of timbre-related acoustic features, <strong>Loonan Chauvette, Anne Sophie Grenier, Philippe Albouy, Emily Coffey, Robert Zatorre & Andréanne Sharp</strong></li>
-        <li>9:25 -- Empirical Study of the Semantics of Synthetic "Timbre-Textures", <strong>Jason Noble, Francis Bourgoin, Takuto Fukuda, Caroline Traube, & Zachary Wallmark</strong></li>
-        <li>9:50 -- Gestural Control of Timbre with a Digital Musical Instrument, <strong>Gaël Moriceau</strong></li>
-      </ul>
+       <p style="font-size: 0.9em;">
+        <br>9:00 -- Timbre beyond hearing: auditory and vibrotactile interactions in the perception of timbre-related acoustic features, <strong>Loonan Chauvette, Anne Sophie Grenier, Philippe Albouy, Emily Coffey, Robert Zatorre & Andréanne Sharp</strong>
+        <br>9:25 -- Empirical Study of the Semantics of Synthetic "Timbre-Textures", <strong>Jason Noble, Francis Bourgoin, Takuto Fukuda, Caroline Traube, & Zachary Wallmark</strong>
+        <br>9:50 -- Gestural Control of Timbre with a Digital Musical Instrument, <strong>Gaël Moriceau</strong>
+      </p>
     </td>
   </tr>
 
@@ -270,21 +270,21 @@ projects: []
     <td>10:35 - 12:00</td>
     <td>
       <u>Session 11 : Sound studies and phenomenology</u>
-      <ul style="font-size: 0.9em;">
-        <li>10:35 -- Listening to Demonstrations: Timbral Perspectives on Urban Crowd Sound, <strong>Kamyar Karimi, Alice Jarry & Gabriel Vigliensoni</strong> [LT] </li>
-        <li>10:45 -- Timbre as Exposure: Fragility, Proximity, and the Audibility of the Body, <strong>Hee Seng Kye</strong></li>
-        <li>11:10 -- Timbre as a Combination of Its Source and Contents: A Phenomenological Metaphor-Based Framework for Analysing Timbre in Musical Works, <strong>Matt Collins</strong></li>
-        <li>11:35 -- Toward a Lachenmannian Phenomenology in the Music of Lachenmann, Saunders, and Iannotta, <strong>Zachary Bernstein</strong></li>
-      </ul>
+       <p style="font-size: 0.9em;">
+        <br>10:35 -- Listening to Demonstrations: Timbral Perspectives on Urban Crowd Sound, <strong>Kamyar Karimi, Alice Jarry & Gabriel Vigliensoni</strong> [LT]
+        <br>10:45 -- Timbre as Exposure: Fragility, Proximity, and the Audibility of the Body, <strong>Hee Seng Kye</strong>
+        <br>11:10 -- Timbre as a Combination of Its Source and Contents: A Phenomenological Metaphor-Based Framework for Analysing Timbre in Musical Works, <strong>Matt Collins</strong>
+        <br>11:35 -- Toward a Lachenmannian Phenomenology in the Music of Lachenmann, Saunders, and Iannotta, <strong>Zachary Bernstein</strong>
+      </p>
     </td>
     <td>
       <u>Session 12: Philosophy of timbre</u>
-      <ul style="font-size: 0.9em;">
-        <li>10:35 -- The Commitments of Physical Modeling: Timbre, Mediation, and Virtual Instrument Construction, <strong>Xyh Tamura</strong> [LT]</li>
-        <li>10:45 -- The Violent Particularity of Timbre as Sonic and Symbolist Ideal in New Music, <strong>Amy Bauer</strong></li>
-        <li>11:10 -- "Almost Unbelievably Rich": Autistic Listening and Wandelweiser Music, <strong>Nathan Friedman</strong></li>
-        <li>11:35 -- Timbre’s Beholders and the Racialization of Sensation in Concert Music Aesthetics, <strong>Colin Tucker</strong></li>
-      </ul>
+       <p style="font-size: 0.9em;">
+        <br>10:35 -- The Commitments of Physical Modeling: Timbre, Mediation, and Virtual Instrument Construction, <strong>Xyh Tamura</strong> [LT]
+        <br>10:45 -- The Violent Particularity of Timbre as Sonic and Symbolist Ideal in New Music, <strong>Amy Bauer</strong>
+        <br>11:10 -- "Almost Unbelievably Rich": Autistic Listening and Wandelweiser Music, <strong>Nathan Friedman</strong>
+        <br>11:35 -- Timbre’s Beholders and the Racialization of Sensation in Concert Music Aesthetics, <strong>Colin Tucker</strong>
+      </p>
     </td>
   </tr>
 
@@ -337,31 +337,31 @@ projects: []
     <td>14:40 - 16:30</td>
     <td>
       <u>Session 13: Synthetic timbre in popular music</u>
-      <ul style="font-size: 0.9em;">
-        <li>14:40 -- The Transmedial Ecology of Robot Timbres: Sonic Metaphors and the Evolution of Dubstep Music, <strong>Mark Higgins</strong></li>
-        <li>15:05 -- Deviant Timbre: Sounding Beyond the Human in Pharmakon's Maggot Mass (2024), <strong>Bailey Hilgren</strong></li>
+       <p style="font-size: 0.9em;">
+        <br>14:40 -- The Transmedial Ecology of Robot Timbres: Sonic Metaphors and the Evolution of Dubstep Music, <strong>Mark Higgins</strong>
+        <li>15:05 -- Deviant Timbre: Sounding Beyond the Human in Pharmakon's Maggot Mass (2024), <strong>Bailey Hilgren</strong>
         </ul>
        <em>10 min. break</em>
        <br>
        <br>
-        <ul style="font-size: 0.9em;">
-        <li>15:40 -- The Timbre Is the Instrument: The Imagined DX7 and 1980s Nostalgia, <strong>Megan Lavengood</strong></li>
-        <li>16:05 -- Synthetic Timbres, Cinematic Worlds: Queen's Flash Gordon Soundtrack as a Paradigm for Sound Synthesis and Processing, <strong>Nicola Bizzo</strong></li>
-      </ul>
+        <p style="font-size: 0.9em;">
+        <br>15:40 -- The Timbre Is the Instrument: The Imagined DX7 and 1980s Nostalgia, <strong>Megan Lavengood</strong>
+        <br>16:05 -- Synthetic Timbres, Cinematic Worlds: Queen's Flash Gordon Soundtrack as a Paradigm for Sound Synthesis and Processing, <strong>Nicola Bizzo</strong>
+      </p>
     </td>
     <td>
       <u>Session 14: Communicating about timbre</u>
-      <ul style="font-size: 0.9em;">
-        <li>14:40 -- A Multi-Space Hierarchical Timbre Model: Perceptually Grounded Prediction of Timbral Similarity, <strong>Siavosh Banihashemi</strong></li>
-        <li>15:05 -- From Terms to Concepts: Towards an Epistemology of North-American Timbre Theory and Analysis of the Mid-1970s, <strong>Nathalie Hérold</strong></li>
-        </ul>
+       <p style="font-size: 0.9em;">
+        <br>14:40 -- A Multi-Space Hierarchical Timbre Model: Perceptually Grounded Prediction of Timbral Similarity, <strong>Siavosh Banihashemi</strong>
+        <br>15:05 -- From Terms to Concepts: Towards an Epistemology of North-American Timbre Theory and Analysis of the Mid-1970s, <strong>Nathalie Hérold</strong>
+        </p>
        <em>10 min. break</em>
        <br>
        <br>
-        <ul style="font-size: 0.9em;">
-        <li>15:40 -- The Classroom Case for Timbre, <strong>Holly Bergeron-Dumaine</strong></li>
-        <li>16:05 -- Toward a Cross-Disciplinary Framework for Strategic Communication About Timbre, <strong>Lindsey Reymore</strong></li>
-      </ul>
+         <p style="font-size: 0.9em;">
+        <br>15:40 -- The Classroom Case for Timbre, <strong>Holly Bergeron-Dumaine</strong>
+        <br>16:05 -- Toward a Cross-Disciplinary Framework for Strategic Communication About Timbre, <strong>Lindsey Reymore</strong>
+      </p>
     </td>
   </tr>
 
@@ -374,19 +374,19 @@ projects: []
     <td>16:45 - 18:00</td>
     <td>
       <u>Session 15: Emotions and intimacy</u>
-      <ul style="font-size: 0.9em;">
-        <li>16:45 -- Emotions in Song and Speech: Acoustic Features Underlying the Multidimensional Space of Perceived Emotions, <strong>Lena Heng & Annabel Cohen</strong></li>
-        <li>17:10 -- Timbre as a Compositional and Relational Tool in an Immersive Contemporary Music Performance for Infants (0–2 years), <strong>Anne Chabot-Bucchi & Joshua Bucchi</strong></li>
-        <li>17:35 -- The Intimate Timbres of the Kantele: Materiality, Touch and Cultural Memory, <strong>Arja Kastinen</strong></li>
-      </ul>
+       <p style="font-size: 0.9em;">
+        <br>16:45 -- Emotions in Song and Speech: Acoustic Features Underlying the Multidimensional Space of Perceived Emotions, <strong>Lena Heng & Annabel Cohen</strong>
+        <br>17:10 -- Timbre as a Compositional and Relational Tool in an Immersive Contemporary Music Performance for Infants (0–2 years), <strong>Anne Chabot-Bucchi & Joshua Bucchi</strong>
+        <br>17:35 -- The Intimate Timbres of the Kantele: Materiality, Touch and Cultural Memory, <strong>Arja Kastinen</strong>
+      </p>
     </td>
     <td>
       <u>Session 16: Appropriating sounds of nature</u>
-      <ul style="font-size: 0.9em;">
-        <li>16:45 -- Lithophonica: Timbral Explorations of Stones and Sticks, <strong>James Harley & Gayle Young</strong></li>
-        <li>17:10 -- Timbre Across Species: Appropriating Bird Vocalizations in Contemporary Music, <strong>Matthieu Galliker</strong></li>
-        <li>17:35 -- Ethereality in Jennifer Higdon's Early Works, <strong>Laura Dallman</strong></li>
-      </ul>
+       <p style="font-size: 0.9em;">
+        <br>16:45 -- Lithophonica: Timbral Explorations of Stones and Sticks, <strong>James Harley & Gayle Young</strong>
+        <br>17:10 -- Timbre Across Species: Appropriating Bird Vocalizations in Contemporary Music, <strong>Matthieu Galliker</strong>
+        <br>17:35 -- Ethereality in Jennifer Higdon's Early Works, <strong>Laura Dallman</strong>
+      </p>
     </td>
   </tr>
 
@@ -418,20 +418,20 @@ projects: []
     <td>9:00 - 10:15</td>
     <td>
       <u>Session 17: Ethnomusicological perspectives</u>
-      <ul style="font-size: 0.9em;">
-        <li>9:00 -- On the Global Study of Timbre, <strong>Jason Winikoff</strong> [V]</li>
-        <li>9:10 -- Timbral Transformations in Tunisian Folk Music: A Case Study of the Small-sized 'Darbuka' Drum, <strong>Ali Chamseddine</strong> [V]</li>
-        <li>9:25 -- Analyse et perception du timbre et des pratiques de l'orchestration en Méditerranée, <strong>Mondher Ayari</strong></li>
-        <li>9:50 -- Timbral Signatures in Cuban Dance Bands from Songo to Timba: Hybridities, Technologies, and Vocality (1970–1995), <strong>Joshua Bucchi</strong></li>
-      </ul>
+       <p style="font-size: 0.9em;">
+        <br>9:00 -- On the Global Study of Timbre, <strong>Jason Winikoff</strong> [V]</li>
+        <br>9:10 -- Timbral Transformations in Tunisian Folk Music: A Case Study of the Small-sized 'Darbuka' Drum, <strong>Ali Chamseddine</strong> [V]
+        <br>9:25 -- Analyse et perception du timbre et des pratiques de l'orchestration en Méditerranée, <strong>Mondher Ayari</strong>
+        <br>9:50 -- Timbral Signatures in Cuban Dance Bands from Songo to Timba: Hybridities, Technologies, and Vocality (1970–1995), <strong>Joshua Bucchi</strong>
+      </p>
     </td>
     <td>
       <u>Session 18: Bridging acoustics and electronics</u>
-      <ul style="font-size: 0.9em;">
-        <li>9:00 -- Satellites: Orbiting Composer and Performer Insights on Timbre in a Work for Piano and Electronics, <strong>Hubert Ho &  Matthew Schumaker</strong></li>
-        <li>9:25 -- Unplugged Electronics and Expansive Orchestration for a New Guitar Concerto, <strong>Marc Garcia-Vitoria</strong></li>
-        <li>9:50 -- Bell Timbres as Compositional Framework: Acoustic, Algorithmic, and Formalized Approaches, <strong>Dongryul Lee</strong></li>
-      </ul>
+       <p style="font-size: 0.9em;">
+        <br>9:00 -- Satellites: Orbiting Composer and Performer Insights on Timbre in a Work for Piano and Electronics, <strong>Hubert Ho &  Matthew Schumaker</strong>
+        <br>9:25 -- Unplugged Electronics and Expansive Orchestration for a New Guitar Concerto, <strong>Marc Garcia-Vitoria</strong>
+        <br>9:50 -- Bell Timbres as Compositional Framework: Acoustic, Algorithmic, and Formalized Approaches, <strong>Dongryul Lee</strong>
+      </p>
     </td>
   </tr>
 
@@ -444,21 +444,21 @@ projects: []
     <td>10:35 - 12:00</td>
     <td>
       <u>Session 19: Perception, imagery and memory</u>
-      <ul style="font-size: 0.9em;">
-        <li>10:35 -- Can Instrumentation Predict Pitch-Class Profiles?, <strong>Noah Kahrs</strong> [LT]</li>
-        <li>10:45 -- Timbral imagery for instrumental dyads, <strong>Linglan Zhu</strong></li>
-        <li>11:10 -- Differential Short-Term Memory for Spectral and Temporal Dimensions of Timbre, <strong>Stephen McAdams, Behrad Madahi & Bryana-Alexa Liberta</strong></li>
-        <li>11:35 -- Instrument Identification in a Virtual Orchestral Scene, <strong>Kai Siedenburg</strong></li>
-      </ul>
+       <p style="font-size: 0.9em;">
+        <br>10:35 -- Can Instrumentation Predict Pitch-Class Profiles?, <strong>Noah Kahrs</strong> [LT]
+        <br>10:45 -- Timbral imagery for instrumental dyads, <strong>Linglan Zhu</strong>
+        <br>11:10 -- Differential Short-Term Memory for Spectral and Temporal Dimensions of Timbre, <strong>Stephen McAdams, Behrad Madahi & Bryana-Alexa Liberta</strong>
+        <br>11:35 -- Instrument Identification in a Virtual Orchestral Scene, <strong>Kai Siedenburg</strong>
+      </p>
     </td>
     <td>
       <u>Session 20: Timbre and interaction in contemporary music</u>
-      <ul style="font-size: 0.9em;">
-        <li>10:35 -- Cross-Cultural and Cross-Medium Timbre in Contemporary Music, <strong>Bike Oner</strong> [V]</li>
-        <li>10:45 -- Composer-performers interaction in pieces featuring specific instruments: a case study of Essai de coexistence sonore for electroacoustic guitar, Karlax, and double bass, <strong>Benjamin Lavastre, Mael Oudin & Andrea Gozzi</strong></li>
-        <li>11:10 -- Orchestrating Timbre with Interaction Scenarios, <strong>Frédéric Roverselli</strong></li>
-        <li>11:35 -- Time-dependent Materials and Gesture in Timbral Shaping: Towards a Material-based Sonic Device, <strong>Maria Vittoria Agresti, Ernesto Di Maio, & Stefano Silvestri </strong></li>
-      </ul>
+       <p style="font-size: 0.9em;">
+        <br>10:35 -- Cross-Cultural and Cross-Medium Timbre in Contemporary Music, <strong>Bike Oner</strong> [V]
+        <br>10:45 -- Composer-performers interaction in pieces featuring specific instruments: a case study of Essai de coexistence sonore for electroacoustic guitar, Karlax, and double bass, <strong>Benjamin Lavastre, Mael Oudin & Andrea Gozzi</strong>
+        <br>11:10 -- Orchestrating Timbre with Interaction Scenarios, <strong>Frédéric Roverselli</strong>
+        <br>11:35 -- Time-dependent Materials and Gesture in Timbral Shaping: Towards a Material-based Sonic Device, <strong>Maria Vittoria Agresti, Ernesto Di Maio, & Stefano Silvestri </strong>
+      </p>
     </td>
   </tr>
 
@@ -493,18 +493,18 @@ projects: []
     <td>13:15 - 14:30</td>
     <td>
       <u>Session 21: Timbre, gesture and embodiment</u>
-      <ul style="font-size: 0.9em;">
-        <li>13:15 -- From Sensitive Listening to Sound to the Intuition of a Gesture, <strong>Jean Geoffroy</strong></li>
-        <li>13:40 -- “So that the sting first enters the skin, and then hurts”: Embodied Transmission of a Single Note, <strong>Gina Fatone</strong></li>
-        <li>14:05 -- An Embodied and Crossmodal Approach to Timbre in Unaccompanied Solo Traditional Singing, <strong>Kristin Jonzon</strong></li>
-      </ul>
+       <p style="font-size: 0.9em;">
+        <br>13:15 -- From Sensitive Listening to Sound to the Intuition of a Gesture, <strong>Jean Geoffroy</strong>
+        <br>13:40 -- “So that the sting first enters the skin, and then hurts”: Embodied Transmission of a Single Note, <strong>Gina Fatone</strong>
+        <br>14:05 -- An Embodied and Crossmodal Approach to Timbre in Unaccompanied Solo Traditional Singing, <strong>Kristin Jonzon</strong>
+      </p>
     </td>
     <td>
       <u>Session 22: Vocality</u>
-      <ul style="font-size: 0.9em;">
-        <li>13:15 -- Emergence of Vocality: Hybridization and Timbral Metamorphoses Between the Pipe Organ and the Voice in the Ora and Vox Humana Projects, <strong>Hyun-Hwa Cho & Christophe d'Alessandro</strong></li>
-        <li>13:40 -- Sounding "round", "bright", "Oooh" or "Aaah": on the Use of Phonemes to Describe the Timbre of String Quartet Instruments, <strong>Leïla Barbedette, Claudia Fritz & Caroline Traube</strong></li>
-        <li>14:05 -- Two Rappers: Recreating Vocal Patterns through Percussion in George Lewis' North Star Boogaloo, <strong>Malcolm Taylor</strong></li>
+       <p style="font-size: 0.9em;">
+        <br>13:15 -- Emergence of Vocality: Hybridization and Timbral Metamorphoses Between the Pipe Organ and the Voice in the Ora and Vox Humana Projects, <strong>Hyun-Hwa Cho & Christophe d'Alessandro</strong>
+        <br>13:40 -- Sounding "round", "bright", "Oooh" or "Aaah": on the Use of Phonemes to Describe the Timbre of String Quartet Instruments, <strong>Leïla Barbedette, Claudia Fritz & Caroline Traube</strong>
+        <br>14:05 -- Two Rappers: Recreating Vocal Patterns through Percussion in George Lewis' North Star Boogaloo, <strong>Malcolm Taylor</strong>
       </ul>
     </td>
   </tr>
@@ -518,33 +518,33 @@ projects: []
     <td>14:50 - 16:50</td>
     <td>
       <u>Session 23: Timbre in popular music</u>
-      <ul style="font-size: 0.9em;">
-        <li>14:50 -- Orchestration of Polyrhythms in Hiatus Kaiyote's Music, <strong>Kelsey Lussier</strong> [LT]</li>
-        <li>15:00 -- Analyzing Studio Orchestration through the Hybrid Sound of Michel Legrand, <strong>Mael Oudin</strong></li>
-        <li>15:25 -- Exertion Narratives in Pop Music Production, <strong>Will Mason</strong></li>
+       <p style="font-size: 0.9em;">
+        <br>14:50 -- Orchestration of Polyrhythms in Hiatus Kaiyote's Music, <strong>Kelsey Lussier</strong> [LT]
+        <br>15:00 -- Analyzing Studio Orchestration through the Hybrid Sound of Michel Legrand, <strong>Mael Oudin</strong>
+        <br>15:25 -- Exertion Narratives in Pop Music Production, <strong>Will Mason</strong></li>
        </ul>
        <em>10 min. break</em>
        <br>
        <br>
         <ul style="font-size: 0.9em;">
-        <li>16:00 -- Beyond Voice Superiority: Acoustic Factors Driving Vocal Salience in Musical Mixtures, <strong>Michel Bürgel & Kai Siedenburg</strong></li>
-        <li>16:25 -- Queering Timbre: The Colourful Sounds of The Cure, <strong>Jay Marchand Knight</strong></li>
+        <li>16:00 -- Beyond Voice Superiority: Acoustic Factors Driving Vocal Salience in Musical Mixtures, <strong>Michel Bürgel & Kai Siedenburg</strong>
+        <li>16:25 -- Queering Timbre: The Colourful Sounds of The Cure, <strong>Jay Marchand Knight</strong>
       </ul>
     </td>
     <td>
       <u>Session 24: Timbre in contemporary music</u>
-      <ul style="font-size: 0.9em;">
-        <li>14:50 -- Timbre as Structure: Case Study of Georg Friedrich Haas's 11.000 Saiten, <strong>Isabel Keleti</strong> [LT]</li>
-        <li>15:00 -- Composing for the Liminare Spectral Organ, <strong>Louis-Michel Tougas</strong></li>
-        <li>15:25 -- Timbre in the Music of Luciano Berio: A Workshop on the Sources, <strong>Christoph Neidhöfer</strong></li>
-       </ul>
+      <p style="font-size: 0.9em;">
+        <br>14:50 -- Timbre as Structure: Case Study of Georg Friedrich Haas's 11.000 Saiten, <strong>Isabel Keleti</strong> [LT]
+        <br>15:00 -- Composing for the Liminare Spectral Organ, <strong>Louis-Michel Tougas</strong>
+        <br>15:25 -- Timbre in the Music of Luciano Berio: A Workshop on the Sources, <strong>Christoph Neidhöfer</strong>
+       </p>
        <em>10 min. break</em>
        <br>
        <br>
-        <ul style="font-size: 0.9em;">
-        <li>16:00 -- “From Inner to Outershadow”: Ensemble Coherence in Recent Works for Oboe and Strings, <strong>Anton Vishio</strong></li>
-        <li>16:25 -- Double-Reed Multiphonics: Their Character, Stability, and Potential for Integration With Heterogeneous Instrumental Ensembles, <strong>Roger Reynolds</strong></li>
-      </ul>
+        <p style="font-size: 0.9em;">
+        <br>16:00 -- “From Inner to Outershadow”: Ensemble Coherence in Recent Works for Oboe and Strings, <strong>Anton Vishio</strong>
+        <br>16:25 -- Double-Reed Multiphonics: Their Character, Stability, and Potential for Integration With Heterogeneous Instrumental Ensembles, <strong>Roger Reynolds</strong>
+      </p>
     </td>
   </tr>
 
@@ -574,7 +574,7 @@ projects: []
     <td></td>
     <td colspan="2">
       <ul style="font-size: 0.9em;">
-  	<li><strong>Mael Oudin</strong> — <em>Essai de coexistence sonore</em> (karlax & double bass)</li> -- performed by <strong>Benjamin Lavastre</strong>
+  	<li><strong>Mael Oudin</strong> — <em>Essai de coexistence sonore</em> (karlax & double bass)</li> -- performed by <strong>Benjamin Lavastre</strong></li>
   	<li><strong>Arja Kastinen</strong> - <em>On the shoulders of the Great Bear</em> (Kantele)</li>
   	<li><strong>Keon Ju Maverick Lee</strong> — <em>Resonance and Depth</em> (acousmatic)</li>
   	<li><strong>Gaël Moriceau</strong> — <em>Harmonic Turbulences</em> (T-Stick)</li>
@@ -582,7 +582,7 @@ projects: []
       <p style="font-size: 0.9em; text-align:center;"><em>Intermission</em></p>
       <ul style="font-size: 0.9em;">
   	<li><strong>Tarcísio Braga</strong> — <em>Tambor</em> (snare drum & electronics)</li>
-  	<li><strong>Matt Schumaker</strong> — <em>Satellites</em> (piano, electronics & spatialization)</li> -- performed by <strong>Hubert Ho</strong>
+  	<li><strong>Matt Schumaker</strong> — <em>Satellites</em> (piano, electronics & spatialization)</li> -- performed by <strong>Hubert Ho</strong></li>
   	<li><strong>Robert Normandeau</strong> — <em>StrinGDberg</em> (acousmatic)</li>
      </ul>
     </td>
