@@ -335,7 +335,7 @@ projects: []
   <tr>
     <td>14:40 - 16:30</td>
     <td>
-      <u>Session 13: Synthetic timbre in popular music</u>
+      <u>Session 13: Synthetic timbre in popular music</u> - Chair : Ben Duinker
        <p style="font-size: 0.9em;">
         <br>14:40 -- The Transmedial Ecology of Robot Timbres: Sonic Metaphors and the Evolution of Dubstep Music, <strong>Mark Higgins</strong>
         <br>15:05 -- Deviant Timbre: Sounding Beyond the Human in Pharmakon's Maggot Mass (2024), <strong>Bailey Hilgren</strong>
@@ -348,7 +348,7 @@ projects: []
       </p>
     </td>
     <td>
-      <u>Session 14: Communicating about timbre</u>
+      <u>Session 14: Communicating about timbre</u> - Chair : Stephen McAdams
        <p style="font-size: 0.9em;">
         <br>14:40 -- A Multi-Space Hierarchical Timbre Model: Perceptually Grounded Prediction of Timbral Similarity, <strong>Siavosh Banihashemi</strong>
         <br>15:05 -- From Terms to Concepts: Towards an Epistemology of North-American Timbre Theory and Analysis of the Mid-1970s, <strong>Nathalie Hérold</strong>
