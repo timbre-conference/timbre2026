@@ -86,11 +86,11 @@ projects: []
      </td>
  <td>
     <u>Session 2: Aestheticizing noise</u>
-    <ul style="font-size: 0.9em;">
-      <li>9:10 -- It May Not Be Noise: Composing Mental Timbre Through Redistribution and Contextual Interference, <strong>Rafael Maia & José Alberto Gomes</strong></li>
-      <li>9:35 -- <em>Phantom Polyphony</em>: Modeling Tinnitus and the Variability of Its Timbre in the Context of an Art Installation, <strong>Thomas Augustin</strong></li>
-      <li>10:00 -- Don’t Let Screaming Ruin Your Beauty Sleep, Just Bleach It! A Study of Frequency Shearing for Noise, <strong>Marina Lee</strong></li>
-    </ul>
+    <p style="font-size: 0.9em;">
+      <br>[ 9:10 -- It May Not Be Noise: Composing Mental Timbre Through Redistribution and Contextual Interference, <strong>Rafael Maia & José Alberto Gomes</strong></li>
+      <br>[ 9:35 -- <em>Phantom Polyphony</em>: Modeling Tinnitus and the Variability of Its Timbre in the Context of an Art Installation, <strong>Thomas Augustin</strong></li>
+      <br>[ 10:00 -- Don’t Let Screaming Ruin Your Beauty Sleep, Just Bleach It! A Study of Frequency Shearing for Noise, <strong>Marina Lee</strong></li>
+    </p>
   </td>
   </tr>
 
@@ -103,20 +103,20 @@ projects: []
     <td>10:45 - 12:00</td>
     <td>
       <u>Session 3: Extended techniques</u>
-      <ul style="font-size: 0.9em;">
-        <li>10:45 -- Classifying String Instrument Preparation Techniques: Analysis, Taxonomies, and Applications in Computer-Aided Orchestration, <strong>Maurizio Azzan & Luca Guidarini</strong> [V] </li>
-        <li>10:55 -- Analyzing String Instrument Preparation Techniques in Context: Timbral Space, Syntax and Form, <strong>Ingrid Pustijanac & Michele Leggieri</strong></li>
-        <li>11:20 -- Hearing The Unconventional: A Study of Perceptual Fusion of Extended Techniques in Contemporary Classical Music, <strong>Jia Yi Lee & Jenine Brown</strong> [V]</li>
-        <li>11:30 -- Applying Timbre Analysis in the Performance of Chamber Music with Timpani and Cello, <strong>Manuel López Tovar</strong></li>
-      </ul>
+      <p style="font-size: 0.9em;">
+        <br>[ 10:45 -- Classifying String Instrument Preparation Techniques: Analysis, Taxonomies, and Applications in Computer-Aided Orchestration, <strong>Maurizio Azzan & Luca Guidarini</strong> [V] </li>
+        <br>[ 10:55 -- Analyzing String Instrument Preparation Techniques in Context: Timbral Space, Syntax and Form, <strong>Ingrid Pustijanac & Michele Leggieri</strong></li>
+        <br>[ 11:20 -- Hearing The Unconventional: A Study of Perceptual Fusion of Extended Techniques in Contemporary Classical Music, <strong>Jia Yi Lee & Jenine Brown</strong> [V]</li>
+        <br>[ 11:30 -- Applying Timbre Analysis in the Performance of Chamber Music with Timpani and Cello, <strong>Manuel López Tovar</strong></li>
+      </p>
     </td>
      <td>
       <u>Session 4: Crossmodality</u>
-      <ul style="font-size: 0.9em;">
-        <li>10:45 -- How Transmodal Performative Settings Shape Timbral Perception, <strong>Ajtony Csaba</strong></li>
-        <li>11:10 -- Crossmodal Semantic Priming between Timbre and Olfaction: Does Timbre Activate Semantic Associations? <strong>Asterios Zacharakis</strong></li>
-        <li>11:35 -- Microsensorium: Timbral Crossmodal Worlds in Orchestral Music and AI Video, <strong>Chelsea Komschlies</strong></li>
-      </ul>
+      <p style="font-size: 0.9em;">
+        <br>[ 10:45 -- How Transmodal Performative Settings Shape Timbral Perception, <strong>Ajtony Csaba</strong></li>
+        <br>[ 11:10 -- Crossmodal Semantic Priming between Timbre and Olfaction: Does Timbre Activate Semantic Associations? <strong>Asterios Zacharakis</strong></li>
+        <br>[ 11:35 -- Microsensorium: Timbral Crossmodal Worlds in Orchestral Music and AI Video, <strong>Chelsea Komschlies</strong></li>
+      </p>
     </td>
   </tr>
 
