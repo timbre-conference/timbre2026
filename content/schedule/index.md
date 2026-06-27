@@ -78,12 +78,12 @@ projects: []
   <td>9:10 - 10:25</td>
     <td>
       <u>Session 1: Contemporary music analysis and dance</u>
-      <ul style="font-size: 0.9em;">
-        <li>9:10 -- Enacting Violence through Choreography-Orchestration Relationships in Stravinsky's Sacrificial Dance, <strong>Rebecca Moranis</strong></li>
-        <li>9:35 -- Orchestration and Transformation Procedures in George Benjamin's Dance Figures, <strong>Igor Maia & Robert Hasegawa</strong></li>
-        <li>10:00 -- Analysis of Orchestration Style: A Case Study of Two Works by Germaine Tailleferre, <strong>Jade Roth</strong></li>
-      </ul>
-    </td>
+      <p style="font-size: 0.9em;">
+        <br>-- 9:10 -- Enacting Violence through Choreography-Orchestration Relationships in Stravinsky's Sacrificial Dance, <strong>Rebecca Moranis</strong></li>
+        <br>-- 9:35 -- Orchestration and Transformation Procedures in George Benjamin's Dance Figures, <strong>Igor Maia & Robert Hasegawa</strong></li>
+        <br>-- 10:00 -- Analysis of Orchestration Style: A Case Study of Two Works by Germaine Tailleferre, <strong>Jade Roth</strong></li>
+      </p>
+     </td>
  <td>
     <u>Session 2: Artistic reports</u>
     <ul style="font-size: 0.9em;">
