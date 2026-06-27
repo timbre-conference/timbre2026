@@ -280,7 +280,7 @@ projects: []
     <td>
       <u>Session 12: Aesthetics and political philosophy</u>
        <p style="font-size: 0.9em;">
-        <br>10:35 -- The Commitments of Physical Modeling: Timbre, Mediation, and Virtual Instrument Construction, <strong>Xyh Tamura</strong> [LT]
+        <br>10:35 -- 
         <br>10:45 -- The Violent Particularity of Timbre as Sonic and Symbolist Ideal in New Music, <strong>Amy Bauer</strong>
         <br>11:10 -- "Almost Unbelievably Rich": Autistic Listening and Wandelweiser Music, <strong>Nathan Friedman</strong>
         <br>11:35 -- Timbre’s Beholders and the Racialization of Sensation in Concert Music Aesthetics, <strong>Colin Tucker</strong>
@@ -343,7 +343,6 @@ projects: []
         <p>
        <em>10 min. break</em>
        <br>
-       <br>
         <p style="font-size: 0.9em;">
         <br>15:40 -- The Timbre Is the Instrument: The Imagined DX7 and 1980s Nostalgia, <strong>Megan Lavengood</strong>
         <br>16:05 -- Synthetic Timbres, Cinematic Worlds: Queen's Flash Gordon Soundtrack as a Paradigm for Sound Synthesis and Processing, <strong>Nicola Bizzo</strong>
@@ -356,7 +355,6 @@ projects: []
         <br>15:05 -- From Terms to Concepts: Towards an Epistemology of North-American Timbre Theory and Analysis of the Mid-1970s, <strong>Nathalie Hérold</strong>
         </p>
        <em>10 min. break</em>
-       <br>
        <br>
          <p style="font-size: 0.9em;">
         <br>15:40 -- The Classroom Case for Timbre, <strong>Holly Bergeron-Dumaine</strong>
@@ -419,7 +417,8 @@ projects: []
     <td>
       <u>Session 17: Ethnomusicological perspectives</u>
        <p style="font-size: 0.9em;">
-        <br>9:00 -- On the Global Study of Timbre, <strong>Jason Winikoff</strong> [V]</li>
+	 <br>9:00 -- The Commitments of Physical Modeling: Timbre, Mediation, and Virtual Instrument Construction, <strong>Xyh Tamura</strong> [V]
+        <br>9:05 -- On the Global Study of Timbre, <strong>Jason Winikoff</strong> [V]</li>
         <br>9:10 -- Timbral Transformations in Tunisian Folk Music: A Case Study of the Small-sized 'Darbuka' Drum, <strong>Ali Chamseddine</strong> [V]
         <br>9:25 -- Analyse et perception du timbre et des pratiques de l'orchestration en Méditerranée, <strong>Mondher Ayari</strong>
         <br>9:50 -- Timbral Signatures in Cuban Dance Bands from Songo to Timba: Hybridities, Technologies, and Vocality (1970–1995), <strong>Joshua Bucchi</strong>
