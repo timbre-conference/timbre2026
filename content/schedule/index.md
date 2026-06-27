@@ -129,7 +129,7 @@ projects: []
   <tr>
     <td></td>
     <td colspan="2" style="text-align:left">
-     <ul style="font-size: 0.9em;">
+     <ol style="font-size: 0.9em;">
       <li>The Contours of Timbre in Rebecca Saunders's Fury II, <strong>Ash Mach</strong></li>	
       <li>Colouring Shapes and Forms: Timbral and Orchestrational Strategies in the Serial Works of Elisabeth Lutyens, <strong>Aidan McGartland</strong></li>
       <li>Hearing the Form, Seeing the Material: Global and Local Feature Correspondences Across Vision and Audition, <strong>Asterios Zacharakis & Amit Gur</strong></li>	
@@ -138,7 +138,7 @@ projects: []
       <li>Concrete Listening in Latent Space: Reduced Semantic Conditioning of Diffusion Transformers as a Compositional Strategy, <strong>David Piazza</strong></li>
       <li>Prony-Informed Percussion Orchestration: A Case Study in Elements of Adventure, <strong>Joseph Chang & Philippe Depalle</strong></li>
       <li>Timbre Discrimination in Drum Tom-Toms: An Approach Based on Audio Descriptors and Timbre Space, <strong>Carlos de Castro & Marcelo Gomes de Queiroz</strong></li>
-    </ul>
+    </ol>
   </td>
   </tr>
 
@@ -298,7 +298,7 @@ projects: []
   <tr>
     <td></td>
     <td colspan="2" style="text-align:left">
-     <ul style="font-size: 0.9em;">
+     <ol style="font-size: 0.9em;">
 	<li>Towards Embodied and Inclusive Crossmodal Experiences of Timbre and Music: User Perspectives of a New Vibrotactile Assistive Device, <strong>Alex Bégin, <u>Loonan Chauvette</u>, Jérémie Voix, Matthieu J. Guitton, & Andréanne Sharp</strong></li>
 	<li> Time-dependent Materials and Gesture in Timbral Shaping: Towards a Material-based Sonic Device, <strong>Maria Vittoria Agresti, Ernesto Di Maio, & Stefano Silvestri </strong></li>
 	<li>Play and Recognition in Mixed Instrumental Works, <strong>Nicholas Ma</strong></li>
@@ -309,7 +309,7 @@ projects: []
 	<li>Grounding Musical Intimacy in Timbre: Exploring a Conceptual Model of Intimate Listening, <strong>Yifan Huang, Martha de Francisco, & Stephen McAdams</strong></li>
 	<li>Creating a Timbral Monster: The Superclarinet of Martino’s Triple Concerto, <strong>Zac Brennan</strong></li>
 	<li>Timbre as a Pedagogical Tool for Students with Dyslexia in the Music Theory Classroom, <strong>Joy Anderson</strong></li>
-    </ul>
+    </ol>
     </td>
   </tr>
 
@@ -384,7 +384,7 @@ projects: []
       </ul>
     </td>
     <td>
-      <u>Session 16: Sounds of nature</u>
+      <u>Session 16: Appropriating sounds of nature</u>
       <ul style="font-size: 0.9em;">
         <li>16:45 -- Lithophonica: Timbral Explorations of Stones and Sticks, <strong>James Harley & Gayle Young</strong></li>
         <li>17:10 -- Timbre Across Species: Appropriating Bird Vocalizations in Contemporary Music, <strong>Matthieu Galliker</strong></li>
@@ -474,7 +474,7 @@ projects: []
  <tr>
     <td></td>
     <td colspan="2" style="text-align:left">
-     <ul style="font-size: 0.9em;">
+     <ol style="font-size: 0.9em;">
 	<li>Evaluation of Audio and Language Foundation Models on Timbre Cognition Tasks, <strong>Yorgos Velissaridis, György Fazekas, & Charalampos Saitis</strong></li>
 	<li>Transitivity and Timbre Similarity Judgment, <strong>Molly Jones & Sile O’Modhrain</strong></li>
 	<li>Memory for Musical Meaning Through Timbre Semantics, <strong>Susanne Sevcik</strong></li>
@@ -483,7 +483,7 @@ projects: []
 	<li>From Numbers to Practice: The Perceptual Reality of Neutral Intervals in Persian Tuning, <strong>Farzad Milani</strong></li>
 	<li>Is Everything Romantic?: Sonic Expressions of Gender in Hyperpop Vocal Production, <strong>Lilly Korkontzelos</strong></li>
 	<li>Invariant Instrumentation and the Effects of Shifted Vocal Performance on Screamed Deathcore Songs, <strong>Zachary Simonds </strong></li>
-    </ul>
+    </ol>
     </td>
   </tr>
 
