@@ -300,7 +300,6 @@ projects: []
     <td colspan="2" style="text-align:left">
      <ol style="font-size: 0.9em;">
 	<li>Towards Embodied and Inclusive Crossmodal Experiences of Timbre and Music: User Perspectives of a New Vibrotactile Assistive Device, <strong>Alex Bégin, <u>Loonan Chauvette</u>, Jérémie Voix, Matthieu J. Guitton, & Andréanne Sharp</strong></li>
-	<li> Time-dependent Materials and Gesture in Timbral Shaping: Towards a Material-based Sonic Device, <strong>Maria Vittoria Agresti, Ernesto Di Maio, & Stefano Silvestri </strong></li>
 	<li>Play and Recognition in Mixed Instrumental Works, <strong>Nicholas Ma</strong></li>
 	<li>Measuring Consistency in Explainable Synthetic Timbre Annotators, <strong>Peter McCabe, Alec Krsek, &Patrick J. Donnelly</strong></li>
 	<li>Learning Vocal Timbre Similarity for Personalized Singer Matching and Song Recommendation, <strong>Jiaxing Yu, Yingping Cao, Ziyi Huang, Yuhang Jin, Shuyu Li1, & Kejun Zhang</strong></li>
@@ -430,11 +429,11 @@ projects: []
       </ul>
     </td>
     <td>
-      <u>Session 18: Orchestrating and analyzing the musical scene</u>
+      <u>Session 18: Bridging acoustics and electronics</u>
       <ul style="font-size: 0.9em;">
         <li>9:00 -- Satellites: Orbiting Composer and Performer Insights on Timbre in a Work for Piano and Electronics, <strong>Hubert Ho &  Matthew Schumaker</strong></li>
         <li>9:25 -- Unplugged Electronics and Expansive Orchestration for a New Guitar Concerto, <strong>Marc Garcia-Vitoria</strong></li>
-        <li>9:50 -- 
+        <li>9:50 -- Bell Timbres as Compositional Framework: Acoustic, Algorithmic, and Formalized Approaches, <strong>Dongryul Lee</strong></li>
       </ul>
     </td>
   </tr>
@@ -461,7 +460,7 @@ projects: []
         <li>10:35 -- Cross-Cultural and Cross-Medium Timbre in Contemporary Music, <strong>Bike Oner</strong> [V]</li>
         <li>10:45 -- Composer-performers interaction in pieces featuring specific instruments: a case study of Essai de coexistence sonore for electroacoustic guitar, Karlax, and double bass, <strong>Benjamin Lavastre, Mael Oudin & Andrea Gozzi</strong></li>
         <li>11:10 -- Orchestrating Timbre with Interaction Scenarios, <strong>Frédéric Roverselli</strong></li>
-        <li>11:35 -- Bell Timbres as Compositional Framework: Acoustic, Algorithmic, and Formalized Approaches, <strong>Dongryul Lee</strong></li>
+        <li>11:35 -- Time-dependent Materials and Gesture in Timbral Shaping: Towards a Material-based Sonic Device, <strong>Maria Vittoria Agresti, Ernesto Di Maio, & Stefano Silvestri </strong></li>
       </ul>
     </td>
   </tr>
