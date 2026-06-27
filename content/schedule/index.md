@@ -273,8 +273,8 @@ projects: []
        <p style="font-size: 0.9em;">
         <br>10:35 -- Listening to Demonstrations: Timbral Perspectives on Urban Crowd Sound, <strong>Kamyar Karimi, Alice Jarry & Gabriel Vigliensoni</strong> [LT]
         <br>10:45 -- Timbre as Exposure: Fragility, Proximity, and the Audibility of the Body, <strong>Hee Seng Kye</strong>
-        <br>11:10 -- Timbre as a Combination of Its Source and Contents: A Phenomenological Metaphor-Based Framework for Analysing Timbre in Musical Works, <strong>Matt Collins</strong>
-        <br>11:35 -- Toward a Lachenmannian Phenomenology in the Music of Lachenmann, Saunders, and Iannotta, <strong>Zachary Bernstein</strong>
+        <br>11:11 -- Toward a Lachenmannian Phenomenology in the Music of Lachenmann, Saunders, and Iannotta, <strong>Zachary Bernstein</strong>
+        <br>11:35 -- Timbre as a Combination of Its Source and Contents: A Phenomenological Metaphor-Based Framework for Analysing Timbre in Musical Works, <strong>Matt Collins</strong>
       </p>
     </td>
      <td>
