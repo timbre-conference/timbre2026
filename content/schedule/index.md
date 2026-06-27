@@ -298,7 +298,7 @@ projects: []
      <ol style="font-size: 0.9em;">
 	<li>Towards Embodied and Inclusive Crossmodal Experiences of Timbre and Music: User Perspectives of a New Vibrotactile Assistive Device, <strong>Alex Bégin, <u>Loonan Chauvette</u>, Jérémie Voix, Matthieu J. Guitton, & Andréanne Sharp</strong></li>
 	<li>Play and Recognition in Mixed Instrumental Works, <strong>Nicholas Ma</strong></li>
-	<li>Measuring Consistency in Explainable Synthetic Timbre Annotators, <strong>Peter McCabe, Alec Krsek, &Patrick J. Donnelly</strong></li>
+	<li>Measuring Consistency in Explainable Synthetic Timbre Annotators, <strong>Peter McCabe, Alec Krsek & Patrick Donnelly</strong></li>
 	<li>Learning Vocal Timbre Similarity for Personalized Singer Matching and Song Recommendation, <strong>Jiaxing Yu, Yingping Cao, Ziyi Huang, Yuhang Jin, Shuyu Li1, & Kejun Zhang</strong></li>
 	<li>Investigating "Timbre Tagging" of Pitch Structure in a Statistical Learning Paradigm, <strong>Adam Andrew Garrow & Marcus Thomas Pearce</strong></li>
 	<li>Everyday Sounds as Emotional Catalysts: A Research-Creation Study in Contemporary Music, <strong>Jonas Regnier, Yifan Huang, & Stephen McAdams</strong></li>
