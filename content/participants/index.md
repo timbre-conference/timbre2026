@@ -266,7 +266,7 @@ projects: []
   <td>Graduate Student</td>
   <td>Simon Fraser University</td>
   <td>BC</td>
-  <td>Artistic Report - Presenter</td>
+  <td>Artistic Report + Concert (acousmatic + electronic percussion) – Presenter</td>
 </tr>
 
 <!-- Université de Moncton -->
@@ -455,7 +455,7 @@ projects: []
   <td><u>Name</u></td>
   <td><u>Status</u></td>
   <td><u>Home institution</u></td>
-  <td><u>Province</u></td>
+  <td><u>State</u></td>
   <td><u>Role</u></td>
 </tr>
 
@@ -1027,7 +1027,7 @@ projects: []
 
 <tr>
   <td>Siavosh Banihashemi</td>
-  <td>Professor/Researcher</td>
+  <td>Researcher</td>
   <td>University of Graz</td>
   <td>Austria</td>
   <td>Oral Presentation - Presenter</td>
