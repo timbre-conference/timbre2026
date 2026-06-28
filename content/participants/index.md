@@ -76,7 +76,7 @@ projects: []
   <td>Graduate Student</td>
   <td>Concordia University</td>
   <td>QC</td>
-  <td>Poster Presentation - Presenter</td>
+  <td>Oral Presentation - Presenter</td>
 </tr>
 
 <!-- CERVO -->
@@ -886,7 +886,7 @@ projects: []
   <td>Independent Researcher/Artist</td>
   <td>Accademia di Belle Arti, Naples</td>
   <td>Italy</td>
-  <td>Poster Presentation - Co-author</td>
+  <td>Oral Presentation - Co-author</td>
 </tr>
 
 <tr>
