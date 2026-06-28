@@ -424,7 +424,7 @@ projects: []
       </p>
     </td>
     <td>
-      <u>Session 18: Artistic reports - Bridging acoustics and electronics</u>
+      <u>Session 18: Artistic reports - Bridging acoustics and electronics</u> - Chair: Ingrid Pustijanac
        <p style="font-size: 0.9em;">
         <br>9:00 -- Satellites: Orbiting Composer and Performer Insights on Timbre in a Work for Piano and Electronics, <strong>Hubert Ho &  Matthew Schumaker</strong>
         <br>9:25 -- Unplugged Electronics and Expansive Orchestration for a New Guitar Concerto, <strong>Marc Garcia-Vitoria</strong>
