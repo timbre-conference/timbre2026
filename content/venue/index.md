@@ -39,7 +39,7 @@ projects: []
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2796.0231799769163!2d-73.6119287!3d45.509612!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc919892bab456f%3A0xaea8188abc56afda!2sUniversit%C3%A9%20de%20Montr%C3%A9al%20-%20Facult%C3%A9%20de%20musique!5e0!3m2!1sfr!2sca!4v1773935390113!5m2!1sfr!2sca" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-{{< figure src="Plan_Timbre2026_p1.png" alt="Plan Timbre2026 p1" width="100%" >}}
+</div>
+</div>
 
-</div>
-</div>
+{{< figure src="Plan_Timbre2026_p1.png" alt="Plan Timbre2026 p1" width="100%" >}}
