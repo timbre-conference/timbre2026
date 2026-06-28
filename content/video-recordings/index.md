@@ -18,3 +18,6 @@ image:
 
 projects: []
 ---
+
+Conference Youtube channel : https://www.youtube.com/@TimbreConference2026
+ 
