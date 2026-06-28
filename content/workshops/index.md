@@ -59,7 +59,7 @@ Room A-512, Elizabeth Wirth Music Building<br>
 527 Sherbrooke Street West (enter via 3rd Floor)
 {style="margin-top: 0; margin-bottom: 1.5rem;"}
 
-### The Heart of Timbre on the Violin: Where the Craft of the Luthier meets that of the Musician
+### At The Heart of Violin Timbre: Where the Craft of the Luthier meets that of the Musician
 {style="color: var(--darkBlue); font-size: 1.5em;"}
 
 <span id="barbedette"></span>
