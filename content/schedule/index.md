@@ -441,7 +441,7 @@ projects: []
   <tr>
     <td>10:35 - 12:00</td>
     <td>
-      <u>Session 19: Perception, imagery and memory</u>
+      <u>Session 19: Perception, imagery and memory</u> - Chair: Lena Heng
        <p style="font-size: 0.9em;">
         <br>10:35 -- Can Instrumentation Predict Pitch-Class Profiles?, <strong>Noah Kahrs</strong> [LT]
         <br>10:45 -- Timbral imagery for instrumental dyads, <strong>Linglan Zhu</strong>
@@ -529,7 +529,7 @@ projects: []
       </p>
     </td>
     <td>
-      <u>Session 24: Timbre in contemporary music</u>
+      <u>Session 24: Timbre in contemporary music</u> - Chair: Stephen McAdams
       <p style="font-size: 0.9em;">
         <br>14:50 -- Timbre as Structure: Case Study of Georg Friedrich Haas's 11.000 Saiten, <strong>Isabel Keleti</strong> [LT]
         <br>15:00 -- Composing for the Liminare Spectral Organ, <strong>Louis-Michel Tougas</strong>
