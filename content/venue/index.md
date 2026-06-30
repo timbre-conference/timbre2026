@@ -42,4 +42,5 @@ projects: []
 </div>
 </div>
 
+<span id="Plan_Fac_Mus"></span>
 {{< figure src="Plan_Timbre2026_p1.png" alt="Plan Timbre2026 p1" width="100%" >}}
