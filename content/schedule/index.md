@@ -102,9 +102,9 @@ projects: []
       <u>Session 3: Extended techniques</u> - Chair: Nathalie Hérold
       <p style="font-size: 0.9em;">
         <br>10:45 -- Classifying String Instrument Preparation Techniques: Analysis, Taxonomies, and Applications in Computer-Aided Orchestration, <strong>Maurizio Azzan & Luca Guidarini</strong> [V] </li>
-        <br>10:55 -- Analyzing String Instrument Preparation Techniques in Context: Timbral Space, Syntax and Form, <strong>Ingrid Pustijanac & Michele Leggieri</strong></li>
-        <br>11:20 -- Hearing The Unconventional: A Study of Perceptual Fusion of Extended Techniques in Contemporary Classical Music, <strong>Jia Yi Lee & Jenine Brown</strong> [V]</li>
-        <br>11:30 -- Applying Timbre Analysis in the Performance of Chamber Music with Timpani and Cello, <strong>Manuel López Tovar</strong></li>
+        <br>10:50 -- Analyzing String Instrument Preparation Techniques in Context: Timbral Space, Syntax and Form, <strong>Ingrid Pustijanac & Michele Leggieri</strong></li>
+        <br>11:15 -- Hearing The Unconventional: A Study of Perceptual Fusion of Extended Techniques in Contemporary Classical Music, <strong>Jia Yi Lee & Jenine Brown</strong></li>
+        <br>11:35 -- Applying Timbre Analysis in the Performance of Chamber Music with Timpani and Cello, <strong>Manuel López Tovar</strong></li>
       </p>
     </td>
      <td>
@@ -163,7 +163,16 @@ projects: []
       <p style="font-size: 0.9em;">
         <br>13:20 -- Introduction
 	 <br>13:25 -- Cat In Loop: A Case Study On Timbre, Imagination And AI, <strong>Weilu Ge</strong> & <strong>Nithya Shikarpur</strong>
-	 <br>13:50 -- Timbre at the Interface: Negotiating Audio Representations in the Age of Artificial Creativity, <strong>panel</strong> led by <strong>Charalampos Saitis</strong> with <strong>Kai Siedenburg</strong>, <strong>Landon Morrison</strong>, <strong><a href="/timbre2026/workshops/#thibault">Dominic Thibault</a></strong>, <strong>Hee Seng Kye</strong>, <strong>Weilu Ge</strong>, <strong>Nithya Shikarpur</strong>, <strong>Steven Lewis</strong>
+	 <br>13:50 -- Timbre at the Interface: Negotiating Audio Representations in the Age of Artificial Creativity, <strong>panel</strong> led 	by <strong>Charalampos Saitis</strong> with 
+	<ul>
+	<li><strong>Weilu Ge</strong>, </li>
+	<li><strong>Steven Lewis</strong>, </li>
+	<li><strong>Landon Morrison</strong>, </li> 
+	<li><strong>Hee Seng Kye</strong>, </li>
+	<li><strong>Nithya Shikarpur</strong>, </li>
+	<li><strong>Kai Siedenburg</strong>, </li>
+	<li><strong><a href="/timbre2026/workshops/#thibault">Dominic Thibault</a></strong>, </li>
+	</ul>
         </p>
     </td>
   </tr>
@@ -348,7 +357,7 @@ projects: []
       </p>
     </td>
     <td>
-      <u>Session 14: Communicating about timbre</u> - Chair : Stephen McAdams
+      <u>Session 14: Communicating about timbre</u> - Chair: Joshua Rosner
        <p style="font-size: 0.9em;">
         <br>14:40 -- A Multi-Space Hierarchical Timbre Model: Perceptually Grounded Prediction of Timbral Similarity, <strong>Siavosh Banihashemi</strong>
         <br>15:05 -- From Terms to Concepts: Towards an Epistemology of North-American Timbre Theory and Analysis of the Mid-1970s, <strong>Nathalie Hérold</strong>
@@ -453,7 +462,7 @@ projects: []
       <u>Session 20: Timbre and interaction in contemporary music</u> - Chair: Dominic Thibault
        <p style="font-size: 0.9em;">
         <br>10:35 -- Cross-Cultural and Cross-Medium Timbre in Contemporary Music, <strong>Bike Oner</strong> [V]
-        <br>10:45 -- Composer-performers interaction in pieces featuring specific instruments: a case study of Essai de coexistence sonore for electroacoustic guitar, Karlax, and double bass, <strong>Benjamin Lavastre, Mael Oudin & Andrea Gozzi</strong>
+        <br>10:40 -- Composer-performers interaction in pieces featuring specific instruments: a case study of Essai de coexistence sonore for electroacoustic guitar, Karlax, and double bass, <strong>Benjamin Lavastre, Mael Oudin & Andrea Gozzi</strong>
         <br>11:10 -- Orchestrating Timbre with Interaction Scenarios, <strong>Frédéric Roverselli</strong>
         <br>11:35 -- Time-dependent Materials and Gesture in Timbral Shaping: Towards a Material-based Sonic Device, <strong>Maria Vittoria Agresti, Ernesto Di Maio, & Stefano Silvestri </strong>
       </p>
@@ -557,7 +566,7 @@ projects: []
   </tr>
 
   <tr>
-    <td>17:10 - 17:30</td>
+    <td>17:05 - 17:30</td>
     <td colspan="2" style="text-align:center">Closing remarks</td>
   </tr>
 
