@@ -379,7 +379,7 @@ projects: []
   <tr>
     <td>16:45 - 18:00</td>
     <td>
-      <u>Session 15: Emotions and intimacy</u>
+      <u>Session 15: Emotions and intimacy</u> - Chair: Gina Fatone
        <p style="font-size: 0.9em;">
         <br>16:45 -- Emotions in Song and Speech: Acoustic Features Underlying the Multidimensional Space of Perceived Emotions, <strong>Lena Heng & Annabel Cohen</strong>
         <br>17:10 -- Timbre as a Compositional and Relational Tool in an Immersive Contemporary Music Performance for Infants (0–2 years), <strong>Anne Chabot-Bucchi & Joshua Bucchi</strong>
@@ -387,7 +387,7 @@ projects: []
       </p>
     </td>
     <td>
-      <u>Session 16: Appropriating sounds of nature</u>
+      <u>Session 16: Appropriating sounds of nature</u> - Chair: 
        <p style="font-size: 0.9em;">
         <br>16:45 -- Lithophonica: Timbral Explorations of Stones and Sticks, <strong>James Harley & Gayle Young</strong>
         <br>17:10 -- Timbre Across Species: Appropriating Bird Vocalizations in Contemporary Music, <strong>Matthieu Galliker</strong>

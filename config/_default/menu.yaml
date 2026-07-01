@@ -73,6 +73,11 @@ main:
     url: "concert/"
     weight: 60
 
+  - name: Installation
+    parent: "program"
+    url: "installation/"
+    weight: 62
+
   - name: Workshops
     parent: "program"
     url: "workshops/"

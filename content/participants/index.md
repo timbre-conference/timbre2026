@@ -963,7 +963,7 @@ projects: []
 
 <tr>
   <td>Hyun-Hwa Cho</td>
-  <td>Professor/Researcher</td>
+  <td>Graduate student</td>
   <td>LAM-IJLRDA Sorbonne Université</td>
   <td>France</td>
   <td>Oral Presentation - Presenter</td>
