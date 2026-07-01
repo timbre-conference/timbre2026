@@ -387,10 +387,10 @@ projects: []
       </p>
     </td>
     <td>
-      <u>Session 16: Appropriating sounds of nature</u> - Chair: 
+      <u>Session 16: Appropriating sounds of nature</u> - Chair: Rebecca Moranis
        <p style="font-size: 0.9em;">
         <br>16:45 -- Lithophonica: Timbral Explorations of Stones and Sticks, <strong>James Harley & Gayle Young</strong>
-        <br>17:10 -- Timbre Across Species: Appropriating Bird Vocalizations in Contemporary Music, <strong>Matthieu Galliker</strong>
+        <br>17:10 -- Timbre Across Species: Appropriating Bird Vocalizations in Contemporary Music, <strong>Matthieu Galliker, Jimmie LeBlanc, Caroline Traube</strong>
         <br>17:35 -- Ethereality in Jennifer Higdon's Early Works, <strong>Laura Dallman</strong>
       </p>
     </td>
