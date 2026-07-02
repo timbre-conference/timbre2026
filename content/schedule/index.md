@@ -528,7 +528,7 @@ projects: []
       <u>Session 23: Timbre in popular music</u> - Chair: Zachary Wallmark
        <p style="font-size: 0.9em;">
         <br>14:50 -- 
-        <br>15:00 -- Analyzing Studio Orchestration through the Hybrid Sound of Michel Legrand, <strong>Mael Oudin</strong>
+        <br>15:00 -- Analyzing Studio Orchestration in the Music of Michel Legrand, <strong>Mael Oudin</strong>
         <br>15:25 -- Exertion Narratives in Pop Music Production, <strong>Will Mason</strong></li>
        </p>
        <em>10 min. break</em>
@@ -580,7 +580,7 @@ projects: []
     <td></td>
     <td colspan="2">
       <ul style="font-size: 0.9em;">
-  	<li><strong>Mael Oudin</strong> — <em>Essai de coexistence sonore</em> (karlax & double bass)</li> -- performed by <strong>Benjamin Lavastre</strong></li>
+  	<li><strong>Mael Oudin</strong> — <em>Essai de coexistence sonore</em> (karlax & double bass)</li> -- performed by <strong>Mael Oudin and Benjamin Lavastre</strong></li>
   	<li><strong>Arja Kastinen</strong> - <em>On the shoulders of the Great Bear</em> (Kantele)</li>
   	<li><strong>Keon Ju Maverick Lee</strong> — <em>Resonance and Depth</em> (acousmatic)</li>
   	<li><strong>Gaël Moriceau</strong> — <em>Harmonic Turbulences</em> (T-Stick)</li>
