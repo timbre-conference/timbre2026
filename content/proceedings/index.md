@@ -30,6 +30,8 @@ projects: []
 ---
 
 Proceedings of Day 1 : [Sessions 1 to 8] (Timbre2026_Proceedings_Day1.pdf)
+
 Proceedings of Day 2 : [Sessions 9 to 16] (Timbre2026_Proceedings_Day2.pdf)
+
 Proceedings of Day 3 : [Sessions 17 to 24] (Timbre2026_Proceedings_Day3.pdf)
 
