@@ -55,7 +55,7 @@ the tinnitus with a suggested exterior soundscape.
 </p>
 
 <p style="font-size: 0.8em;">
-<strong>Thomas Augustin</strong> is a musician, songwriter, producer and arranger who has been active in the Quebec and international
+-- <strong>Thomas Augustin</strong> is a musician, songwriter, producer and arranger who has been active in the Quebec and international
 music scene for over 20 years. Hearing health has always been central to his concerns as a musician, a "situated" auditory
 being with a perspective different from that of others, considering the nature of hearing as a spectrum of diverse
 experiences. A candidate for a master’s degree in Composition et création sonore at Université de Montréal, he is specifically interested in tinnitus and is pursuing a reflection on the subjective process of auditory degeneration through sound installation works.
