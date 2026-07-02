@@ -149,7 +149,7 @@ projects: []
 
 <tr>
   <td>Stephen McAdams</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>McGill University</td>
   <td>QC</td>
   <td>Oral Presentation - Presenter</td>
@@ -157,7 +157,7 @@ projects: []
 
 <tr>
   <td>Christoph Neidhöfer</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>McGill University</td>
   <td>QC</td>
   <td>Oral Presentation - Presenter</td>
@@ -273,7 +273,7 @@ projects: []
 
 <tr>
   <td>Jason Noble</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Université de Moncton</td>
   <td>NB</td>
   <td>Oral Presentation - Presenter</td>
@@ -315,7 +315,7 @@ projects: []
 
 <tr>
   <td><a href="/timbre2026/concert/#normandeau">Robert Normandeau</a></td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Université de Montréal</td>
   <td>QC</td>
   <td>Artistic Report + Concert - Presenter</td>
@@ -365,7 +365,7 @@ projects: []
 
 <tr>
   <td>Eshantha Peiris</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>University of British Columbia</td>
   <td>BC</td>
   <td>Oral Presentation - Presenter</td>
@@ -375,7 +375,7 @@ projects: []
 
 <tr>
   <td>James Harley</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>University of Guelph</td>
   <td>ON</td>
   <td>Oral Presentation - Presenter</td>
@@ -385,7 +385,7 @@ projects: []
 
 <tr>
   <td>Anton Vishio</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>University of Toronto</td>
   <td>ON</td>
   <td>Oral Presentation - Presenter</td>
@@ -395,7 +395,7 @@ projects: []
 
 <tr>
   <td>Ajtony Csaba</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>University of Victoria</td>
   <td>BC</td>
   <td>Oral Presentation - Presenter</td>
@@ -405,7 +405,7 @@ projects: []
 
 <tr>
   <td>Lena Heng</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>St. Francis Xavier University</td>
   <td>NS</td>
   <td>Oral Presentation - Presenter; Poster Presentation - Co-author</td>
@@ -469,7 +469,7 @@ projects: []
 
 <tr>
   <td>Lindsey Reymore</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Arizona State University</td>
   <td>AZ</td>
   <td>Oral Presentation - Presenter</td>
@@ -477,7 +477,7 @@ projects: []
 
 <tr>
   <td>Gina Fatone</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Bates College</td>
   <td>ME</td>
   <td>Oral Presentation - Presenter</td>
@@ -485,7 +485,7 @@ projects: []
 
 <tr>
   <td>Jia Yi Lee</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Davidson College</td>
   <td>NC</td>
   <td>Oral Presentation - Presenter</td>
@@ -494,7 +494,7 @@ projects: []
 
 <tr>
   <td>Zachary Bernstein</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Eastman School of Music, University of Rochester</td>
   <td>NY</td>
   <td>Oral Presentation - Presenter</td>
@@ -519,7 +519,7 @@ projects: []
 
 <tr>
   <td>Megan Lavengood</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>George Mason University</td>
   <td>VA</td>
   <td>Oral Presentation - Presenter</td>
@@ -554,7 +554,7 @@ projects: []
 
 <tr>
   <td>Noah Kahrs</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Indiana University</td>
   <td>IN</td>
   <td>Lightning Talk - Presenter</td>
@@ -563,7 +563,7 @@ projects: []
 
 <tr>
   <td>Dongryul Lee</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Loyola University Chicago</td>
   <td>IL</td>
   <td>Oral Presentation - Presenter</td>
@@ -595,7 +595,7 @@ projects: []
 
 <tr>
   <td><a href="/timbre2026/concert/#ho">Hubert Ho</a></td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Northeastern University</td>
   <td>MA</td>
   <td>Oral Presentation - Co-author; Concert Performer (Piano)</td>
@@ -619,7 +619,7 @@ projects: []
 
 <tr>
   <td>Will Mason</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Skidmore College</td>
   <td>NY</td>
   <td>Oral Presentation - Presenter</td>
@@ -627,7 +627,7 @@ projects: []
 
 <tr>
   <td>Tracy Lipke-Perry</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>State University of New York at Potsdam</td>
   <td>NY</td>
   <td>Oral Presentation - Presenter</td>
@@ -660,7 +660,7 @@ projects: []
 
 <tr>
   <td>Marcelo Caetano</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>UC San Diego</td>
   <td>CA</td>
   <td>Oral presentation - Remote presenter (video)</td>
@@ -676,7 +676,7 @@ projects: []
 
 <tr>
   <td>Roger Reynolds</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>UC San Diego Department of Music</td>
   <td>CA</td>
   <td>Oral Presentation - Presenter</td>
@@ -684,7 +684,7 @@ projects: []
 
 <tr>
   <td>Amy Bauer</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>University of California, Irvine</td>
   <td>CA</td>
   <td>Oral Presentation - Presenter</td>
@@ -692,7 +692,7 @@ projects: []
 
 <tr>
   <td><a href="/timbre2026/concert/#schumaker">Matt Schumaker</a></td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>University of California, Santa Cruz</td>
   <td>CA</td>
   <td>Oral Presentation - Presenter</td>
@@ -708,7 +708,7 @@ projects: []
 
 <tr>
   <td>Laura Dallman / Rorick</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>University of Florida</td>
   <td>FL</td>
   <td>Oral Presentation - Presenter</td>
@@ -732,7 +732,7 @@ projects: []
 
 <tr>
   <td>Steven Lewis</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>University of South Florida</td>
   <td>FL</td>
   <td>Poster Presentation - Presenter</td>
@@ -743,7 +743,7 @@ projects: []
   <td>Graduate Student</td>
   <td>University of Texas at Austin</td>
   <td>TX</td>
-  <td>Lightning Talk - Presenter</td>
+  <td>Oral presentation - Remote presenter (video)</td>
 </tr>
 
 
@@ -757,10 +757,10 @@ projects: []
 
 <tr>
   <td>Jason Winikoff</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Worcester Polytechnic Institute</td>
   <td>MA</td>
-  <td>Lightning Talk - Presenter</td>
+  <td>Oral presentation - Remote presenter (video)</td>
 </tr>
 
 </tbody>
@@ -793,18 +793,10 @@ projects: []
 
 <tr>
   <td>Ali Chamseddine</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Higher Institute of Arts and Crafts of Gabes, University of Gabes</td>
   <td>Tunisia</td>
-  <td>Lightning Talk - Presenter</td>
-</tr>
-
-<tr>
-  <td>Sunday Olufemi Akande</td>
-  <td>Professor/Researcher</td>
-  <td>Olabisi Onabanjo University (Ago-Iwoye)</td>
-  <td>Nigeria</td>
-  <td>Lightning Talk - Presenter</td>
+  <td>Oral presentation - Remote presenter (video)</td>
 </tr>
 
 </tbody>
@@ -838,7 +830,7 @@ projects: []
 
 <tr>
   <td>Hee Seng Kye</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Hanyang University</td>
   <td>South Korea</td>
   <td>Panelist; Oral Presentation - Presenter</td>
@@ -849,7 +841,7 @@ projects: []
   <td>Graduate Student</td>
   <td>University of the Philippines</td>
   <td>Philippines</td>
-  <td>Lightning Talk - Presenter</td>
+  <td>Oral presentation - Remote presenter (video)</td>
 </tr>
 
 <tr>
@@ -899,7 +891,7 @@ projects: []
 
 <tr>
   <td>Asterios Zacharakis</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Aristotle University of Thessaloniki</td>
   <td>Greece</td>
   <td>Oral Presentation - Presenter; Poster Presentation - Presenter</td>
@@ -907,7 +899,7 @@ projects: []
 
 <tr>
   <td>Nicola Bizzo</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>CESEM - University of Lisbon</td>
   <td>Portugal</td>
   <td>Oral Presentation - Presenter</td>
@@ -915,7 +907,7 @@ projects: []
 
 <tr>
   <td>Jean Geoffroy</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>CNSMD DE LYON</td>
   <td>France</td>
   <td>Oral Presentation - Presenter</td>
@@ -923,7 +915,7 @@ projects: []
 
 <tr>
   <td>Kristin Jonzon</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Centre for Swedish Folk Music and Jazz Research</td>
   <td>Sweden</td>
   <td>Oral Presentation - Presenter</td>
@@ -931,7 +923,7 @@ projects: []
 
 <tr>
   <td>Maurizio Azzan</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Conservatorio L. Campiani di Mantova</td>
   <td>Italy</td>
   <td>Oral Presentation - Presenter</td>
@@ -947,7 +939,7 @@ projects: []
 
 <tr>
   <td>Michel Bürgel</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Institute of Music, Carl von Ossietzky University Oldenburg</td>
   <td>Germany</td>
   <td>Oral Presentation - Presenter</td>
@@ -955,7 +947,7 @@ projects: []
 
 <tr>
   <td>Kai Siedenburg</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Institute of Music, Carl von Ossietzky University Oldenburg</td>
   <td>Germany</td>
   <td>Panelist; Oral Presentation - Presenter; Poster Presentation - Co-author</td>
@@ -979,7 +971,7 @@ projects: []
 
 <tr>
   <td>James Bagshaw</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Leeds Arts University</td>
   <td>United Kingdom</td>
   <td>Oral Presentation - Presenter</td>
@@ -995,7 +987,7 @@ projects: []
 
 <tr>
   <td>Charalampos Saitis</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Centre for Digital Music, Queen Mary University of London</td>
   <td>United Kingdom</td>
   <td>Panel Moderator; Poster Presentation - Co-author</td>
@@ -1011,7 +1003,7 @@ projects: []
 
 <tr>
   <td>Nathalie Hérold</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Sorbonne University/IReMus</td>
   <td>France</td>
   <td>Oral Presentation - Presenter</td>
@@ -1027,7 +1019,7 @@ projects: []
 
 <tr>
   <td>Mondher Ayari</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Université de Strabourg & Ircam-CNRS</td>
   <td>France</td>
   <td>Oral Presentation - Presenter</td>
@@ -1043,7 +1035,7 @@ projects: []
 
 <tr>
   <td>Mark Higgins</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>University of Liverpool / University of Bristol</td>
   <td>United Kingdom</td>
   <td>Oral Presentation - Presenter</td>
@@ -1051,7 +1043,7 @@ projects: []
 
 <tr>
   <td>Ingrid Pustijanac</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>University of Pavia</td>
   <td>Italy</td>
   <td>Oral Presentation - Presenter</td>
@@ -1096,7 +1088,7 @@ projects: []
 
 <tr>
   <td>Igor Maia</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Federal University of Minas Gerais</td>
   <td>Brazil</td>
   <td>Oral Presentation - Co-author; Poster Presentation - Co-author</td>
@@ -1112,7 +1104,7 @@ projects: []
 
 <tr>
   <td>Patricio de la Cuadra</td>
-  <td>Professor/Researcher</td>
+  <td>Professor</td>
   <td>Pontificia Universidad Católica de Chile</td>
   <td>Chile</td>
   <td>Oral Presentation - Presenter</td>
