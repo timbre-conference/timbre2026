@@ -29,16 +29,7 @@ image:
 projects: []
 ---
 
-Dear conference participants, 
+Proceedings of Day 1 : [Sessions 1 to 8] (Timbre2026_Proceedings_Day1.pdf)
+Proceedings of Day 2 : [Sessions 9 to 16] (Timbre2026_Proceedings_Day2.pdf)
+Proceedings of Day 3 : [Sessions 17 to 24] (Timbre2026_Proceedings_Day3.pdf)
 
-The online proceedings will include an abstract or a longer paper for each presentation.
-
-Your submission may consist of a revised version of the abstract you initially submitted taking into account the reviewers’ comments. Alternatively you may expand this abstract into a longer paper of up to four pages including figures references and any additional materials.
-
-The minimum length of your text should be between 500 and 700 words (approximately 4,000 characters) in line with the originally submitted abstract.
-
-Please use this [Word document](template_for_proceedings_timbre_2026.docx) to format your text for inclusion in the online proceeding. 
-
-The deadline for submitting the camera-ready abstract/paper is Friday, May 15, 2026. 
-
-Please send your text to timbreconference@gmail.com. 

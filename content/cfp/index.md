@@ -115,3 +115,17 @@ Timbre 2026 invites submissions in the following formats.
 For all of the formats above, please submit an abstract of a maximum of 4000 characters (500 to 700 words), to be accompanied with a list of references, through [this form](https://forms.office.com/r/QmkRrnRCH2) by January 15, 2026. Proposals will be evaluated anonymously and abstracts should not include any indication of the author’s identity. References to the author’s own work should be in the third person. 
 
 We particularly encourage submissions from “newcomers” (masters or early-stage doctoral students) and scholars from underrepresented groups.
+
+<h3>Proceedings</h3>
+
+The online proceedings will include an abstract or a longer paper for each presentation.
+
+Your submission may consist of a revised version of the abstract you initially submitted taking into account the reviewers’ comments. Alternatively you may expand this abstract into a longer paper of up to four pages including figures references and any additional materials.
+
+The minimum length of your text should be between 500 and 700 words (approximately 4,000 characters) in line with the originally submitted abstract.
+
+Please use this [Word document](template_for_proceedings_timbre_2026.docx) to format your text for inclusion in the online proceeding. 
+
+The deadline for submitting the camera-ready abstract/paper is Friday, May 15, 2026. 
+
+Please send your text to timbreconference@gmail.com. 
