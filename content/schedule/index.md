@@ -486,7 +486,6 @@ projects: []
 	<li>From Numbers to Practice: The Perceptual Reality of Neutral Intervals in Persian Tuning, <strong>Farzad Milani</strong></li>
 	<li>Is Everything Romantic?: Sonic Expressions of Gender in Hyperpop Vocal Production, <strong>Lilly Korkontzelos</strong></li>
 	<li>Invariant Instrumentation and the Effects of Shifted Vocal Performance on Screamed Deathcore Songs, <strong>Zachary Simonds </strong></li>
-	<li>Orchestration of Polyrhythms in Hiatus Kaiyote's Music, <strong>Kelsey Lussier</strong></li>
     </ol>
     </td>
   </tr>
@@ -527,7 +526,7 @@ projects: []
     <td>
       <u>Session 23: Timbre in popular music</u> - Chair: Zachary Wallmark
        <p style="font-size: 0.9em;">
-        <br>14:50 -- 
+        <br>14:50 -- Orchestration of Polyrhythms in Hiatus Kaiyote's Music, <strong>Kelsey Lussier</strong>
         <br>15:00 -- Analyzing Studio Orchestration in the Music of Michel Legrand, <strong>Mael Oudin</strong>
         <br>15:25 -- Exertion Narratives in Pop Music Production, <strong>Will Mason</strong></li>
        </p>
