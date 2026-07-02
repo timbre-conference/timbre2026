@@ -663,7 +663,15 @@ projects: []
   <td>Professor/Researcher</td>
   <td>UC San Diego</td>
   <td>CA</td>
-  <td>Lightning Talk - Presenter</td>
+  <td>Oral presentation - Remote presenter (video)</td>
+</tr>
+
+<tr>
+  <td>Paul Hembree</td>
+  <td></td>
+  <td>UC San Diego Department of Music</td>
+  <td>CA</td>
+  <td>Oral Presentation - co-presenter</td>
 </tr>
 
 <tr>
