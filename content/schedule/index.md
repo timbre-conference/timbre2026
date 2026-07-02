@@ -549,7 +549,7 @@ projects: []
        <br>
         <p style="font-size: 0.9em;">
         <br>16:00 -- “From Inner to Outershadow”: Ensemble Coherence in Recent Works for Oboe and Strings, <strong>Anton Vishio</strong>
-        <br>16:25 -- Double-Reed Multiphonics: Their Character, Stability, and Potential for Integration With Heterogeneous Instrumental Ensembles, <strong>Roger Reynolds</strong>
+        <br>16:25 -- Double-Reed Multiphonics: Their Character, Stability, and Potential for Integration With Heterogeneous Instrumental Ensembles, <strong>Roger Reynolds & Paul Hembree</strong>
       </p>
     </td>
   </tr>
