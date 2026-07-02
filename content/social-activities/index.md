@@ -31,11 +31,11 @@ projects: []
 
 We have made arrangements for a conference dinner at <a href="https://www.restaurantrumi.com/?lang=en">Rumi Restaurant</a>, on Friday July 3d, at 7:30 pm. 
 
-The cost of the dinner is CAD $55, plus taxes, tips, and beverages (in addition to Moroccan tea, which is included). Please note: This dinner is not included in the conference registration fees. Each participant will be responsible for paying for their own meal at the restaurant.
+The cost of the dinner is CAD $55, plus taxes, tips, and beverages (in addition to Moroccan tea, which is included). 
+
+Please note: This dinner is not included in the conference registration fees. Each participant will be responsible for paying for their own meal at the restaurant.
 
 To make a reservation (or to inform us that you can't make it), please fill this form which was sent by email. 
-
-Please note: This dinner is not included in the conference registration. Each participant will be responsible for paying for their own meal at the restaurant.
 
 Below is the family-style menu. 
 The dishes will be served in the center of each table for sharing.
