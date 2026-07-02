@@ -48,4 +48,4 @@ projects: []
 <br>
 
 <span id="Plan_Fac_Mus_Rooms"></span>
-{{< figure src="Plan_Timbre2026_p1.png" alt="Plan Timbre2026 p2" width="100%" >}}
+{{< figure src="Plan_Timbre2026_p2.png" alt="Plan Timbre2026 p2" width="100%" >}}
