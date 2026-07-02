@@ -64,7 +64,6 @@ Room A-512, Elizabeth Wirth Music Building<br>
 
 <span id="barbedette"></span>
 <strong><a href="https://barbedette-luthier.com/a_propos/en">Leïla Barbedette</a></strong>, Université de Montréal<br>
-<br>
 <strong>Luke Chiang</strong>, Université de Montréal 
 {style="margin-top: 0; margin-bottom: 1.5rem;"}
 
