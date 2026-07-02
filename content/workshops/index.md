@@ -40,8 +40,8 @@ Room A-512, Elizabeth Wirth Music Building<br>
 {style="color: var(--darkBlue); font-size: 1.5em;"}
 
 <span id="thibault"></span>
-<strong>Prof. Dominic Thibault</strong>, Université de Montréal<br>
-https://www.cirmmt.org/en/members/dominic-thibault
+<strong><a href="https://www.cirmmt.org/en/members/dominic-thibault">Prof. Dominic Thibault</a></strong>, Université de Montréal<br>
+
 {style="margin-top: 0; margin-bottom: 1.5rem;"}
 
 {{< figure src="thibault_mosaique.png" alt="Dominic Thibault, Mpsaïque Software" width="100%" >}}
