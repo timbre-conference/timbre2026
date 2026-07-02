@@ -165,13 +165,14 @@ projects: []
 	 <br>13:25 -- Cat In Loop: A Case Study On Timbre, Imagination And AI, <strong>Weilu Ge</strong> & <strong>Nithya Shikarpur</strong>
 	 <br>13:50 -- Timbre at the Interface: Negotiating Audio Representations in the Age of Artificial Creativity, <strong>panel</strong> led 	by <strong>Charalampos Saitis</strong> with 
 	<ul style="font-size: 0.9em;">
-	<li><strong>Weilu Ge</strong>, </li>
-	<li><strong>Steven Lewis</strong>, </li>
-	<li><strong>Landon Morrison</strong>, </li> 
-	<li><strong>Hee Seng Kye</strong>, </li>
-	<li><strong>Nithya Shikarpur</strong>, </li>
-	<li><strong>Kai Siedenburg</strong>, </li>
-	<li><strong><a href="/timbre2026/workshops/#thibault">Dominic Thibault</a></strong>, </li>
+	<li><strong>Weilu Ge</strong> </li>
+	<li><strong>Steven Lewis</strong> </li>
+	<li><strong>Landon Morrison</strong> </li> 
+	<li><strong>Hee Seng Kye</strong> </li>
+	<li><strong>Nithya Shikarpur</strong> </li>
+	<li><strong>Kai Siedenburg</strong> </li>
+	<li><strong><a href="/timbre2026/workshops/#thibault">Dominic Thibault</a></strong></li>
+    <li><strong>Sølvi Ystad</strong></li>
 	</ul>
         </p>
     </td>
