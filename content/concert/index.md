@@ -40,7 +40,10 @@ Salle Claude-Champagne, Faculté de musique, Université de Montréal
 
 <br>
 
-
+<p style="font-size: 0.8em;">
+Free entrance. 
+This concert is open to all.
+</p>
 
 <p style="font-size: 1.2em;">
 <strong>Program notes and biographies</strong>
