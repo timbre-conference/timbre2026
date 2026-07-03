@@ -24,18 +24,18 @@ July 4, 2026
 Salle Claude-Champagne, Faculté de musique, Université de Montréal
 
 <ul style="font-size: 0.9em;">
-  <li><strong>Mael Oudin</strong> — <em>Essai de coexistence sonore</em> (Karlax & double bass)</li> -- performed by <strong>Benjamin Lavastre</strong> (Karlax) & <strong>Mael Oudin</strong> (double bass)
-  <li><strong>Arja Kastinen</strong> - <em>On the shoulders of the Great Bear</em> (Kantele)</li>
-  <li><strong>Keon Ju Maverick Lee</strong> — <em>Resonance and Depth</em> (acousmatic)</li>
-  <li><strong>Gaël Moriceau</strong> — <em>Harmonic Turbulences</em> (T-Stick)</li>
+  <li><a href="/timbre2026/concert/#oudin"><strong>Mael Oudin</strong></a> — <em>Essai de coexistence sonore</em> (Karlax & double bass)</li> -- performed by <a href="/timbre2026/concert/#lavastre"><strong>Benjamin Lavastre</strong></a> (Karlax) & <strong>Mael Oudin</strong> (double bass)
+  <li><a href="/timbre2026/concert/#kastinen"><strong>Arja Kastinen</strong></a> — <em>On the shoulders of the Great Bear</em> (Kantele)</li>
+  <li><a href="/timbre2026/concert/#lee"><strong>Keon Ju Maverick Lee</strong></a> — <em>Resonance and Depth</em> (acousmatic)</li>
+  <li><a href="/timbre2026/concert/#moriceau"><strong>Gaël Moriceau</strong></a> — <em>Harmonic Turbulences</em> (T-Stick)</li>
 </ul>
 
 <p><em>Intermission</em></p>
 
 <ul style="font-size: 0.9em;">
-  <li><strong>Tarcísio Braga</strong> — <em>Tambor</em> (snare drum et electronics)</li>
-  <li><strong>Matt Schumaker</strong> — <em>Satellites</em> (piano & electronics)</li> -- performed by <strong>Hubert Ho</strong>
-  <li><strong>Robert Normandeau</strong> — <em>StrinGDberg</em> (acousmatic)</li>
+  <li><a href="/timbre2026/concert/#braga"><strong>Tarcísio Braga</strong></a> — <em>Tambor</em> (snare drum et electronics)</li>
+  <li><a href="/timbre2026/concert/#schumaker"><strong>Matt Schumaker</strong></a> — <em>Satellites</em> (piano & electronics)</li> -- performed by <a href="/timbre2026/concert/#ho"><strong>Hubert Ho</strong></a>
+  <li><a href="/timbre2026/concert/#normandeau"><strong>Robert Normandeau</strong></a> — <em>StrinGDberg</em> (acousmatic)</li>
 </ul>
 
 <br>
